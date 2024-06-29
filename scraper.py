@@ -47,7 +47,7 @@ for state in states:
         # constituency_name = soup.find('span').text.strip()
 
         # Create a folder for each state if it doesn't exist
-        state_folder = f"{state_name}_folder"
+        state_folder = f"{state_name}"
         if not os.path.exists(state_folder):
             os.makedirs(state_folder)
 
