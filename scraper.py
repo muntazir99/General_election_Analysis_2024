@@ -39,3 +39,23 @@ for state in states:
             writer = csv.writer(csvfile)
             writer.writerow(headers)
             writer.writerows(data)
+
+        print("Headers:", headers)
+        print("Data:", data)
+        # Extract state name and constituency/district name
+        state_name = soup.find('strong').text.strip()
+        # constituency_name = soup.find('span').text.strip()
+
+        # Create a folder for each state if it doesn't exist
+        state_folder = f"{state_name}_folder"
+        if not os.path.exists(state_folder):
+            os.makedirs(state_folder)
+
+        # Create a unique filename for each state
+        filename = f"{state_name}_{constituency_code}.csv"
+
+        # Write data to CSV file in the state folder
+        with open(os.path.join(state_folder, filename), 'a', newline='') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(headers)
+            writer.writerows(data)
