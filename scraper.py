@@ -13,9 +13,9 @@ for state in states:
     for constituency_code in range(1, 85):
         constituency_str = str(constituency_code)
         url = f"{base_url}{state}{constituency_str}.htm"
-        print("URL", url)
+        # print("URL", url)
         response = requests.get(url)
-        print("Response", response)
+        # print("Response", response)
         if response.status_code == 404:
             break
         
@@ -24,37 +24,53 @@ for state in states:
 
         table = soup.find('table')  # Find the table element
 
-        # Extract the table headers
+        # scrape table head
         headers = [th.text.strip() for th in table.find_all('th')]
 
-        # Extract the table data
+        #table data
         data = []
         for tr in table.find_all('tr'):
             row = [td.text.strip() for td in tr.find_all('td')]
             if row:
                 data.append(row)
 
-        # Write data to CSV file
+        # data to CSV file
         with open('output.csv', 'a', newline='') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(headers)
             writer.writerows(data)
 
-        print("Headers:", headers)
-        print("Data:", data)
-        # Extract state name and constituency/district name
-        state_name = soup.find('strong').text.strip()
-        # constituency_name = soup.find('span').text.strip()
+        # print("Headers:", headers)
+        # print("Data:", data)
+        # finding state name and constituency/district name
+        spans = soup.find_all('span')
+        constituency_names = []
+        for span in spans:
+            constituency_name = span.get_text(strip=True).split('(')[0].strip()
+            constituency_names.append(constituency_name) 
+        def extract_constituency(constituency_names):
+            for item in constituency_names:
+                if item:  # check if the string is not empty
+                    # split by ' - ' and take the second part, then remove whitespace
+                    constituency = item.split(' - ')[1].strip() if ' - ' in item else item
+                    return constituency 
+        
+        # cleaning state names and constituency names
+        constituency_n=extract_constituency(constituency_names)
+        state_name = soup.find('strong').get_text(strip=True).strip('()')
+        print("State:", state_name)
+        print("Constituency:", constituency_n)
 
-        # Create a folder for each state if it doesn't exist
-        state_folder = f"{state_name}"
+
+        #folder for each state if it doesn't exist
+        state_folder = f"data/{state_name}"
         if not os.path.exists(state_folder):
             os.makedirs(state_folder)
 
-        # Create a unique filename for each state
-        filename = f"{state_name}_{constituency_code}.csv"
+        #unique filename for each state
+        filename = f"{state_name}_{constituency_n}_{constituency_code}.csv"
 
-        # Write data to CSV file in the state folder
+        #data to CSV file in the state folder
         with open(os.path.join(state_folder, filename), 'a', newline='') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(headers)
