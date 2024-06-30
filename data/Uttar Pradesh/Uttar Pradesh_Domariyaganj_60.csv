@@ -1,8 +1,8 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,JAGDAMBIKA PAL,Bharatiya Janata Party,462614,689,463303,45.47,Uttar Pradesh,Domariyaganj
-2,BHISHMA SHANKAR ALIAS KUSHAL TIWARI,Samajwadi Party,418910,1665,420575,41.27,Uttar Pradesh,Domariyaganj
-3,AMAR SINGH CHAUDHARY,Aazad Samaj Party (Kanshi Ram),81182,123,81305,7.98,Uttar Pradesh,Domariyaganj
-4,MD. NADEEM,Bahujan Samaj Party,35654,282,35936,3.53,Uttar Pradesh,Domariyaganj
-5,NAUSHAD AZAM,Peace Party,5134,4,5138,0.5,Uttar Pradesh,Domariyaganj
-6,KIRAN DEVI,Independent,3258,3,3261,0.32,Uttar Pradesh,Domariyaganj
-7,NOTA,None of the Above,9431,16,9447,0.93,Uttar Pradesh,Domariyaganj
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,JAGDAMBIKA PAL,Bharatiya Janata Party,462614,689,463303,45.47,Uttar Pradesh,Domariyaganj,60
+2,BHISHMA SHANKAR ALIAS KUSHAL TIWARI,Samajwadi Party,418910,1665,420575,41.27,Uttar Pradesh,Domariyaganj,60
+3,AMAR SINGH CHAUDHARY,Aazad Samaj Party (Kanshi Ram),81182,123,81305,7.98,Uttar Pradesh,Domariyaganj,60
+4,MD. NADEEM,Bahujan Samaj Party,35654,282,35936,3.53,Uttar Pradesh,Domariyaganj,60
+5,NAUSHAD AZAM,Peace Party,5134,4,5138,0.5,Uttar Pradesh,Domariyaganj,60
+6,KIRAN DEVI,Independent,3258,3,3261,0.32,Uttar Pradesh,Domariyaganj,60
+7,NOTA,None of the Above,9431,16,9447,0.93,Uttar Pradesh,Domariyaganj,60

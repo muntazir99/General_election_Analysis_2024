@@ -1,13 +1,13 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,R.K. CHAUDHARY,Samajwadi Party,666560,1309,667869,48.49,Uttar Pradesh,Mohanlalganj
-2,KAUSHAL KISHORE,Bharatiya Janata Party,596197,1380,597577,43.38,Uttar Pradesh,Mohanlalganj
-3,RAJESH KUMAR,Bahujan Samaj Party,88257,204,88461,6.42,Uttar Pradesh,Mohanlalganj
-4,MAHENDRA,Independent,2654,7,2661,0.19,Uttar Pradesh,Mohanlalganj
-5,SUSHIL KUMAR,Independent,2626,1,2627,0.19,Uttar Pradesh,Mohanlalganj
-6,RAMESH KUMAR,Independent,1839,2,1841,0.13,Uttar Pradesh,Mohanlalganj
-7,SUNITA CHHEDA PASI,Aam Janta Party (India),1736,13,1749,0.13,Uttar Pradesh,Mohanlalganj
-8,S. L.SINGH,Peoples Party of India (Democratic),1711,6,1717,0.12,Uttar Pradesh,Mohanlalganj
-9,BRIJESH KUMAR VIKRAM,Rashtriya Samaj Paksha,1648,7,1655,0.12,Uttar Pradesh,Mohanlalganj
-10,JITENDRA KUMAR,Independent,1402,12,1414,0.1,Uttar Pradesh,Mohanlalganj
-11,SURAJ KUMAR,Sardar Patel Siddhant Party,1010,5,1015,0.07,Uttar Pradesh,Mohanlalganj
-12,NOTA,None of the Above,8838,28,8866,0.64,Uttar Pradesh,Mohanlalganj
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,R.K. CHAUDHARY,Samajwadi Party,666560,1309,667869,48.49,Uttar Pradesh,Mohanlalganj,34
+2,KAUSHAL KISHORE,Bharatiya Janata Party,596197,1380,597577,43.38,Uttar Pradesh,Mohanlalganj,34
+3,RAJESH KUMAR,Bahujan Samaj Party,88257,204,88461,6.42,Uttar Pradesh,Mohanlalganj,34
+4,MAHENDRA,Independent,2654,7,2661,0.19,Uttar Pradesh,Mohanlalganj,34
+5,SUSHIL KUMAR,Independent,2626,1,2627,0.19,Uttar Pradesh,Mohanlalganj,34
+6,RAMESH KUMAR,Independent,1839,2,1841,0.13,Uttar Pradesh,Mohanlalganj,34
+7,SUNITA CHHEDA PASI,Aam Janta Party (India),1736,13,1749,0.13,Uttar Pradesh,Mohanlalganj,34
+8,S. L.SINGH,Peoples Party of India (Democratic),1711,6,1717,0.12,Uttar Pradesh,Mohanlalganj,34
+9,BRIJESH KUMAR VIKRAM,Rashtriya Samaj Paksha,1648,7,1655,0.12,Uttar Pradesh,Mohanlalganj,34
+10,JITENDRA KUMAR,Independent,1402,12,1414,0.1,Uttar Pradesh,Mohanlalganj,34
+11,SURAJ KUMAR,Sardar Patel Siddhant Party,1010,5,1015,0.07,Uttar Pradesh,Mohanlalganj,34
+12,NOTA,None of the Above,8838,28,8866,0.64,Uttar Pradesh,Mohanlalganj,34

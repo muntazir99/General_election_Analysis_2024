@@ -1,8 +1,8 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DINESHBHAI MAKWANA (ADVOCATE),Bharatiya Janata Party,606545,5159,611704,63.28,Gujarat,Ahmedabad West
-2,BHARAT YOGENDRA MAKWANA,Indian National Congress,321972,3295,325267,33.65,Gujarat,Ahmedabad West
-3,ANILKUMAR VASANTBHAI VAGHELA,Bahujan Samaj Party,9448,152,9600,0.99,Gujarat,Ahmedabad West
-4,BHITORA BHAVESHKUMAR CHIMANLAL,Gujarat Loktantra Party,2443,15,2458,0.25,Gujarat,Ahmedabad West
-5,SHANKARBHAI KHUSHALBHAI RATHOD,Democratic Bharatiya Samaj Party,2345,44,2389,0.25,Gujarat,Ahmedabad West
-6,VEDUBHAI KAUTIKBHAI SIRASAT,Jan Sewa Driver Party,1214,7,1221,0.13,Gujarat,Ahmedabad West
-7,NOTA,None of the Above,13604,403,14007,1.45,Gujarat,Ahmedabad West
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DINESHBHAI MAKWANA (ADVOCATE),Bharatiya Janata Party,606545,5159,611704,63.28,Gujarat,Ahmedabad West,8
+2,BHARAT YOGENDRA MAKWANA,Indian National Congress,321972,3295,325267,33.65,Gujarat,Ahmedabad West,8
+3,ANILKUMAR VASANTBHAI VAGHELA,Bahujan Samaj Party,9448,152,9600,0.99,Gujarat,Ahmedabad West,8
+4,BHITORA BHAVESHKUMAR CHIMANLAL,Gujarat Loktantra Party,2443,15,2458,0.25,Gujarat,Ahmedabad West,8
+5,SHANKARBHAI KHUSHALBHAI RATHOD,Democratic Bharatiya Samaj Party,2345,44,2389,0.25,Gujarat,Ahmedabad West,8
+6,VEDUBHAI KAUTIKBHAI SIRASAT,Jan Sewa Driver Party,1214,7,1221,0.13,Gujarat,Ahmedabad West,8
+7,NOTA,None of the Above,13604,403,14007,1.45,Gujarat,Ahmedabad West,8

@@ -1,15 +1,15 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,VIJAYLAKSHMI DEVI,Janata Dal  (United),385625,883,386508,38.73,Bihar,Siwan
-2,HENA SHAHAB,Independent,293084,567,293651,29.42,Bihar,Siwan
-3,AWADH BIHARI CHOUDHARY,Rashtriya Janata Dal,198063,760,198823,19.92,Bihar,Siwan
-4,SATYENDRA KUSHWAHA,Independent,21558,7,21565,2.16,Bihar,Siwan
-5,JEEWAN KUMAR,Independent,18489,101,18590,1.86,Bihar,Siwan
-6,DILIP KU SINGH,Bahujan Samaj Party,12032,80,12112,1.21,Bihar,Siwan
-7,SANJAY KUMAR SAH,Bhartiya Lok Nayak Party,8851,28,8879,0.89,Bihar,Siwan
-8,DR. RAVINDRA NATH SHUKLA,Independent,8681,12,8693,0.87,Bihar,Siwan
-9,DEVKANT MISHRA,Independent,6162,19,6181,0.62,Bihar,Siwan
-10,PRAMOD KUMAR,Independent,5666,2,5668,0.57,Bihar,Siwan
-11,PRAKASH MANI TIWARI,Independent,4503,6,4509,0.45,Bihar,Siwan
-12,MAHENDRA SINGH ALIAS MAHENDRA RAI,Independent,3920,2,3922,0.39,Bihar,Siwan
-13,DILIP KUMAR SINGH,Independent,1947,6,1953,0.2,Bihar,Siwan
-14,NOTA,None of the Above,26925,39,26964,2.7,Bihar,Siwan
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,VIJAYLAKSHMI DEVI,Janata Dal  (United),385625,883,386508,38.73,Bihar,Siwan,18
+2,HENA SHAHAB,Independent,293084,567,293651,29.42,Bihar,Siwan,18
+3,AWADH BIHARI CHOUDHARY,Rashtriya Janata Dal,198063,760,198823,19.92,Bihar,Siwan,18
+4,SATYENDRA KUSHWAHA,Independent,21558,7,21565,2.16,Bihar,Siwan,18
+5,JEEWAN KUMAR,Independent,18489,101,18590,1.86,Bihar,Siwan,18
+6,DILIP KU SINGH,Bahujan Samaj Party,12032,80,12112,1.21,Bihar,Siwan,18
+7,SANJAY KUMAR SAH,Bhartiya Lok Nayak Party,8851,28,8879,0.89,Bihar,Siwan,18
+8,DR. RAVINDRA NATH SHUKLA,Independent,8681,12,8693,0.87,Bihar,Siwan,18
+9,DEVKANT MISHRA,Independent,6162,19,6181,0.62,Bihar,Siwan,18
+10,PRAMOD KUMAR,Independent,5666,2,5668,0.57,Bihar,Siwan,18
+11,PRAKASH MANI TIWARI,Independent,4503,6,4509,0.45,Bihar,Siwan,18
+12,MAHENDRA SINGH ALIAS MAHENDRA RAI,Independent,3920,2,3922,0.39,Bihar,Siwan,18
+13,DILIP KUMAR SINGH,Independent,1947,6,1953,0.2,Bihar,Siwan,18
+14,NOTA,None of the Above,26925,39,26964,2.7,Bihar,Siwan,18

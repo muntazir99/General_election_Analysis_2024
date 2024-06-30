@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BAPI HALDAR,All India Trinamool Congress,752486,3245,755731,50.52,West Bengal,Mathurapur
-2,ASHOK PURKAIT,Bharatiya Janata Party,552798,1876,554674,37.08,West Bengal,Mathurapur
-3,AJAY KUMAR DAS,All India Secular Front,87530,76,87606,5.86,West Bengal,Mathurapur
-4,DR SARAT CHANDRA HALDER,Communist Party of India  (Marxist),60778,322,61100,4.08,West Bengal,Mathurapur
-5,BAPI HALDER,Independent,8922,12,8934,0.6,West Bengal,Mathurapur
-6,BAPI HALDAR,Independent,5607,19,5626,0.38,West Bengal,Mathurapur
-7,BISWANATH SARDAR,Socialist Unity Centre Of India (COMMUNIST),4505,29,4534,0.3,West Bengal,Mathurapur
-8,PANKAJ KUMAR HALDER,Bahujan Samaj Party,4238,19,4257,0.28,West Bengal,Mathurapur
-9,ASHOKE PUROKAIT,Independent,1489,12,1501,0.1,West Bengal,Mathurapur
-10,ASHOKE SARDAR,Independent,1474,27,1501,0.1,West Bengal,Mathurapur
-11,BAPPA DAS,Party for Democratic Socialism,1203,6,1209,0.08,West Bengal,Mathurapur
-12,RUDRA PRASAD MANDAL,Mulnibasi Party of India,707,13,720,0.05,West Bengal,Mathurapur
-13,NOTA,None of the Above,8593,38,8631,0.58,West Bengal,Mathurapur
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BAPI HALDAR,All India Trinamool Congress,752486,3245,755731,50.52,West Bengal,Mathurapur,20
+2,ASHOK PURKAIT,Bharatiya Janata Party,552798,1876,554674,37.08,West Bengal,Mathurapur,20
+3,AJAY KUMAR DAS,All India Secular Front,87530,76,87606,5.86,West Bengal,Mathurapur,20
+4,DR SARAT CHANDRA HALDER,Communist Party of India  (Marxist),60778,322,61100,4.08,West Bengal,Mathurapur,20
+5,BAPI HALDER,Independent,8922,12,8934,0.6,West Bengal,Mathurapur,20
+6,BAPI HALDAR,Independent,5607,19,5626,0.38,West Bengal,Mathurapur,20
+7,BISWANATH SARDAR,Socialist Unity Centre Of India (COMMUNIST),4505,29,4534,0.3,West Bengal,Mathurapur,20
+8,PANKAJ KUMAR HALDER,Bahujan Samaj Party,4238,19,4257,0.28,West Bengal,Mathurapur,20
+9,ASHOKE PUROKAIT,Independent,1489,12,1501,0.1,West Bengal,Mathurapur,20
+10,ASHOKE SARDAR,Independent,1474,27,1501,0.1,West Bengal,Mathurapur,20
+11,BAPPA DAS,Party for Democratic Socialism,1203,6,1209,0.08,West Bengal,Mathurapur,20
+12,RUDRA PRASAD MANDAL,Mulnibasi Party of India,707,13,720,0.05,West Bengal,Mathurapur,20
+13,NOTA,None of the Above,8593,38,8631,0.58,West Bengal,Mathurapur,20

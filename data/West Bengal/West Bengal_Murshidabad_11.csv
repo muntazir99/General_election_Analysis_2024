@@ -1,13 +1,13 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ABU TAHER KHAN,All India Trinamool Congress,681674,768,682442,44.27,West Bengal,Murshidabad
-2,MD SALIM,Communist Party of India  (Marxist),517733,494,518227,33.62,West Bengal,Murshidabad
-3,GOURI SANKAR GHOSH,Bharatiya Janata Party,291013,1018,292031,18.94,West Bengal,Murshidabad
-4,HABIB SAIKH,All India Secular Front,12359,11,12370,0.8,West Bengal,Murshidabad
-5,ASIM RAY,Bhartiya Lokmat Rashtrwadi Party,5522,12,5534,0.36,West Bengal,Murshidabad
-6,SAHABUDDIN MALLIK,Independent,4156,-,4156,0.27,West Bengal,Murshidabad
-7,RAFIKUL ISLAM,Independent,4064,1,4065,0.26,West Bengal,Murshidabad
-8,MAHAFUJUL ALAM,Socialist Unity Centre Of India (COMMUNIST),3423,3,3426,0.22,West Bengal,Murshidabad
-9,MD TAIEDUL ISLAM,Social Democratic Party Of India,3291,2,3293,0.21,West Bengal,Murshidabad
-10,DHANANJOY SARKAR,Independent,1535,4,1539,0.1,West Bengal,Murshidabad
-11,KRISHNA PROSAD BISWAS,Independent,1197,9,1206,0.08,West Bengal,Murshidabad
-12,NOTA,None of the Above,13249,21,13270,0.86,West Bengal,Murshidabad
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ABU TAHER KHAN,All India Trinamool Congress,681674,768,682442,44.27,West Bengal,Murshidabad,11
+2,MD SALIM,Communist Party of India  (Marxist),517733,494,518227,33.62,West Bengal,Murshidabad,11
+3,GOURI SANKAR GHOSH,Bharatiya Janata Party,291013,1018,292031,18.94,West Bengal,Murshidabad,11
+4,HABIB SAIKH,All India Secular Front,12359,11,12370,0.8,West Bengal,Murshidabad,11
+5,ASIM RAY,Bhartiya Lokmat Rashtrwadi Party,5522,12,5534,0.36,West Bengal,Murshidabad,11
+6,SAHABUDDIN MALLIK,Independent,4156,-,4156,0.27,West Bengal,Murshidabad,11
+7,RAFIKUL ISLAM,Independent,4064,1,4065,0.26,West Bengal,Murshidabad,11
+8,MAHAFUJUL ALAM,Socialist Unity Centre Of India (COMMUNIST),3423,3,3426,0.22,West Bengal,Murshidabad,11
+9,MD TAIEDUL ISLAM,Social Democratic Party Of India,3291,2,3293,0.21,West Bengal,Murshidabad,11
+10,DHANANJOY SARKAR,Independent,1535,4,1539,0.1,West Bengal,Murshidabad,11
+11,KRISHNA PROSAD BISWAS,Independent,1197,9,1206,0.08,West Bengal,Murshidabad,11
+12,NOTA,None of the Above,13249,21,13270,0.86,West Bengal,Murshidabad,11

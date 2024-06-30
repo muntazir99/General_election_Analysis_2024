@@ -1,27 +1,27 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BIDYUT BARAN MAHATO,Bharatiya Janata Party,719891,6283,726174,56.84,Jharkhand,Jamshedpur
-2,SAMIR KUMAR MOHANTY,Jharkhand Mukti Morcha,459997,6395,466392,36.5,Jharkhand,Jamshedpur
-3,INDRA DEO PRASAD,Independent,8463,6,8469,0.66,Jharkhand,Jamshedpur
-4,ARUN MAHATO,Independent,7337,7,7344,0.57,Jharkhand,Jamshedpur
-5,ANAND MUKHI,Independent,6346,6,6352,0.5,Jharkhand,Jamshedpur
-6,PRANAV KUMAR MAHTO,Bahujan Samaj Party,6090,61,6151,0.48,Jharkhand,Jamshedpur
-7,BISHWANATH MAHATO,Independent,5226,105,5331,0.42,Jharkhand,Jamshedpur
-8,ANGAD MAHATO,Amra Bangalee,4898,27,4925,0.39,Jharkhand,Jamshedpur
-9,JUJHAR SOREN,Independent,4262,53,4315,0.34,Jharkhand,Jamshedpur
-10,SUKUMAR SOREN,Bharat Adivasi Party,3860,34,3894,0.3,Jharkhand,Jamshedpur
-11,DHARMU TUDU,Ambedkarite Party of India,3274,17,3291,0.26,Jharkhand,Jamshedpur
-12,JITENDRA SINGH,Independent,3159,8,3167,0.25,Jharkhand,Jamshedpur
-13,SANAKA MAHATO,Socialist Unity Centre Of India (COMMUNIST),3137,38,3175,0.25,Jharkhand,Jamshedpur
-14,MANOJ GUPTA,Lokhit Adhikar Party,2355,7,2362,0.18,Jharkhand,Jamshedpur
-15,SADHU CHARAN PAUL,Independent,2291,26,2317,0.18,Jharkhand,Jamshedpur
-16,SAURAV VISHNU,Independent,2234,30,2264,0.18,Jharkhand,Jamshedpur
-17,SHAIKH AKHIRUDDIN,Bahujan Maha Party,2099,9,2108,0.16,Jharkhand,Jamshedpur
-18,ASHOK KUMAR,Peoples Party of India (Democratic),2038,10,2048,0.16,Jharkhand,Jamshedpur
-19,MAHESH KUMAR,Right to Recall Party,1952,8,1960,0.15,Jharkhand,Jamshedpur
-20,G JAYRAM DAS,Independent,1927,4,1931,0.15,Jharkhand,Jamshedpur
-21,ARUN KUMAR SHARMA,Bhartiya Azad Sena,1797,4,1801,0.14,Jharkhand,Jamshedpur
-22,DOMAN CHANDRA BHAKAT,Bhagidari Party(P),1343,5,1348,0.11,Jharkhand,Jamshedpur
-23,BABLU PRASAD DANGI,Independent,1144,8,1152,0.09,Jharkhand,Jamshedpur
-24,GYAN SAGAR PRASAD,Independent,1043,1,1044,0.08,Jharkhand,Jamshedpur
-25,PARWATI KISKU,Independent,972,16,988,0.08,Jharkhand,Jamshedpur
-26,NOTA,None of the Above,7105,221,7326,0.57,Jharkhand,Jamshedpur
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BIDYUT BARAN MAHATO,Bharatiya Janata Party,719891,6283,726174,56.84,Jharkhand,Jamshedpur,9
+2,SAMIR KUMAR MOHANTY,Jharkhand Mukti Morcha,459997,6395,466392,36.5,Jharkhand,Jamshedpur,9
+3,INDRA DEO PRASAD,Independent,8463,6,8469,0.66,Jharkhand,Jamshedpur,9
+4,ARUN MAHATO,Independent,7337,7,7344,0.57,Jharkhand,Jamshedpur,9
+5,ANAND MUKHI,Independent,6346,6,6352,0.5,Jharkhand,Jamshedpur,9
+6,PRANAV KUMAR MAHTO,Bahujan Samaj Party,6090,61,6151,0.48,Jharkhand,Jamshedpur,9
+7,BISHWANATH MAHATO,Independent,5226,105,5331,0.42,Jharkhand,Jamshedpur,9
+8,ANGAD MAHATO,Amra Bangalee,4898,27,4925,0.39,Jharkhand,Jamshedpur,9
+9,JUJHAR SOREN,Independent,4262,53,4315,0.34,Jharkhand,Jamshedpur,9
+10,SUKUMAR SOREN,Bharat Adivasi Party,3860,34,3894,0.3,Jharkhand,Jamshedpur,9
+11,DHARMU TUDU,Ambedkarite Party of India,3274,17,3291,0.26,Jharkhand,Jamshedpur,9
+12,JITENDRA SINGH,Independent,3159,8,3167,0.25,Jharkhand,Jamshedpur,9
+13,SANAKA MAHATO,Socialist Unity Centre Of India (COMMUNIST),3137,38,3175,0.25,Jharkhand,Jamshedpur,9
+14,MANOJ GUPTA,Lokhit Adhikar Party,2355,7,2362,0.18,Jharkhand,Jamshedpur,9
+15,SADHU CHARAN PAUL,Independent,2291,26,2317,0.18,Jharkhand,Jamshedpur,9
+16,SAURAV VISHNU,Independent,2234,30,2264,0.18,Jharkhand,Jamshedpur,9
+17,SHAIKH AKHIRUDDIN,Bahujan Maha Party,2099,9,2108,0.16,Jharkhand,Jamshedpur,9
+18,ASHOK KUMAR,Peoples Party of India (Democratic),2038,10,2048,0.16,Jharkhand,Jamshedpur,9
+19,MAHESH KUMAR,Right to Recall Party,1952,8,1960,0.15,Jharkhand,Jamshedpur,9
+20,G JAYRAM DAS,Independent,1927,4,1931,0.15,Jharkhand,Jamshedpur,9
+21,ARUN KUMAR SHARMA,Bhartiya Azad Sena,1797,4,1801,0.14,Jharkhand,Jamshedpur,9
+22,DOMAN CHANDRA BHAKAT,Bhagidari Party(P),1343,5,1348,0.11,Jharkhand,Jamshedpur,9
+23,BABLU PRASAD DANGI,Independent,1144,8,1152,0.09,Jharkhand,Jamshedpur,9
+24,GYAN SAGAR PRASAD,Independent,1043,1,1044,0.08,Jharkhand,Jamshedpur,9
+25,PARWATI KISKU,Independent,972,16,988,0.08,Jharkhand,Jamshedpur,9
+26,NOTA,None of the Above,7105,221,7326,0.57,Jharkhand,Jamshedpur,9

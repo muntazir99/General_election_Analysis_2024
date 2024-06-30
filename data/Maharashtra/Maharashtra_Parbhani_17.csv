@@ -1,36 +1,36 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,JADHAV SANJAY ( BANDU ) HARIBHAU,Shiv Sena (Uddhav Balasaheb Thackrey),596871,4472,601343,45.17,Maharashtra,Parbhani
-2,JANKAR MAHADEV JAGANNATH,Rashtriya Samaj Paksha,463764,3518,467282,35.1,Maharashtra,Parbhani
-3,PANJAB UTTAMRAO DAKH,Vanchit Bahujan  Aaghadi,95394,573,95967,7.21,Maharashtra,Parbhani
-4,DR. GOVARDHAN BHIWAJI KHANDAGALE,Bahujan Bharat Party,15355,40,15395,1.16,Maharashtra,Parbhani
-5,KAMBLE SHIVAJI DEVAJI,Independent,11050,10,11060,0.83,Maharashtra,Parbhani
-6,ALAMGIR MOHAMMAD KHAN,Bahujan Samaj Party,10972,90,11062,0.83,Maharashtra,Parbhani
-7,SAMIR GANESHRAO DUDHGAONKAR,Independent,10951,105,11056,0.83,Maharashtra,Parbhani
-8,KRUSHNA TRIMBAKRAO PAWAR,Independent,10145,9,10154,0.76,Maharashtra,Parbhani
-9,KAILAS BALIRAM PAWAR (NAIK),Baliraja Party,9487,33,9520,0.72,Maharashtra,Parbhani
-10,PROF. DR. VILAS BANSIDHAR TANGADE,Independent,8814,6,8820,0.66,Maharashtra,Parbhani
-11,ARJUN DNYANOBA BHISE,Independent,6915,8,6923,0.52,Maharashtra,Parbhani
-12,COMRADE RAJAN KSHIRSAGAR,Communist Party of India,6627,22,6649,0.5,Maharashtra,Parbhani
-13,KISHORKUMAR PRAKASH SHINDE,Independent,6547,1,6548,0.49,Maharashtra,Parbhani
-14,KISHORE RADHAKISHAN DHAGE,Independent,5446,34,5480,0.41,Maharashtra,Parbhani
-15,SAYED IRSHAD ALI SAYYED LAYAKH ALI,Social Democratic Party Of India,4629,15,4644,0.35,Maharashtra,Parbhani
-16,DASHARATH PRABHKAR RATHOD,Maharashtra Vikas Aghadi,4354,40,4394,0.33,Maharashtra,Parbhani
-17,KARBHARI KUNDLIK MITHE,Independent,4268,8,4276,0.32,Maharashtra,Parbhani
-18,APPASAHEB OMKAR KADAM,Independent,3883,8,3891,0.29,Maharashtra,Parbhani
-19,SHRIRAM BANSILAL JADHAV,Jai Sewalal Bahujan Vikas Party,3617,11,3628,0.27,Maharashtra,Parbhani
-20,COMRADE GANPAT BHISE,Independent,3589,15,3604,0.27,Maharashtra,Parbhani
-21,DNYANESHWAR JAGANNATH DAHIBHATE,Independent,3538,1,3539,0.27,Maharashtra,Parbhani
-22,ANIL MANIKRAO MUDGALKAR,Independent,3531,2,3533,0.27,Maharashtra,Parbhani
-23,GOVIND BHAIYYA RAMRAO DESHMUKH,Independent,3452,7,3459,0.26,Maharashtra,Parbhani
-24,SUBHASH DATTARAV JAVLE,Independent,3429,5,3434,0.26,Maharashtra,Parbhani
-25,RAJABHAU SHESHRAO KAKDE,Independent,3299,3,3302,0.25,Maharashtra,Parbhani
-26,RAJENDRA RAMDAS ATKAL,Independent,2807,5,2812,0.21,Maharashtra,Parbhani
-27,SAYYD ABDUL SATTAR AJIJ,Independent,2646,4,2650,0.2,Maharashtra,Parbhani
-28,SHAIKH SALEEM SHAIKH IBRAHIM,All India Majlis-E-Inquilab-E-Millat,2617,2,2619,0.2,Maharashtra,Parbhani
-29,SANGEETA VYAKANTRAO GIRI,Swarajya Shakti Sena,2324,15,2339,0.18,Maharashtra,Parbhani
-30,ADV. VINOD CHHAGANRAO AMBHORE,Bahujan Mukti Party,2017,24,2041,0.15,Maharashtra,Parbhani
-31,VIJAY ANNASAHEB THOMBARE,Independent,1957,2,1959,0.15,Maharashtra,Parbhani
-32,VISHNUDAS SHIVAJI BHOSALE,Independent,1856,4,1860,0.14,Maharashtra,Parbhani
-33,MUSTAFA MAINODDIN SHAIKH,Independent,1298,4,1302,0.1,Maharashtra,Parbhani
-34,BOBADE SAKHARAM PADEGAONKAR,Independent,1244,2,1246,0.09,Maharashtra,Parbhani
-35,NOTA,None of the Above,3306,79,3385,0.25,Maharashtra,Parbhani
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,JADHAV SANJAY ( BANDU ) HARIBHAU,Shiv Sena (Uddhav Balasaheb Thackrey),596871,4472,601343,45.17,Maharashtra,Parbhani,17
+2,JANKAR MAHADEV JAGANNATH,Rashtriya Samaj Paksha,463764,3518,467282,35.1,Maharashtra,Parbhani,17
+3,PANJAB UTTAMRAO DAKH,Vanchit Bahujan  Aaghadi,95394,573,95967,7.21,Maharashtra,Parbhani,17
+4,DR. GOVARDHAN BHIWAJI KHANDAGALE,Bahujan Bharat Party,15355,40,15395,1.16,Maharashtra,Parbhani,17
+5,KAMBLE SHIVAJI DEVAJI,Independent,11050,10,11060,0.83,Maharashtra,Parbhani,17
+6,ALAMGIR MOHAMMAD KHAN,Bahujan Samaj Party,10972,90,11062,0.83,Maharashtra,Parbhani,17
+7,SAMIR GANESHRAO DUDHGAONKAR,Independent,10951,105,11056,0.83,Maharashtra,Parbhani,17
+8,KRUSHNA TRIMBAKRAO PAWAR,Independent,10145,9,10154,0.76,Maharashtra,Parbhani,17
+9,KAILAS BALIRAM PAWAR (NAIK),Baliraja Party,9487,33,9520,0.72,Maharashtra,Parbhani,17
+10,PROF. DR. VILAS BANSIDHAR TANGADE,Independent,8814,6,8820,0.66,Maharashtra,Parbhani,17
+11,ARJUN DNYANOBA BHISE,Independent,6915,8,6923,0.52,Maharashtra,Parbhani,17
+12,COMRADE RAJAN KSHIRSAGAR,Communist Party of India,6627,22,6649,0.5,Maharashtra,Parbhani,17
+13,KISHORKUMAR PRAKASH SHINDE,Independent,6547,1,6548,0.49,Maharashtra,Parbhani,17
+14,KISHORE RADHAKISHAN DHAGE,Independent,5446,34,5480,0.41,Maharashtra,Parbhani,17
+15,SAYED IRSHAD ALI SAYYED LAYAKH ALI,Social Democratic Party Of India,4629,15,4644,0.35,Maharashtra,Parbhani,17
+16,DASHARATH PRABHKAR RATHOD,Maharashtra Vikas Aghadi,4354,40,4394,0.33,Maharashtra,Parbhani,17
+17,KARBHARI KUNDLIK MITHE,Independent,4268,8,4276,0.32,Maharashtra,Parbhani,17
+18,APPASAHEB OMKAR KADAM,Independent,3883,8,3891,0.29,Maharashtra,Parbhani,17
+19,SHRIRAM BANSILAL JADHAV,Jai Sewalal Bahujan Vikas Party,3617,11,3628,0.27,Maharashtra,Parbhani,17
+20,COMRADE GANPAT BHISE,Independent,3589,15,3604,0.27,Maharashtra,Parbhani,17
+21,DNYANESHWAR JAGANNATH DAHIBHATE,Independent,3538,1,3539,0.27,Maharashtra,Parbhani,17
+22,ANIL MANIKRAO MUDGALKAR,Independent,3531,2,3533,0.27,Maharashtra,Parbhani,17
+23,GOVIND BHAIYYA RAMRAO DESHMUKH,Independent,3452,7,3459,0.26,Maharashtra,Parbhani,17
+24,SUBHASH DATTARAV JAVLE,Independent,3429,5,3434,0.26,Maharashtra,Parbhani,17
+25,RAJABHAU SHESHRAO KAKDE,Independent,3299,3,3302,0.25,Maharashtra,Parbhani,17
+26,RAJENDRA RAMDAS ATKAL,Independent,2807,5,2812,0.21,Maharashtra,Parbhani,17
+27,SAYYD ABDUL SATTAR AJIJ,Independent,2646,4,2650,0.2,Maharashtra,Parbhani,17
+28,SHAIKH SALEEM SHAIKH IBRAHIM,All India Majlis-E-Inquilab-E-Millat,2617,2,2619,0.2,Maharashtra,Parbhani,17
+29,SANGEETA VYAKANTRAO GIRI,Swarajya Shakti Sena,2324,15,2339,0.18,Maharashtra,Parbhani,17
+30,ADV. VINOD CHHAGANRAO AMBHORE,Bahujan Mukti Party,2017,24,2041,0.15,Maharashtra,Parbhani,17
+31,VIJAY ANNASAHEB THOMBARE,Independent,1957,2,1959,0.15,Maharashtra,Parbhani,17
+32,VISHNUDAS SHIVAJI BHOSALE,Independent,1856,4,1860,0.14,Maharashtra,Parbhani,17
+33,MUSTAFA MAINODDIN SHAIKH,Independent,1298,4,1302,0.1,Maharashtra,Parbhani,17
+34,BOBADE SAKHARAM PADEGAONKAR,Independent,1244,2,1246,0.09,Maharashtra,Parbhani,17
+35,NOTA,None of the Above,3306,79,3385,0.25,Maharashtra,Parbhani,17

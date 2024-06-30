@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SUDHAKAR SINGH,Rashtriya Janata Dal,435062,3283,438345,40.82,Bihar,Buxar
-2,MITHILESH TIWARI,Bharatiya Janata Party,405795,2459,408254,38.02,Bihar,Buxar
-3,ANIL KUMAR,Bahujan Samaj Party,114312,402,114714,10.68,Bihar,Buxar
-4,ANAND MISHRA S/O- PARAM HANS MISHRA,Independent,46527,882,47409,4.42,Bihar,Buxar
-5,DADAN YADAV,Independent,15653,183,15836,1.47,Bihar,Buxar
-6,SUDHAKAR MISHRA,Independent,12742,7,12749,1.19,Bihar,Buxar
-7,SUNIL KUMAR DUBY,Independent,7757,2,7759,0.72,Bihar,Buxar
-8,RAM SWAROOP CHAUHAN,Independent,5506,10,5516,0.51,Bihar,Buxar
-9,RAJU SINGH,Bahujan Mukti Party,4322,17,4339,0.4,Bihar,Buxar
-10,AANAND MISRA S/O MADAN KUMAR MISRA,Independent,2697,137,2834,0.26,Bihar,Buxar
-11,BHAGWAN SINGH YADAV,Independent,2045,8,2053,0.19,Bihar,Buxar
-12,NIRANJAN KUMAR RAY,Independent,1667,2,1669,0.16,Bihar,Buxar
-13,HEM LATA,Jagrook Janta Party,1554,16,1570,0.15,Bihar,Buxar
-14,AKHILESH KUMAR PANDEY,Independent,1089,6,1095,0.1,Bihar,Buxar
-15,NOTA,None of the Above,9572,45,9617,0.9,Bihar,Buxar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SUDHAKAR SINGH,Rashtriya Janata Dal,435062,3283,438345,40.82,Bihar,Buxar,33
+2,MITHILESH TIWARI,Bharatiya Janata Party,405795,2459,408254,38.02,Bihar,Buxar,33
+3,ANIL KUMAR,Bahujan Samaj Party,114312,402,114714,10.68,Bihar,Buxar,33
+4,ANAND MISHRA S/O- PARAM HANS MISHRA,Independent,46527,882,47409,4.42,Bihar,Buxar,33
+5,DADAN YADAV,Independent,15653,183,15836,1.47,Bihar,Buxar,33
+6,SUDHAKAR MISHRA,Independent,12742,7,12749,1.19,Bihar,Buxar,33
+7,SUNIL KUMAR DUBY,Independent,7757,2,7759,0.72,Bihar,Buxar,33
+8,RAM SWAROOP CHAUHAN,Independent,5506,10,5516,0.51,Bihar,Buxar,33
+9,RAJU SINGH,Bahujan Mukti Party,4322,17,4339,0.4,Bihar,Buxar,33
+10,AANAND MISRA S/O MADAN KUMAR MISRA,Independent,2697,137,2834,0.26,Bihar,Buxar,33
+11,BHAGWAN SINGH YADAV,Independent,2045,8,2053,0.19,Bihar,Buxar,33
+12,NIRANJAN KUMAR RAY,Independent,1667,2,1669,0.16,Bihar,Buxar,33
+13,HEM LATA,Jagrook Janta Party,1554,16,1570,0.15,Bihar,Buxar,33
+14,AKHILESH KUMAR PANDEY,Independent,1089,6,1095,0.1,Bihar,Buxar,33
+15,NOTA,None of the Above,9572,45,9617,0.9,Bihar,Buxar,33

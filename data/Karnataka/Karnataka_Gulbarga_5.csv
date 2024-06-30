@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,RADHAKRISHNA,Indian National Congress,650623,1698,652321,49.78,Karnataka,Gulbarga
-2,DR. UMESH G JADHAV,Bharatiya Janata Party,622615,2501,625116,47.7,Karnataka,Gulbarga
-3,HUCHESHWARA WATHAR GOUR,Bahujan Samaj Party,7871,17,7888,0.6,Karnataka,Gulbarga
-4,SUNDAR,Independent,3675,2,3677,0.28,Karnataka,Gulbarga
-5,JYOTI RAMESH CHAVAN,Independent,2787,18,2805,0.21,Karnataka,Gulbarga
-6,SHARANAPPA (PINTU),Independent,1879,5,1884,0.14,Karnataka,Gulbarga
-7,TARABAI BHOVI,Independent,1546,4,1550,0.12,Karnataka,Gulbarga
-8,RAMESH BHIMSING CHAVAN,Independent,1332,2,1334,0.1,Karnataka,Gulbarga
-9,ANAND SINNUR,Independent,1271,9,1280,0.1,Karnataka,Gulbarga
-10,NAGENDRA RAO,Uttama Prajaakeeya Party,1211,15,1226,0.09,Karnataka,Gulbarga
-11,S.M.SHARMA,Socialist Unity Centre Of India (COMMUNIST),1136,8,1144,0.09,Karnataka,Gulbarga
-12,RAJKUMAR,BhartiyaBahujanKranti Dal,702,7,709,0.05,Karnataka,Gulbarga
-13,VIJAY JADHAV,Karnataka Rashtra Samithi,555,5,560,0.04,Karnataka,Gulbarga
-14,B. VIJAYKUMAR CHINCHANSOORKAR,Prahar Janshakti Party,548,6,554,0.04,Karnataka,Gulbarga
-15,NOTA,None of the Above,8416,13,8429,0.64,Karnataka,Gulbarga
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,RADHAKRISHNA,Indian National Congress,650623,1698,652321,49.78,Karnataka,Gulbarga,5
+2,DR. UMESH G JADHAV,Bharatiya Janata Party,622615,2501,625116,47.7,Karnataka,Gulbarga,5
+3,HUCHESHWARA WATHAR GOUR,Bahujan Samaj Party,7871,17,7888,0.6,Karnataka,Gulbarga,5
+4,SUNDAR,Independent,3675,2,3677,0.28,Karnataka,Gulbarga,5
+5,JYOTI RAMESH CHAVAN,Independent,2787,18,2805,0.21,Karnataka,Gulbarga,5
+6,SHARANAPPA (PINTU),Independent,1879,5,1884,0.14,Karnataka,Gulbarga,5
+7,TARABAI BHOVI,Independent,1546,4,1550,0.12,Karnataka,Gulbarga,5
+8,RAMESH BHIMSING CHAVAN,Independent,1332,2,1334,0.1,Karnataka,Gulbarga,5
+9,ANAND SINNUR,Independent,1271,9,1280,0.1,Karnataka,Gulbarga,5
+10,NAGENDRA RAO,Uttama Prajaakeeya Party,1211,15,1226,0.09,Karnataka,Gulbarga,5
+11,S.M.SHARMA,Socialist Unity Centre Of India (COMMUNIST),1136,8,1144,0.09,Karnataka,Gulbarga,5
+12,RAJKUMAR,BhartiyaBahujanKranti Dal,702,7,709,0.05,Karnataka,Gulbarga,5
+13,VIJAY JADHAV,Karnataka Rashtra Samithi,555,5,560,0.04,Karnataka,Gulbarga,5
+14,B. VIJAYKUMAR CHINCHANSOORKAR,Prahar Janshakti Party,548,6,554,0.04,Karnataka,Gulbarga,5
+15,NOTA,None of the Above,8416,13,8429,0.64,Karnataka,Gulbarga,5

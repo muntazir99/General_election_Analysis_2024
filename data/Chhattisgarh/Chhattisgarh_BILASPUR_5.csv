@@ -1,39 +1,39 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,TOKHAN SAHU,Bharatiya Janata Party,723194,1743,724937,53.25,Chhattisgarh,BILASPUR
-2,DEVENDRA YADAV,Indian National Congress,558942,1437,560379,41.16,Chhattisgarh,BILASPUR
-3,ASHWANI RAJAK,Bahujan Samaj Party,13175,47,13222,0.97,Chhattisgarh,BILASPUR
-4,ANAND URAWAN,Independent,5894,4,5898,0.43,Chhattisgarh,BILASPUR
-5,ANILESH MISHRA (MAHARAJ),Independent,5374,2,5376,0.39,Chhattisgarh,BILASPUR
-6,KULESH KUMAR SAHU,Independent,4439,4,4443,0.33,Chhattisgarh,BILASPUR
-7,ASHAVANT SAHOO,Bhartiya Shakti Chetna Party,4345,9,4354,0.32,Chhattisgarh,BILASPUR
-8,SHRIKANT MALHWAYR (KASER),Loktantra Congress Party,4197,4,4201,0.31,Chhattisgarh,BILASPUR
-9,VIKRAMPRASAD JOGI,Independent,2862,-,2862,0.21,Chhattisgarh,BILASPUR
-10,KESHAV PRASAD,Independent,2765,2,2767,0.2,Chhattisgarh,BILASPUR
-11,SUDIEP SHRIVASTAVA,Hamar Raj Party,2310,2,2312,0.17,Chhattisgarh,BILASPUR
-12,RUPRAM SAHU,Independent,2261,-,2261,0.17,Chhattisgarh,BILASPUR
-13,KRISHNA NANDAN SINGH,Independent,2020,-,2020,0.15,Chhattisgarh,BILASPUR
-14,ROSHAN KUMAR,Independent,1920,-,1920,0.14,Chhattisgarh,BILASPUR
-15,DINESH PRATAP SINGH KHUSRO NIKHIL,Rashtriya Gondvana Party,1792,16,1808,0.13,Chhattisgarh,BILASPUR
-16,RAMESHWAR SAHU,Independent,1761,-,1761,0.13,Chhattisgarh,BILASPUR
-17,VIJAY KUMAR,Independent,1625,1,1626,0.12,Chhattisgarh,BILASPUR
-18,YASHUTOSH LAHARE,Ambedkarite Party of India,1271,3,1274,0.09,Chhattisgarh,BILASPUR
-19,GHANSHYAM URF SADHELAL BHARDWAJ,Independent,1251,-,1251,0.09,Chhattisgarh,BILASPUR
-20,VEDMANI SINGH KSHATRIYA (THAKUR),Independent,1163,-,1163,0.09,Chhattisgarh,BILASPUR
-21,SHEKHAR BANJARE,Independent,1160,-,1160,0.09,Chhattisgarh,BILASPUR
-22,SIDDHRAM LAHARE,Rashtriya Jansabha Party,1149,1,1150,0.08,Chhattisgarh,BILASPUR
-23,RAMPYARE RAI,Independent,1112,-,1112,0.08,Chhattisgarh,BILASPUR
-24,NAND KISHORE RAJ,Gondvana Gantantra Party,1049,12,1061,0.08,Chhattisgarh,BILASPUR
-25,BHUNESHWAR MARKO,Independent,967,3,970,0.07,Chhattisgarh,BILASPUR
-26,RAJKUMAR SAHU,Independent,828,1,829,0.06,Chhattisgarh,BILASPUR
-27,BHAGWAT PATRE,Prabuddha Republican Party,710,2,712,0.05,Chhattisgarh,BILASPUR
-28,LAKSHMAN  PATHAK,Ekam Sanatan Bharat Dal,698,1,699,0.05,Chhattisgarh,BILASPUR
-29,ADVOCATE SHAILENDRA BANJARE (SHAKTIPUTRA),Shakti Sena (Bharat Desh),690,-,690,0.05,Chhattisgarh,BILASPUR
-30,RAJENDRA KUMAR TANDAN,Independent,654,2,656,0.05,Chhattisgarh,BILASPUR
-31,SALIK RAM JOGI,Independent,575,1,576,0.04,Chhattisgarh,BILASPUR
-32,BASANT BANSL,Independent,564,-,564,0.04,Chhattisgarh,BILASPUR
-33,DEEPMALA CHOUHAN,Chhattisgarh Vikas Ganga Rashtriya Party,559,6,565,0.04,Chhattisgarh,BILASPUR
-34,MAHESH KUMAR SONWANI,Independent,559,1,560,0.04,Chhattisgarh,BILASPUR
-35,DEV PRASAD BRAIHA,Independent,511,-,511,0.04,Chhattisgarh,BILASPUR
-36,SANJAY PRAKASH SAHU,Independent,435,1,436,0.03,Chhattisgarh,BILASPUR
-37,PARAS RAM YADAV,Independent,414,1,415,0.03,Chhattisgarh,BILASPUR
-38,NOTA,None of the Above,2842,7,2849,0.21,Chhattisgarh,BILASPUR
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,TOKHAN SAHU,Bharatiya Janata Party,723194,1743,724937,53.25,Chhattisgarh,BILASPUR,5
+2,DEVENDRA YADAV,Indian National Congress,558942,1437,560379,41.16,Chhattisgarh,BILASPUR,5
+3,ASHWANI RAJAK,Bahujan Samaj Party,13175,47,13222,0.97,Chhattisgarh,BILASPUR,5
+4,ANAND URAWAN,Independent,5894,4,5898,0.43,Chhattisgarh,BILASPUR,5
+5,ANILESH MISHRA (MAHARAJ),Independent,5374,2,5376,0.39,Chhattisgarh,BILASPUR,5
+6,KULESH KUMAR SAHU,Independent,4439,4,4443,0.33,Chhattisgarh,BILASPUR,5
+7,ASHAVANT SAHOO,Bhartiya Shakti Chetna Party,4345,9,4354,0.32,Chhattisgarh,BILASPUR,5
+8,SHRIKANT MALHWAYR (KASER),Loktantra Congress Party,4197,4,4201,0.31,Chhattisgarh,BILASPUR,5
+9,VIKRAMPRASAD JOGI,Independent,2862,-,2862,0.21,Chhattisgarh,BILASPUR,5
+10,KESHAV PRASAD,Independent,2765,2,2767,0.2,Chhattisgarh,BILASPUR,5
+11,SUDIEP SHRIVASTAVA,Hamar Raj Party,2310,2,2312,0.17,Chhattisgarh,BILASPUR,5
+12,RUPRAM SAHU,Independent,2261,-,2261,0.17,Chhattisgarh,BILASPUR,5
+13,KRISHNA NANDAN SINGH,Independent,2020,-,2020,0.15,Chhattisgarh,BILASPUR,5
+14,ROSHAN KUMAR,Independent,1920,-,1920,0.14,Chhattisgarh,BILASPUR,5
+15,DINESH PRATAP SINGH KHUSRO NIKHIL,Rashtriya Gondvana Party,1792,16,1808,0.13,Chhattisgarh,BILASPUR,5
+16,RAMESHWAR SAHU,Independent,1761,-,1761,0.13,Chhattisgarh,BILASPUR,5
+17,VIJAY KUMAR,Independent,1625,1,1626,0.12,Chhattisgarh,BILASPUR,5
+18,YASHUTOSH LAHARE,Ambedkarite Party of India,1271,3,1274,0.09,Chhattisgarh,BILASPUR,5
+19,GHANSHYAM URF SADHELAL BHARDWAJ,Independent,1251,-,1251,0.09,Chhattisgarh,BILASPUR,5
+20,VEDMANI SINGH KSHATRIYA (THAKUR),Independent,1163,-,1163,0.09,Chhattisgarh,BILASPUR,5
+21,SHEKHAR BANJARE,Independent,1160,-,1160,0.09,Chhattisgarh,BILASPUR,5
+22,SIDDHRAM LAHARE,Rashtriya Jansabha Party,1149,1,1150,0.08,Chhattisgarh,BILASPUR,5
+23,RAMPYARE RAI,Independent,1112,-,1112,0.08,Chhattisgarh,BILASPUR,5
+24,NAND KISHORE RAJ,Gondvana Gantantra Party,1049,12,1061,0.08,Chhattisgarh,BILASPUR,5
+25,BHUNESHWAR MARKO,Independent,967,3,970,0.07,Chhattisgarh,BILASPUR,5
+26,RAJKUMAR SAHU,Independent,828,1,829,0.06,Chhattisgarh,BILASPUR,5
+27,BHAGWAT PATRE,Prabuddha Republican Party,710,2,712,0.05,Chhattisgarh,BILASPUR,5
+28,LAKSHMAN  PATHAK,Ekam Sanatan Bharat Dal,698,1,699,0.05,Chhattisgarh,BILASPUR,5
+29,ADVOCATE SHAILENDRA BANJARE (SHAKTIPUTRA),Shakti Sena (Bharat Desh),690,-,690,0.05,Chhattisgarh,BILASPUR,5
+30,RAJENDRA KUMAR TANDAN,Independent,654,2,656,0.05,Chhattisgarh,BILASPUR,5
+31,SALIK RAM JOGI,Independent,575,1,576,0.04,Chhattisgarh,BILASPUR,5
+32,BASANT BANSL,Independent,564,-,564,0.04,Chhattisgarh,BILASPUR,5
+33,DEEPMALA CHOUHAN,Chhattisgarh Vikas Ganga Rashtriya Party,559,6,565,0.04,Chhattisgarh,BILASPUR,5
+34,MAHESH KUMAR SONWANI,Independent,559,1,560,0.04,Chhattisgarh,BILASPUR,5
+35,DEV PRASAD BRAIHA,Independent,511,-,511,0.04,Chhattisgarh,BILASPUR,5
+36,SANJAY PRAKASH SAHU,Independent,435,1,436,0.03,Chhattisgarh,BILASPUR,5
+37,PARAS RAM YADAV,Independent,414,1,415,0.03,Chhattisgarh,BILASPUR,5
+38,NOTA,None of the Above,2842,7,2849,0.21,Chhattisgarh,BILASPUR,5

@@ -1,13 +1,13 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,MALVIKA DEVI,Bharatiya Janata Party,538535,5768,544303,40.79,Odisha,Kalahandi
-2,LAMBODAR NIAL,Biju Janata Dal,408267,2223,410490,30.77,Odisha,Kalahandi
-3,DROUPADI MAJHI,Indian National Congress,300060,3139,303199,22.72,Odisha,Kalahandi
-4,UMAKANTA TANDI,Independent,9180,14,9194,0.69,Odisha,Kalahandi
-5,BIRANCHI NARAYAN DURGA,Bahujan Samaj Party,8440,57,8497,0.64,Odisha,Kalahandi
-6,DR. DHARMANANDA GAHIR,Independent,7775,36,7811,0.59,Odisha,Kalahandi
-7,SIBA HATI,Samajwadi Party,7138,30,7168,0.54,Odisha,Kalahandi
-8,RAJARAM SAHU,Independent,6712,18,6730,0.5,Odisha,Kalahandi
-9,NARESH HIANLA,Independent,6627,14,6641,0.5,Odisha,Kalahandi
-10,GANGADHAR JAL,Independent,5547,43,5590,0.42,Odisha,Kalahandi
-11,HIMANSHU TRIPATHY,Samruddha Odisha,4898,8,4906,0.37,Odisha,Kalahandi
-12,NOTA,None of the Above,19620,95,19715,1.48,Odisha,Kalahandi
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,MALVIKA DEVI,Bharatiya Janata Party,538535,5768,544303,40.79,Odisha,Kalahandi,11
+2,LAMBODAR NIAL,Biju Janata Dal,408267,2223,410490,30.77,Odisha,Kalahandi,11
+3,DROUPADI MAJHI,Indian National Congress,300060,3139,303199,22.72,Odisha,Kalahandi,11
+4,UMAKANTA TANDI,Independent,9180,14,9194,0.69,Odisha,Kalahandi,11
+5,BIRANCHI NARAYAN DURGA,Bahujan Samaj Party,8440,57,8497,0.64,Odisha,Kalahandi,11
+6,DR. DHARMANANDA GAHIR,Independent,7775,36,7811,0.59,Odisha,Kalahandi,11
+7,SIBA HATI,Samajwadi Party,7138,30,7168,0.54,Odisha,Kalahandi,11
+8,RAJARAM SAHU,Independent,6712,18,6730,0.5,Odisha,Kalahandi,11
+9,NARESH HIANLA,Independent,6627,14,6641,0.5,Odisha,Kalahandi,11
+10,GANGADHAR JAL,Independent,5547,43,5590,0.42,Odisha,Kalahandi,11
+11,HIMANSHU TRIPATHY,Samruddha Odisha,4898,8,4906,0.37,Odisha,Kalahandi,11
+12,NOTA,None of the Above,19620,95,19715,1.48,Odisha,Kalahandi,11

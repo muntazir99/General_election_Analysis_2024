@@ -1,9 +1,9 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SAVITRI THAKUR,Bharatiya Janata Party,792591,1858,794449,55.75,Madhya Pradesh,DHAR
-2,RADHESHYAM MUVEL,Indian National Congress,574756,1028,575784,40.4,Madhya Pradesh,DHAR
-3,DHUMSINGH MANDLOI MACHHAR,Bahujan Samaj Party,14926,30,14956,1.05,Madhya Pradesh,DHAR
-4,JITENDRA MUNIYA,Bharat Adivasi Party,10586,35,10621,0.75,Madhya Pradesh,DHAR
-5,SUNIL AJRAWAT,Independent,5400,8,5408,0.38,Madhya Pradesh,DHAR
-6,SHIVAJI PATEL KALMI,Independent,4694,6,4700,0.33,Madhya Pradesh,DHAR
-7,VIKRAM VASUNIYA,Janata Congress,3464,11,3475,0.24,Madhya Pradesh,DHAR
-8,NOTA,None of the Above,15612,39,15651,1.1,Madhya Pradesh,DHAR
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SAVITRI THAKUR,Bharatiya Janata Party,792591,1858,794449,55.75,Madhya Pradesh,DHAR,25
+2,RADHESHYAM MUVEL,Indian National Congress,574756,1028,575784,40.4,Madhya Pradesh,DHAR,25
+3,DHUMSINGH MANDLOI MACHHAR,Bahujan Samaj Party,14926,30,14956,1.05,Madhya Pradesh,DHAR,25
+4,JITENDRA MUNIYA,Bharat Adivasi Party,10586,35,10621,0.75,Madhya Pradesh,DHAR,25
+5,SUNIL AJRAWAT,Independent,5400,8,5408,0.38,Madhya Pradesh,DHAR,25
+6,SHIVAJI PATEL KALMI,Independent,4694,6,4700,0.33,Madhya Pradesh,DHAR,25
+7,VIKRAM VASUNIYA,Janata Congress,3464,11,3475,0.24,Madhya Pradesh,DHAR,25
+8,NOTA,None of the Above,15612,39,15651,1.1,Madhya Pradesh,DHAR,25

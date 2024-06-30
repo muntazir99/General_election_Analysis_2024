@@ -1,15 +1,15 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,KALIPADA SAREN (KHERWAL),All India Trinamool Congress,740132,3346,743478,49.87,West Bengal,Jhargram
-2,DR. PRANAT TUDU,Bharatiya Janata Party,566553,2877,569430,38.2,West Bengal,Jhargram
-3,SONAMANI TUDU,Communist Party of India  (Marxist),76850,452,77302,5.19,West Bengal,Jhargram
-4,SURYA SINGH BESRA,Jharkhand People's Party,19408,86,19494,1.31,West Bengal,Jhargram
-5,BARUN MAHATO,Independent,12029,58,12087,0.81,West Bengal,Jhargram
-6,ARUNKUMAR HANSDA,Bahujan Samaj Party,11949,40,11989,0.8,West Bengal,Jhargram
-7,SURENDRANATH SING,Independent,10781,6,10787,0.72,West Bengal,Jhargram
-8,RAMANATH ORANG,Independent,7178,10,7188,0.48,West Bengal,Jhargram
-9,BIPLAB HEMBRAM,Independent,7156,14,7170,0.48,West Bengal,Jhargram
-10,BAPI SOREN,All India Secular Front,5854,41,5895,0.4,West Bengal,Jhargram
-11,BIRSABIR BASKEY,Ambedkarite Party of India,4344,18,4362,0.29,West Bengal,Jhargram
-12,SUSHIL MANDI,Socialist Unity Centre Of India (COMMUNIST),2879,13,2892,0.19,West Bengal,Jhargram
-13,GUNADHAR SING,Independent,2818,31,2849,0.19,West Bengal,Jhargram
-14,NOTA,None of the Above,15871,49,15920,1.07,West Bengal,Jhargram
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,KALIPADA SAREN (KHERWAL),All India Trinamool Congress,740132,3346,743478,49.87,West Bengal,Jhargram,33
+2,DR. PRANAT TUDU,Bharatiya Janata Party,566553,2877,569430,38.2,West Bengal,Jhargram,33
+3,SONAMANI TUDU,Communist Party of India  (Marxist),76850,452,77302,5.19,West Bengal,Jhargram,33
+4,SURYA SINGH BESRA,Jharkhand People's Party,19408,86,19494,1.31,West Bengal,Jhargram,33
+5,BARUN MAHATO,Independent,12029,58,12087,0.81,West Bengal,Jhargram,33
+6,ARUNKUMAR HANSDA,Bahujan Samaj Party,11949,40,11989,0.8,West Bengal,Jhargram,33
+7,SURENDRANATH SING,Independent,10781,6,10787,0.72,West Bengal,Jhargram,33
+8,RAMANATH ORANG,Independent,7178,10,7188,0.48,West Bengal,Jhargram,33
+9,BIPLAB HEMBRAM,Independent,7156,14,7170,0.48,West Bengal,Jhargram,33
+10,BAPI SOREN,All India Secular Front,5854,41,5895,0.4,West Bengal,Jhargram,33
+11,BIRSABIR BASKEY,Ambedkarite Party of India,4344,18,4362,0.29,West Bengal,Jhargram,33
+12,SUSHIL MANDI,Socialist Unity Centre Of India (COMMUNIST),2879,13,2892,0.19,West Bengal,Jhargram,33
+13,GUNADHAR SING,Independent,2818,31,2849,0.19,West Bengal,Jhargram,33
+14,NOTA,None of the Above,15871,49,15920,1.07,West Bengal,Jhargram,33

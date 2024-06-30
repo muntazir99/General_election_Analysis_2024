@@ -1,11 +1,11 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,PARSHOTTAMBHAI RUPALA,Bharatiya Janata Party,850846,7138,857984,67.37,Gujarat,Rajkot
-2,DHANANI PARESH,Indian National Congress,368964,4760,373724,29.35,Gujarat,Rajkot
-3,CHAMANBHAI NAGJIBHAI SAVSANI,Bahujan Samaj Party,10356,109,10465,0.82,Gujarat,Rajkot
-4,AJAGIYA NIRALBHAI AMRUTLAL,Independent,3674,6,3680,0.29,Gujarat,Rajkot
-5,BHAVESHBHAI KANTILAL PIPALIYA,Independent,2846,10,2856,0.22,Gujarat,Rajkot
-6,BHAVESH UPENDRABHAI ACHARYA,Independent,2806,34,2840,0.22,Gujarat,Rajkot
-7,PRAKASH GOVINDBHAI SINDHAV,Independent,2355,34,2389,0.19,Gujarat,Rajkot
-8,ZALA NAYAN J.,Independent,2321,29,2350,0.18,Gujarat,Rajkot
-9,JIGNESHBHAI MAHAJAN,Independent,1322,10,1332,0.1,Gujarat,Rajkot
-10,NOTA,None of the Above,15288,634,15922,1.25,Gujarat,Rajkot
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,PARSHOTTAMBHAI RUPALA,Bharatiya Janata Party,850846,7138,857984,67.37,Gujarat,Rajkot,10
+2,DHANANI PARESH,Indian National Congress,368964,4760,373724,29.35,Gujarat,Rajkot,10
+3,CHAMANBHAI NAGJIBHAI SAVSANI,Bahujan Samaj Party,10356,109,10465,0.82,Gujarat,Rajkot,10
+4,AJAGIYA NIRALBHAI AMRUTLAL,Independent,3674,6,3680,0.29,Gujarat,Rajkot,10
+5,BHAVESHBHAI KANTILAL PIPALIYA,Independent,2846,10,2856,0.22,Gujarat,Rajkot,10
+6,BHAVESH UPENDRABHAI ACHARYA,Independent,2806,34,2840,0.22,Gujarat,Rajkot,10
+7,PRAKASH GOVINDBHAI SINDHAV,Independent,2355,34,2389,0.19,Gujarat,Rajkot,10
+8,ZALA NAYAN J.,Independent,2321,29,2350,0.18,Gujarat,Rajkot,10
+9,JIGNESHBHAI MAHAJAN,Independent,1322,10,1332,0.1,Gujarat,Rajkot,10
+10,NOTA,None of the Above,15288,634,15922,1.25,Gujarat,Rajkot,10

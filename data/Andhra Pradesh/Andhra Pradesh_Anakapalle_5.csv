@@ -1,17 +1,17 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,C.M.RAMESH,Bharatiya Janata Party,750027,12042,762069,57.5,Andhra Pradesh,Anakapalle
-2,BUDI MUTYALA NAIDU,Yuvajana Sramika Rythu Congress Party,459762,5777,465539,35.13,Andhra Pradesh,Anakapalle
-3,VEGI VENKATESH,Indian National Congress,24833,818,25651,1.94,Andhra Pradesh,Anakapalle
-4,PALAKA SREERAMA MURTHY,Bahujan Samaj Party,19082,75,19157,1.45,Andhra Pradesh,Anakapalle
-5,VANKAYALA RAMACHANDRA RAO,Independent,4001,1,4002,0.3,Andhra Pradesh,Anakapalle
-6,LOVARAJU SIDDHA,Independent,3845,7,3852,0.29,Andhra Pradesh,Anakapalle
-7,KRISHNA SWAROOP VADLAMURI,Dalita Bahujana Party,3549,8,3557,0.27,Andhra Pradesh,Anakapalle
-8,GARA SURYA RAO,Independent,3116,8,3124,0.24,Andhra Pradesh,Anakapalle
-9,APPALA RAJU NAMMI,Bharatha Chaitanya Yuvajana Party,2589,30,2619,0.2,Andhra Pradesh,Anakapalle
-10,NAGESWARA RAO PETLA,Independent,2179,5,2184,0.16,Andhra Pradesh,Anakapalle
-11,ADARI SARAT CHANDRA,Jai Bharat National Party,1886,27,1913,0.14,Andhra Pradesh,Anakapalle
-12,VIJAYA LAKSHMI KARRI,Pyramid Party of India,1578,13,1591,0.12,Andhra Pradesh,Anakapalle
-13,DR. THUMMAPALA HARI  SHANKAR,Independent,1567,9,1576,0.12,Andhra Pradesh,Anakapalle
-14,JUNNURI J SRINIVAS,Independent,1195,6,1201,0.09,Andhra Pradesh,Anakapalle
-15,APPALANAIDU TUMMAGUNTA,Independent,1055,7,1062,0.08,Andhra Pradesh,Anakapalle
-16,NOTA,None of the Above,26084,151,26235,1.98,Andhra Pradesh,Anakapalle
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,C.M.RAMESH,Bharatiya Janata Party,750027,12042,762069,57.5,Andhra Pradesh,Anakapalle,5
+2,BUDI MUTYALA NAIDU,Yuvajana Sramika Rythu Congress Party,459762,5777,465539,35.13,Andhra Pradesh,Anakapalle,5
+3,VEGI VENKATESH,Indian National Congress,24833,818,25651,1.94,Andhra Pradesh,Anakapalle,5
+4,PALAKA SREERAMA MURTHY,Bahujan Samaj Party,19082,75,19157,1.45,Andhra Pradesh,Anakapalle,5
+5,VANKAYALA RAMACHANDRA RAO,Independent,4001,1,4002,0.3,Andhra Pradesh,Anakapalle,5
+6,LOVARAJU SIDDHA,Independent,3845,7,3852,0.29,Andhra Pradesh,Anakapalle,5
+7,KRISHNA SWAROOP VADLAMURI,Dalita Bahujana Party,3549,8,3557,0.27,Andhra Pradesh,Anakapalle,5
+8,GARA SURYA RAO,Independent,3116,8,3124,0.24,Andhra Pradesh,Anakapalle,5
+9,APPALA RAJU NAMMI,Bharatha Chaitanya Yuvajana Party,2589,30,2619,0.2,Andhra Pradesh,Anakapalle,5
+10,NAGESWARA RAO PETLA,Independent,2179,5,2184,0.16,Andhra Pradesh,Anakapalle,5
+11,ADARI SARAT CHANDRA,Jai Bharat National Party,1886,27,1913,0.14,Andhra Pradesh,Anakapalle,5
+12,VIJAYA LAKSHMI KARRI,Pyramid Party of India,1578,13,1591,0.12,Andhra Pradesh,Anakapalle,5
+13,DR. THUMMAPALA HARI  SHANKAR,Independent,1567,9,1576,0.12,Andhra Pradesh,Anakapalle,5
+14,JUNNURI J SRINIVAS,Independent,1195,6,1201,0.09,Andhra Pradesh,Anakapalle,5
+15,APPALANAIDU TUMMAGUNTA,Independent,1055,7,1062,0.08,Andhra Pradesh,Anakapalle,5
+16,NOTA,None of the Above,26084,151,26235,1.98,Andhra Pradesh,Anakapalle,5

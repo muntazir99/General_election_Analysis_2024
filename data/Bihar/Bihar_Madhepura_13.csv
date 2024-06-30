@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DINESH CHANDRA YADAV,Janata Dal  (United),639758,891,640649,52.96,Bihar,Madhepura
-2,DA KUMAR CHANDRADEEP,Rashtriya Janata Dal,464982,1133,466115,38.53,Bihar,Madhepura
-3,SURESHWAR PODDAR,Aadarsh Mithila Party,15423,11,15434,1.28,Bihar,Madhepura
-4,MD ARSHAD HUSSAIN,Bahujan Samaj Party,12947,44,12991,1.07,Bihar,Madhepura
-5,JAWAHAR LAL JAISWAL,Socialist Unity Centre Of India (COMMUNIST),11320,2,11322,0.94,Bihar,Madhepura
-6,UCHESHWAR PANDIT,Samajhdar Party,11127,22,11149,0.92,Bihar,Madhepura
-7,PRO KAMESHWAR YADAV,Bharatiya Jan Kranti Dal (Democratic),10665,9,10674,0.88,Bihar,Madhepura
-8,AJABLAL MEHTA,Yuva Krantikari Party,8720,16,8736,0.72,Bihar,Madhepura
-9,NOTA,None of the Above,32557,68,32625,2.7,Bihar,Madhepura
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DINESH CHANDRA YADAV,Janata Dal  (United),639758,891,640649,52.96,Bihar,Madhepura,13
+2,DA KUMAR CHANDRADEEP,Rashtriya Janata Dal,464982,1133,466115,38.53,Bihar,Madhepura,13
+3,SURESHWAR PODDAR,Aadarsh Mithila Party,15423,11,15434,1.28,Bihar,Madhepura,13
+4,MD ARSHAD HUSSAIN,Bahujan Samaj Party,12947,44,12991,1.07,Bihar,Madhepura,13
+5,JAWAHAR LAL JAISWAL,Socialist Unity Centre Of India (COMMUNIST),11320,2,11322,0.94,Bihar,Madhepura,13
+6,UCHESHWAR PANDIT,Samajhdar Party,11127,22,11149,0.92,Bihar,Madhepura,13
+7,PRO KAMESHWAR YADAV,Bharatiya Jan Kranti Dal (Democratic),10665,9,10674,0.88,Bihar,Madhepura,13
+8,AJABLAL MEHTA,Yuva Krantikari Party,8720,16,8736,0.72,Bihar,Madhepura,13
+9,NOTA,None of the Above,32557,68,32625,2.7,Bihar,Madhepura,13

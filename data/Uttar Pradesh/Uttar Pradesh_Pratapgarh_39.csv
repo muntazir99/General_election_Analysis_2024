@@ -1,28 +1,28 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SHIV PAL SINGH PATEL (DR. S P SINGH),Samajwadi Party,439836,2096,441932,46.65,Uttar Pradesh,Pratapgarh
-2,SANGAM LAL GUPTA,Bharatiya Janata Party,374208,1518,375726,39.66,Uttar Pradesh,Pratapgarh
-3,PRATHMESH MISHRA 'SENANI',Bahujan Samaj Party,79872,272,80144,8.46,Uttar Pradesh,Pratapgarh
-4,SANDEEP SINGH,National Jan Dal,5270,16,5286,0.56,Uttar Pradesh,Pratapgarh
-5,ARUN KUMAR PANDEY,Hindustan Samaj Party,4984,7,4991,0.53,Uttar Pradesh,Pratapgarh
-6,SHIV RAM SHARMA,Moulik Adhikar Party,4709,2,4711,0.5,Uttar Pradesh,Pratapgarh
-7,AMAR SINGH,Independent,4135,3,4138,0.44,Uttar Pradesh,Pratapgarh
-8,SUNIL CHANDRA PAL,Rashtra Uday Party,3337,3,3340,0.35,Uttar Pradesh,Pratapgarh
-9,AJEET PRATAP,Independent,2581,-,2581,0.27,Uttar Pradesh,Pratapgarh
-10,VIJAY SINGH,Sanatan Sanskriti Raksha Dal,2457,2,2459,0.26,Uttar Pradesh,Pratapgarh
-11,RISHI PATEL,Apna Dal (Kamerawadi),2425,4,2429,0.26,Uttar Pradesh,Pratapgarh
-12,MAHESH KUMAR PRAJAPATI,Samajhdar Party,1963,1,1964,0.21,Uttar Pradesh,Pratapgarh
-13,DHANANJAY,Independent,1622,1,1623,0.17,Uttar Pradesh,Pratapgarh
-14,GEETA DEVI,Bhartiya Lokmat Rashtrwadi Party,1582,12,1594,0.17,Uttar Pradesh,Pratapgarh
-15,RAMSIDDH YADAV URF R.S.YADAV,Manavtawadi Samaj Party,1326,1,1327,0.14,Uttar Pradesh,Pratapgarh
-16,SUNIL KUMAR MISHRA,Independent,1134,2,1136,0.12,Uttar Pradesh,Pratapgarh
-17,SHANKAR SUMAN TIVARI,Independent,1128,1,1129,0.12,Uttar Pradesh,Pratapgarh
-18,DURGESH KUMAR,Rastriya Atal Janta Party,1113,3,1116,0.12,Uttar Pradesh,Pratapgarh
-19,RAM KUMAR YADAV,Socialist Unity Centre Of India (COMMUNIST),1070,1,1071,0.11,Uttar Pradesh,Pratapgarh
-20,SHIV PAL PATEL,Independent,1025,5,1030,0.11,Uttar Pradesh,Pratapgarh
-21,DHARMENDRA TIWARI,Log Party,992,1,993,0.1,Uttar Pradesh,Pratapgarh
-22,JOKHU PATEL,Sardar Patel Siddhant Party,969,2,971,0.1,Uttar Pradesh,Pratapgarh
-23,SHRAWAN KUMAR TRIPATHI,Independent,849,2,851,0.09,Uttar Pradesh,Pratapgarh
-24,DHYAN SINGH,Independent,675,3,678,0.07,Uttar Pradesh,Pratapgarh
-25,PRAMOD KUMAR,Independent,672,2,674,0.07,Uttar Pradesh,Pratapgarh
-26,MOHRAM ALI,Independent,501,2,503,0.05,Uttar Pradesh,Pratapgarh
-27,NOTA,None of the Above,2869,22,2891,0.31,Uttar Pradesh,Pratapgarh
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SHIV PAL SINGH PATEL (DR. S P SINGH),Samajwadi Party,439836,2096,441932,46.65,Uttar Pradesh,Pratapgarh,39
+2,SANGAM LAL GUPTA,Bharatiya Janata Party,374208,1518,375726,39.66,Uttar Pradesh,Pratapgarh,39
+3,PRATHMESH MISHRA 'SENANI',Bahujan Samaj Party,79872,272,80144,8.46,Uttar Pradesh,Pratapgarh,39
+4,SANDEEP SINGH,National Jan Dal,5270,16,5286,0.56,Uttar Pradesh,Pratapgarh,39
+5,ARUN KUMAR PANDEY,Hindustan Samaj Party,4984,7,4991,0.53,Uttar Pradesh,Pratapgarh,39
+6,SHIV RAM SHARMA,Moulik Adhikar Party,4709,2,4711,0.5,Uttar Pradesh,Pratapgarh,39
+7,AMAR SINGH,Independent,4135,3,4138,0.44,Uttar Pradesh,Pratapgarh,39
+8,SUNIL CHANDRA PAL,Rashtra Uday Party,3337,3,3340,0.35,Uttar Pradesh,Pratapgarh,39
+9,AJEET PRATAP,Independent,2581,-,2581,0.27,Uttar Pradesh,Pratapgarh,39
+10,VIJAY SINGH,Sanatan Sanskriti Raksha Dal,2457,2,2459,0.26,Uttar Pradesh,Pratapgarh,39
+11,RISHI PATEL,Apna Dal (Kamerawadi),2425,4,2429,0.26,Uttar Pradesh,Pratapgarh,39
+12,MAHESH KUMAR PRAJAPATI,Samajhdar Party,1963,1,1964,0.21,Uttar Pradesh,Pratapgarh,39
+13,DHANANJAY,Independent,1622,1,1623,0.17,Uttar Pradesh,Pratapgarh,39
+14,GEETA DEVI,Bhartiya Lokmat Rashtrwadi Party,1582,12,1594,0.17,Uttar Pradesh,Pratapgarh,39
+15,RAMSIDDH YADAV URF R.S.YADAV,Manavtawadi Samaj Party,1326,1,1327,0.14,Uttar Pradesh,Pratapgarh,39
+16,SUNIL KUMAR MISHRA,Independent,1134,2,1136,0.12,Uttar Pradesh,Pratapgarh,39
+17,SHANKAR SUMAN TIVARI,Independent,1128,1,1129,0.12,Uttar Pradesh,Pratapgarh,39
+18,DURGESH KUMAR,Rastriya Atal Janta Party,1113,3,1116,0.12,Uttar Pradesh,Pratapgarh,39
+19,RAM KUMAR YADAV,Socialist Unity Centre Of India (COMMUNIST),1070,1,1071,0.11,Uttar Pradesh,Pratapgarh,39
+20,SHIV PAL PATEL,Independent,1025,5,1030,0.11,Uttar Pradesh,Pratapgarh,39
+21,DHARMENDRA TIWARI,Log Party,992,1,993,0.1,Uttar Pradesh,Pratapgarh,39
+22,JOKHU PATEL,Sardar Patel Siddhant Party,969,2,971,0.1,Uttar Pradesh,Pratapgarh,39
+23,SHRAWAN KUMAR TRIPATHI,Independent,849,2,851,0.09,Uttar Pradesh,Pratapgarh,39
+24,DHYAN SINGH,Independent,675,3,678,0.07,Uttar Pradesh,Pratapgarh,39
+25,PRAMOD KUMAR,Independent,672,2,674,0.07,Uttar Pradesh,Pratapgarh,39
+26,MOHRAM ALI,Independent,501,2,503,0.05,Uttar Pradesh,Pratapgarh,39
+27,NOTA,None of the Above,2869,22,2891,0.31,Uttar Pradesh,Pratapgarh,39

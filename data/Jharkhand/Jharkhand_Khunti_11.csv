@@ -1,9 +1,9 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,KALI CHARAN MUNDA,Indian National Congress,503997,7650,511647,54.62,Jharkhand,Khunti
-2,ARJUN MUNDA,Bharatiya Janata Party,358076,3896,361972,38.64,Jharkhand,Khunti
-3,SAVITRI DEVI,Bahujan Samaj Party,12202,98,12300,1.31,Jharkhand,Khunti
-4,BASANT KUMAR LONGA,Independent,10735,20,10755,1.15,Jharkhand,Khunti
-5,ARPANA HANS,Jharkhand Party,8450,82,8532,0.91,Jharkhand,Khunti
-6,PASTAR SANJAY KUMAR TIRKEY,Independent,4944,19,4963,0.53,Jharkhand,Khunti
-7,BABITA KACHHAP,Bharat Adivasi Party,4507,87,4594,0.49,Jharkhand,Khunti
-8,NOTA,None of the Above,21814,105,21919,2.34,Jharkhand,Khunti
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,KALI CHARAN MUNDA,Indian National Congress,503997,7650,511647,54.62,Jharkhand,Khunti,11
+2,ARJUN MUNDA,Bharatiya Janata Party,358076,3896,361972,38.64,Jharkhand,Khunti,11
+3,SAVITRI DEVI,Bahujan Samaj Party,12202,98,12300,1.31,Jharkhand,Khunti,11
+4,BASANT KUMAR LONGA,Independent,10735,20,10755,1.15,Jharkhand,Khunti,11
+5,ARPANA HANS,Jharkhand Party,8450,82,8532,0.91,Jharkhand,Khunti,11
+6,PASTAR SANJAY KUMAR TIRKEY,Independent,4944,19,4963,0.53,Jharkhand,Khunti,11
+7,BABITA KACHHAP,Bharat Adivasi Party,4507,87,4594,0.49,Jharkhand,Khunti,11
+8,NOTA,None of the Above,21814,105,21919,2.34,Jharkhand,Khunti,11

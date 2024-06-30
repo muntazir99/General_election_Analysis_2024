@@ -1,33 +1,33 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,OMPRAKASH BHUPALSINH ALIAS PAVAN RAJENIMBALKAR,Shiv Sena (Uddhav Balasaheb Thackrey),743597,5155,748752,58.45,Maharashtra,Osmanabad
-2,ARCHANA RANAJAGJITSINH PATIL,Nationalist Congress Party,416699,2207,418906,32.7,Maharashtra,Osmanabad
-3,ANDHALKAR BHAUSAHEB RAOSAHEB,Vanchit Bahujan  Aaghadi,33221,181,33402,2.61,Maharashtra,Osmanabad
-4,GOVARDHAN SUBRAO NIMBALKAR,Independent,18947,19,18966,1.48,Maharashtra,Osmanabad
-5,DNYANESHWAR NAGANATHRAO KOLI,Samata Party,6459,13,6472,0.51,Maharashtra,Osmanabad
-6,KAKASAHEB SANDIPAN KHOT,Independent,5707,8,5715,0.45,Maharashtra,Osmanabad
-7,SANJAYKUMAR BHAGWAT WAGHMARE,Bahujan Samaj Party,5525,90,5615,0.44,Maharashtra,Osmanabad
-8,KAKA FULCHAND KAMBLE,Independent,4807,4,4811,0.38,Maharashtra,Osmanabad
-9,RAM HANUMANT SHENDAGE,Independent,3255,8,3263,0.25,Maharashtra,Osmanabad
-10,UMAJI PANDURANG GAIKWAD,Independent,3089,6,3095,0.24,Maharashtra,Osmanabad
-11,GORE NETAJI NAGNATH,Desh Janhit Party,2314,22,2336,0.18,Maharashtra,Osmanabad
-12,HANUMANT LAXMAN BONDAR,Independent,2170,2,2172,0.17,Maharashtra,Osmanabad
-13,NAVNATH DASHRATH UPALEKAR,Independent,2099,9,2108,0.16,Maharashtra,Osmanabad
-14,SIDDIK IBRAHIM BAUDIWALE ALIAS GOLABHAI,All India Majlis-E-Ittehadul Muslimeen,2052,8,2060,0.16,Maharashtra,Osmanabad
-15,ARJUN (DADA) SALGAR,Independent,1923,12,1935,0.15,Maharashtra,Osmanabad
-16,ARYANRAJE KISANRAO SHINDE,Rashtriya Samaj Dal (R),1852,35,1887,0.15,Maharashtra,Osmanabad
-17,SHAIKH NAUSHAD IQBAL,Swarajya Shakti Sena,1671,15,1686,0.13,Maharashtra,Osmanabad
-18,SHAMRAO HARIBHAU PAWAR,Samnak Janta Party,1492,17,1509,0.12,Maharashtra,Osmanabad
-19,YOGIRAJ ANANTA TAMBE,Independent,1326,10,1336,0.1,Maharashtra,Osmanabad
-20,SOMNATH NANASAHEB KAMBLE,Independent,1262,6,1268,0.1,Maharashtra,Osmanabad
-21,BHORE NITIN KHANDU,Independent,1195,9,1204,0.09,Maharashtra,Osmanabad
-22,MANOHAR ANANDRAO PATIL,Independent,1182,8,1190,0.09,Maharashtra,Osmanabad
-23,NAVNATH VISHWANATH DUDHAL,Vishva Shakti Party,1123,12,1135,0.09,Maharashtra,Osmanabad
-24,NITESH SHIVAJI PAWAR,Hindrashtra Sangh,1060,19,1079,0.08,Maharashtra,Osmanabad
-25,ADV. VISHVJEET VIJAYKUMAR SHINDE,Aadarsh Sangram Party,855,10,865,0.07,Maharashtra,Osmanabad
-26,SHAYANI NAVANATH JADHAV,Independent,779,3,782,0.06,Maharashtra,Osmanabad
-27,NITIN NAGNATH GAIKWAD,Independent,729,2,731,0.06,Maharashtra,Osmanabad
-28,ADV. BHAUSAHEB ANIL BELURE,Independent,675,2,677,0.05,Maharashtra,Osmanabad
-29,VILAS BHAGWAT GHADGE,Independent,604,6,610,0.05,Maharashtra,Osmanabad
-30,SAMEERSINGH RAMESHCHANDRA SALVI,Independent,591,3,594,0.05,Maharashtra,Osmanabad
-31,RAJKUMAR SAHEBRAO PATIL,Independent,589,4,593,0.05,Maharashtra,Osmanabad
-32,NOTA,None of the Above,4250,48,4298,0.34,Maharashtra,Osmanabad
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,OMPRAKASH BHUPALSINH ALIAS PAVAN RAJENIMBALKAR,Shiv Sena (Uddhav Balasaheb Thackrey),743597,5155,748752,58.45,Maharashtra,Osmanabad,40
+2,ARCHANA RANAJAGJITSINH PATIL,Nationalist Congress Party,416699,2207,418906,32.7,Maharashtra,Osmanabad,40
+3,ANDHALKAR BHAUSAHEB RAOSAHEB,Vanchit Bahujan  Aaghadi,33221,181,33402,2.61,Maharashtra,Osmanabad,40
+4,GOVARDHAN SUBRAO NIMBALKAR,Independent,18947,19,18966,1.48,Maharashtra,Osmanabad,40
+5,DNYANESHWAR NAGANATHRAO KOLI,Samata Party,6459,13,6472,0.51,Maharashtra,Osmanabad,40
+6,KAKASAHEB SANDIPAN KHOT,Independent,5707,8,5715,0.45,Maharashtra,Osmanabad,40
+7,SANJAYKUMAR BHAGWAT WAGHMARE,Bahujan Samaj Party,5525,90,5615,0.44,Maharashtra,Osmanabad,40
+8,KAKA FULCHAND KAMBLE,Independent,4807,4,4811,0.38,Maharashtra,Osmanabad,40
+9,RAM HANUMANT SHENDAGE,Independent,3255,8,3263,0.25,Maharashtra,Osmanabad,40
+10,UMAJI PANDURANG GAIKWAD,Independent,3089,6,3095,0.24,Maharashtra,Osmanabad,40
+11,GORE NETAJI NAGNATH,Desh Janhit Party,2314,22,2336,0.18,Maharashtra,Osmanabad,40
+12,HANUMANT LAXMAN BONDAR,Independent,2170,2,2172,0.17,Maharashtra,Osmanabad,40
+13,NAVNATH DASHRATH UPALEKAR,Independent,2099,9,2108,0.16,Maharashtra,Osmanabad,40
+14,SIDDIK IBRAHIM BAUDIWALE ALIAS GOLABHAI,All India Majlis-E-Ittehadul Muslimeen,2052,8,2060,0.16,Maharashtra,Osmanabad,40
+15,ARJUN (DADA) SALGAR,Independent,1923,12,1935,0.15,Maharashtra,Osmanabad,40
+16,ARYANRAJE KISANRAO SHINDE,Rashtriya Samaj Dal (R),1852,35,1887,0.15,Maharashtra,Osmanabad,40
+17,SHAIKH NAUSHAD IQBAL,Swarajya Shakti Sena,1671,15,1686,0.13,Maharashtra,Osmanabad,40
+18,SHAMRAO HARIBHAU PAWAR,Samnak Janta Party,1492,17,1509,0.12,Maharashtra,Osmanabad,40
+19,YOGIRAJ ANANTA TAMBE,Independent,1326,10,1336,0.1,Maharashtra,Osmanabad,40
+20,SOMNATH NANASAHEB KAMBLE,Independent,1262,6,1268,0.1,Maharashtra,Osmanabad,40
+21,BHORE NITIN KHANDU,Independent,1195,9,1204,0.09,Maharashtra,Osmanabad,40
+22,MANOHAR ANANDRAO PATIL,Independent,1182,8,1190,0.09,Maharashtra,Osmanabad,40
+23,NAVNATH VISHWANATH DUDHAL,Vishva Shakti Party,1123,12,1135,0.09,Maharashtra,Osmanabad,40
+24,NITESH SHIVAJI PAWAR,Hindrashtra Sangh,1060,19,1079,0.08,Maharashtra,Osmanabad,40
+25,ADV. VISHVJEET VIJAYKUMAR SHINDE,Aadarsh Sangram Party,855,10,865,0.07,Maharashtra,Osmanabad,40
+26,SHAYANI NAVANATH JADHAV,Independent,779,3,782,0.06,Maharashtra,Osmanabad,40
+27,NITIN NAGNATH GAIKWAD,Independent,729,2,731,0.06,Maharashtra,Osmanabad,40
+28,ADV. BHAUSAHEB ANIL BELURE,Independent,675,2,677,0.05,Maharashtra,Osmanabad,40
+29,VILAS BHAGWAT GHADGE,Independent,604,6,610,0.05,Maharashtra,Osmanabad,40
+30,SAMEERSINGH RAMESHCHANDRA SALVI,Independent,591,3,594,0.05,Maharashtra,Osmanabad,40
+31,RAJKUMAR SAHEBRAO PATIL,Independent,589,4,593,0.05,Maharashtra,Osmanabad,40
+32,NOTA,None of the Above,4250,48,4298,0.34,Maharashtra,Osmanabad,40

@@ -1,11 +1,11 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ABHIJIT GANGOPADHYAY,Bharatiya Janata Party,761183,4401,765584,48.54,West Bengal,Tamluk
-2,DEBANGSHU BHATTACHARYA,All India Trinamool Congress,683955,3896,687851,43.61,West Bengal,Tamluk
-3,SAYAN BANERJEE,Communist Party of India  (Marxist),84774,615,85389,5.41,West Bengal,Tamluk
-4,MOHIUDDIN AHMED MAHI,All India Secular Front,12303,36,12339,0.78,West Bengal,Tamluk
-5,SURYANEEL DAS,Independent,6012,2,6014,0.38,West Bengal,Tamluk
-6,NARAYAN CHANDRA NAYAK,Socialist Unity Centre Of India (COMMUNIST),5633,49,5682,0.36,West Bengal,Tamluk
-7,SABITRI BISHAI,Bahujan Samaj Party,3724,30,3754,0.24,West Bengal,Tamluk
-8,DEBAPRASAD JANA,Independent,1460,7,1467,0.09,West Bengal,Tamluk
-9,KALIPADA DAS,Independent,947,27,974,0.06,West Bengal,Tamluk
-10,NOTA,None of the Above,8223,42,8265,0.52,West Bengal,Tamluk
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ABHIJIT GANGOPADHYAY,Bharatiya Janata Party,761183,4401,765584,48.54,West Bengal,Tamluk,30
+2,DEBANGSHU BHATTACHARYA,All India Trinamool Congress,683955,3896,687851,43.61,West Bengal,Tamluk,30
+3,SAYAN BANERJEE,Communist Party of India  (Marxist),84774,615,85389,5.41,West Bengal,Tamluk,30
+4,MOHIUDDIN AHMED MAHI,All India Secular Front,12303,36,12339,0.78,West Bengal,Tamluk,30
+5,SURYANEEL DAS,Independent,6012,2,6014,0.38,West Bengal,Tamluk,30
+6,NARAYAN CHANDRA NAYAK,Socialist Unity Centre Of India (COMMUNIST),5633,49,5682,0.36,West Bengal,Tamluk,30
+7,SABITRI BISHAI,Bahujan Samaj Party,3724,30,3754,0.24,West Bengal,Tamluk,30
+8,DEBAPRASAD JANA,Independent,1460,7,1467,0.09,West Bengal,Tamluk,30
+9,KALIPADA DAS,Independent,947,27,974,0.06,West Bengal,Tamluk,30
+10,NOTA,None of the Above,8223,42,8265,0.52,West Bengal,Tamluk,30

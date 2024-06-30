@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,UJJWAL RAMAN SINGH,Indian National Congress,461100,1045,462145,48.8,Uttar Pradesh,Allahabad
-2,NEERAJ TRIPATHI,Bharatiya Janata Party,402659,691,403350,42.59,Uttar Pradesh,Allahabad
-3,RAMESH KUMAR PATEL,Bahujan Samaj Party,49045,99,49144,5.19,Uttar Pradesh,Allahabad
-4,GOPAL SWROOP JOSHI,Independent,4248,-,4248,0.45,Uttar Pradesh,Allahabad
-5,AJEET KUMAR PATEL,Pragatisheel Samaj Party,2641,1,2642,0.28,Uttar Pradesh,Allahabad
-6,MOOLNIWASI HEMRAJ SINGH,Peoples Party of India (Democratic),2350,5,2355,0.25,Uttar Pradesh,Allahabad
-7,GEETA RANI SHARMA,Independent,2197,-,2197,0.23,Uttar Pradesh,Allahabad
-8,HANSHRAJ KOL,Apna Dal (Kamerawadi),2137,4,2141,0.23,Uttar Pradesh,Allahabad
-9,RAJENDRA PRASAD PRAJAPATI,Bhagidari Party(P),1844,3,1847,0.2,Uttar Pradesh,Allahabad
-10,AVANEESH KUMAR,Independent,1834,1,1835,0.19,Uttar Pradesh,Allahabad
-11,ANUJ SWAROOP SHUKLA,Independent,1615,1,1616,0.17,Uttar Pradesh,Allahabad
-12,SHIV PRASAD VISHWAKARMA,Samyak Party,1326,-,1326,0.14,Uttar Pradesh,Allahabad
-13,SARVAJEET SINGH,Kamera Samaj Party,1177,-,1177,0.12,Uttar Pradesh,Allahabad
-14,RAJDHAR SINGH PATEL,Rashtriya Samaj Dal (R),1024,1,1025,0.11,Uttar Pradesh,Allahabad
-15,NOTA,None of the Above,9949,3,9952,1.05,Uttar Pradesh,Allahabad
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,UJJWAL RAMAN SINGH,Indian National Congress,461100,1045,462145,48.8,Uttar Pradesh,Allahabad,52
+2,NEERAJ TRIPATHI,Bharatiya Janata Party,402659,691,403350,42.59,Uttar Pradesh,Allahabad,52
+3,RAMESH KUMAR PATEL,Bahujan Samaj Party,49045,99,49144,5.19,Uttar Pradesh,Allahabad,52
+4,GOPAL SWROOP JOSHI,Independent,4248,-,4248,0.45,Uttar Pradesh,Allahabad,52
+5,AJEET KUMAR PATEL,Pragatisheel Samaj Party,2641,1,2642,0.28,Uttar Pradesh,Allahabad,52
+6,MOOLNIWASI HEMRAJ SINGH,Peoples Party of India (Democratic),2350,5,2355,0.25,Uttar Pradesh,Allahabad,52
+7,GEETA RANI SHARMA,Independent,2197,-,2197,0.23,Uttar Pradesh,Allahabad,52
+8,HANSHRAJ KOL,Apna Dal (Kamerawadi),2137,4,2141,0.23,Uttar Pradesh,Allahabad,52
+9,RAJENDRA PRASAD PRAJAPATI,Bhagidari Party(P),1844,3,1847,0.2,Uttar Pradesh,Allahabad,52
+10,AVANEESH KUMAR,Independent,1834,1,1835,0.19,Uttar Pradesh,Allahabad,52
+11,ANUJ SWAROOP SHUKLA,Independent,1615,1,1616,0.17,Uttar Pradesh,Allahabad,52
+12,SHIV PRASAD VISHWAKARMA,Samyak Party,1326,-,1326,0.14,Uttar Pradesh,Allahabad,52
+13,SARVAJEET SINGH,Kamera Samaj Party,1177,-,1177,0.12,Uttar Pradesh,Allahabad,52
+14,RAJDHAR SINGH PATEL,Rashtriya Samaj Dal (R),1024,1,1025,0.11,Uttar Pradesh,Allahabad,52
+15,NOTA,None of the Above,9949,3,9952,1.05,Uttar Pradesh,Allahabad,52

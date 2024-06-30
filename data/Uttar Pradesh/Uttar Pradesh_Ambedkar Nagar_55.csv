@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,LALJI VERMA,Samajwadi Party,543721,1238,544959,46.3,Uttar Pradesh,Ambedkar Nagar
-2,RITESH PANDEY,Bharatiya Janata Party,406851,861,407712,34.64,Uttar Pradesh,Ambedkar Nagar
-3,QAMAR HAYAT,Bahujan Samaj Party,199252,247,199499,16.95,Uttar Pradesh,Ambedkar Nagar
-4,NEELAM SINGH,Moolniwasi Samaj Party,4321,10,4331,0.37,Uttar Pradesh,Ambedkar Nagar
-5,SHABANA KHATOON,Peace Party,3983,7,3990,0.34,Uttar Pradesh,Ambedkar Nagar
-6,JAVED AHMAD SIDDIQUI,Independent,3857,3,3860,0.33,Uttar Pradesh,Ambedkar Nagar
-7,RAM NARESH PRAJAPATI,Bhagidari Party(P),3410,3,3413,0.29,Uttar Pradesh,Ambedkar Nagar
-8,VIVEK KUMAR,Bhartiya Shakti Chetna Party,1848,2,1850,0.16,Uttar Pradesh,Ambedkar Nagar
-9,NOTA,None of the Above,7429,19,7448,0.63,Uttar Pradesh,Ambedkar Nagar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,LALJI VERMA,Samajwadi Party,543721,1238,544959,46.3,Uttar Pradesh,Ambedkar Nagar,55
+2,RITESH PANDEY,Bharatiya Janata Party,406851,861,407712,34.64,Uttar Pradesh,Ambedkar Nagar,55
+3,QAMAR HAYAT,Bahujan Samaj Party,199252,247,199499,16.95,Uttar Pradesh,Ambedkar Nagar,55
+4,NEELAM SINGH,Moolniwasi Samaj Party,4321,10,4331,0.37,Uttar Pradesh,Ambedkar Nagar,55
+5,SHABANA KHATOON,Peace Party,3983,7,3990,0.34,Uttar Pradesh,Ambedkar Nagar,55
+6,JAVED AHMAD SIDDIQUI,Independent,3857,3,3860,0.33,Uttar Pradesh,Ambedkar Nagar,55
+7,RAM NARESH PRAJAPATI,Bhagidari Party(P),3410,3,3413,0.29,Uttar Pradesh,Ambedkar Nagar,55
+8,VIVEK KUMAR,Bhartiya Shakti Chetna Party,1848,2,1850,0.16,Uttar Pradesh,Ambedkar Nagar,55
+9,NOTA,None of the Above,7429,19,7448,0.63,Uttar Pradesh,Ambedkar Nagar,55

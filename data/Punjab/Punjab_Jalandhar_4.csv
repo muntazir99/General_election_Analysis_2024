@@ -1,22 +1,22 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,CHARANJIT SINGH CHANNI,Indian National Congress,389509,544,390053,39.43,Punjab,Jalandhar
-2,SUSHIL KUMAR RINKU,Bharatiya Janata Party,213702,358,214060,21.64,Punjab,Jalandhar
-3,PAWAN KUMAR TINU,Aam Aadmi Party,208549,340,208889,21.12,Punjab,Jalandhar
-4,MOHINDER SINGH KAYPEE,Shiromani Akali Dal,67811,100,67911,6.87,Punjab,Jalandhar
-5,ADVOCATE BALWINDER KUMAR,Bahujan Samaj Party,64856,85,64941,6.57,Punjab,Jalandhar
-6,SARABJIT SINGH KHALSA,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann),19252,32,19284,1.95,Punjab,Jalandhar
-7,MASTER PARSHOTAM LAL BILGA,Communist Party of India  (Marxist),5948,10,5958,0.6,Punjab,Jalandhar
-8,IQBAL CHAND MATTU,Independent,1956,-,1956,0.2,Punjab,Jalandhar
-9,NEETU SHATTRA WALA,Independent,1878,1,1879,0.19,Punjab,Jalandhar
-10,AMRISH BHAGAT,Independent,1183,1,1184,0.12,Punjab,Jalandhar
-11,GURDEEP SINGH BITTU,Independent,1112,1,1113,0.11,Punjab,Jalandhar
-12,RAJ KUMAR SAQI,Peoples Party of India (Democratic),1087,1,1088,0.11,Punjab,Jalandhar
-13,SONIA,Republican Party of India (Athawale),1054,1,1055,0.11,Punjab,Jalandhar
-14,RAJWANT KAUR KHALSA,Apna Samaj Party,948,4,952,0.1,Punjab,Jalandhar
-15,BHAGAT GULSHAN AZAAD,Democratic Bharatiya Samaj Party,929,1,930,0.09,Punjab,Jalandhar
-16,RAMESH LAL KALA,Independent,875,1,876,0.09,Punjab,Jalandhar
-17,ASHOK KUMAR JAKHU,Independent,742,1,743,0.08,Punjab,Jalandhar
-18,BAL MUKAND BAWRA,Global Republican Party,587,4,591,0.06,Punjab,Jalandhar
-19,PARAMJIT KAUR TEJI,Independent,500,-,500,0.05,Punjab,Jalandhar
-20,TARACHAND SHEELA,Loktantrik Lok Rajyam Party,400,1,401,0.04,Punjab,Jalandhar
-21,NOTA,None of the Above,4724,19,4743,0.48,Punjab,Jalandhar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,CHARANJIT SINGH CHANNI,Indian National Congress,389509,544,390053,39.43,Punjab,Jalandhar,4
+2,SUSHIL KUMAR RINKU,Bharatiya Janata Party,213702,358,214060,21.64,Punjab,Jalandhar,4
+3,PAWAN KUMAR TINU,Aam Aadmi Party,208549,340,208889,21.12,Punjab,Jalandhar,4
+4,MOHINDER SINGH KAYPEE,Shiromani Akali Dal,67811,100,67911,6.87,Punjab,Jalandhar,4
+5,ADVOCATE BALWINDER KUMAR,Bahujan Samaj Party,64856,85,64941,6.57,Punjab,Jalandhar,4
+6,SARABJIT SINGH KHALSA,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann),19252,32,19284,1.95,Punjab,Jalandhar,4
+7,MASTER PARSHOTAM LAL BILGA,Communist Party of India  (Marxist),5948,10,5958,0.6,Punjab,Jalandhar,4
+8,IQBAL CHAND MATTU,Independent,1956,-,1956,0.2,Punjab,Jalandhar,4
+9,NEETU SHATTRA WALA,Independent,1878,1,1879,0.19,Punjab,Jalandhar,4
+10,AMRISH BHAGAT,Independent,1183,1,1184,0.12,Punjab,Jalandhar,4
+11,GURDEEP SINGH BITTU,Independent,1112,1,1113,0.11,Punjab,Jalandhar,4
+12,RAJ KUMAR SAQI,Peoples Party of India (Democratic),1087,1,1088,0.11,Punjab,Jalandhar,4
+13,SONIA,Republican Party of India (Athawale),1054,1,1055,0.11,Punjab,Jalandhar,4
+14,RAJWANT KAUR KHALSA,Apna Samaj Party,948,4,952,0.1,Punjab,Jalandhar,4
+15,BHAGAT GULSHAN AZAAD,Democratic Bharatiya Samaj Party,929,1,930,0.09,Punjab,Jalandhar,4
+16,RAMESH LAL KALA,Independent,875,1,876,0.09,Punjab,Jalandhar,4
+17,ASHOK KUMAR JAKHU,Independent,742,1,743,0.08,Punjab,Jalandhar,4
+18,BAL MUKAND BAWRA,Global Republican Party,587,4,591,0.06,Punjab,Jalandhar,4
+19,PARAMJIT KAUR TEJI,Independent,500,-,500,0.05,Punjab,Jalandhar,4
+20,TARACHAND SHEELA,Loktantrik Lok Rajyam Party,400,1,401,0.04,Punjab,Jalandhar,4
+21,NOTA,None of the Above,4724,19,4743,0.48,Punjab,Jalandhar,4

@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,LOVELY ANAND,Janata Dal  (United),475709,903,476612,45.15,Bihar,Sheohar
-2,RITU JAISWAL,Rashtriya Janata Dal,445482,1987,447469,42.39,Bihar,Sheohar
-3,AKHILESHWAR SHRIVAISHANV,Independent,29014,80,29094,2.76,Bihar,Sheohar
-4,KANHAIYA KUMAR,Independent,20585,7,20592,1.95,Bihar,Sheohar
-5,RANA RANJIT,All India Majlis-E-Ittehadul Muslimeen,11947,32,11979,1.13,Bihar,Sheohar
-6,SUDHIR KUMAR SINGH,Viro Ke Vir Indian Party,9096,6,9102,0.86,Bihar,Sheohar
-7,VIJENDRA THAKUR,Bahujan Samaj Party,8865,23,8888,0.84,Bihar,Sheohar
-8,UPENDRA SAHANI,Rashtriya Jansambhavna Party,6332,6,6338,0.6,Bihar,Sheohar
-9,MAMTA KUMARI,Samata Party,5431,4,5435,0.51,Bihar,Sheohar
-10,MOHAMMAD MAHTAB ALAM,Samaj Shakti Party,4867,4,4871,0.46,Bihar,Sheohar
-11,JAGDISH PRASAD,Bajjikanchal Vikas Party,2950,5,2955,0.28,Bihar,Sheohar
-12,DILIP KUMAR MISHRA,Prabal Bharat Party,2097,2,2099,0.2,Bihar,Sheohar
-13,NOTA,None of the Above,30130,38,30168,2.86,Bihar,Sheohar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,LOVELY ANAND,Janata Dal  (United),475709,903,476612,45.15,Bihar,Sheohar,4
+2,RITU JAISWAL,Rashtriya Janata Dal,445482,1987,447469,42.39,Bihar,Sheohar,4
+3,AKHILESHWAR SHRIVAISHANV,Independent,29014,80,29094,2.76,Bihar,Sheohar,4
+4,KANHAIYA KUMAR,Independent,20585,7,20592,1.95,Bihar,Sheohar,4
+5,RANA RANJIT,All India Majlis-E-Ittehadul Muslimeen,11947,32,11979,1.13,Bihar,Sheohar,4
+6,SUDHIR KUMAR SINGH,Viro Ke Vir Indian Party,9096,6,9102,0.86,Bihar,Sheohar,4
+7,VIJENDRA THAKUR,Bahujan Samaj Party,8865,23,8888,0.84,Bihar,Sheohar,4
+8,UPENDRA SAHANI,Rashtriya Jansambhavna Party,6332,6,6338,0.6,Bihar,Sheohar,4
+9,MAMTA KUMARI,Samata Party,5431,4,5435,0.51,Bihar,Sheohar,4
+10,MOHAMMAD MAHTAB ALAM,Samaj Shakti Party,4867,4,4871,0.46,Bihar,Sheohar,4
+11,JAGDISH PRASAD,Bajjikanchal Vikas Party,2950,5,2955,0.28,Bihar,Sheohar,4
+12,DILIP KUMAR MISHRA,Prabal Bharat Party,2097,2,2099,0.2,Bihar,Sheohar,4
+13,NOTA,None of the Above,30130,38,30168,2.86,Bihar,Sheohar,4

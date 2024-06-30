@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,AMIT SHAH,Bharatiya Janata Party,999984,10988,1010972,76.48,Gujarat,Gandhinagar
-2,SONAL RAMANBHAI PATEL,Indian National Congress,261411,4845,266256,20.14,Gujarat,Gandhinagar
-3,MOHAMMEDANISH DESAI,Bahujan Samaj Party,7272,122,7394,0.56,Gujarat,Gandhinagar
-4,SHAHNAWAZKHAN SULTANKHAN PATHAN,Independent,2325,7,2332,0.18,Gujarat,Gandhinagar
-5,MALEK MAKBUL SHAKIB,Independent,2052,6,2058,0.16,Gujarat,Gandhinagar
-6,THAKOR JITENDRASINH JASHAVANTSINH,Insaniyat Party,1949,60,2009,0.15,Gujarat,Gandhinagar
-7,PARIKH RAJIVBHAI KALABHAI,Independent,1719,32,1751,0.13,Gujarat,Gandhinagar
-8,MANSURI SUHANA,Independent,1437,16,1453,0.11,Gujarat,Gandhinagar
-9,MAURYA SUMITRA DEVNARIAN,Prajatantra Aadhar Party,1205,12,1217,0.09,Gujarat,Gandhinagar
-10,UMADIYA ALIBHAI RAJABHAI,Independent,1004,5,1009,0.08,Gujarat,Gandhinagar
-11,RAHUL CHIMANBHAI MEHTA,Right to Recall Party,982,19,1001,0.08,Gujarat,Gandhinagar
-12,PATHAN IMTIYAJKHAN,Independent,786,56,842,0.06,Gujarat,Gandhinagar
-13,BAGVAN BAHADURSHAH GULMOHAMMAD,Independent,755,16,771,0.06,Gujarat,Gandhinagar
-14,NAVSADALAM IBRAHIMBHAI MALEK,Independent,726,6,732,0.06,Gujarat,Gandhinagar
-15,NOTA,None of the Above,21233,772,22005,1.66,Gujarat,Gandhinagar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,AMIT SHAH,Bharatiya Janata Party,999984,10988,1010972,76.48,Gujarat,Gandhinagar,6
+2,SONAL RAMANBHAI PATEL,Indian National Congress,261411,4845,266256,20.14,Gujarat,Gandhinagar,6
+3,MOHAMMEDANISH DESAI,Bahujan Samaj Party,7272,122,7394,0.56,Gujarat,Gandhinagar,6
+4,SHAHNAWAZKHAN SULTANKHAN PATHAN,Independent,2325,7,2332,0.18,Gujarat,Gandhinagar,6
+5,MALEK MAKBUL SHAKIB,Independent,2052,6,2058,0.16,Gujarat,Gandhinagar,6
+6,THAKOR JITENDRASINH JASHAVANTSINH,Insaniyat Party,1949,60,2009,0.15,Gujarat,Gandhinagar,6
+7,PARIKH RAJIVBHAI KALABHAI,Independent,1719,32,1751,0.13,Gujarat,Gandhinagar,6
+8,MANSURI SUHANA,Independent,1437,16,1453,0.11,Gujarat,Gandhinagar,6
+9,MAURYA SUMITRA DEVNARIAN,Prajatantra Aadhar Party,1205,12,1217,0.09,Gujarat,Gandhinagar,6
+10,UMADIYA ALIBHAI RAJABHAI,Independent,1004,5,1009,0.08,Gujarat,Gandhinagar,6
+11,RAHUL CHIMANBHAI MEHTA,Right to Recall Party,982,19,1001,0.08,Gujarat,Gandhinagar,6
+12,PATHAN IMTIYAJKHAN,Independent,786,56,842,0.06,Gujarat,Gandhinagar,6
+13,BAGVAN BAHADURSHAH GULMOHAMMAD,Independent,755,16,771,0.06,Gujarat,Gandhinagar,6
+14,NAVSADALAM IBRAHIMBHAI MALEK,Independent,726,6,732,0.06,Gujarat,Gandhinagar,6
+15,NOTA,None of the Above,21233,772,22005,1.66,Gujarat,Gandhinagar,6

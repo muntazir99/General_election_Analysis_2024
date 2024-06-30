@@ -1,24 +1,24 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SATPAL BRAHAMCHARI,Indian National Congress,546163,2519,548682,48.82,Haryana,SONIPAT
-2,MOHAN LAL BADOLI,Bharatiya Janata Party,525069,1797,526866,46.88,Haryana,SONIPAT
-3,UMESH KUMAR,Bahujan Samaj Party,12742,80,12822,1.14,Haryana,SONIPAT
-4,ANOOP SINGH,Indian National Lok Dal,11384,139,11523,1.03,Haryana,SONIPAT
-5,BHUPENDER SINGH MALIK,Jannayak Janta Party,7716,104,7820,0.7,Haryana,SONIPAT
-6,SANT DHARAMVEER CHOTIVALA,Independent,2150,4,2154,0.19,Haryana,SONIPAT
-7,RAMESH,Independent,1651,-,1651,0.15,Haryana,SONIPAT
-8,NARESH KASHYAP,Aam Aadmi Parivartan Party,1622,36,1658,0.15,Haryana,SONIPAT
-9,SATPAL,Independent,1215,2,1217,0.11,Haryana,SONIPAT
-10,GAUBHAGAT SUMIT LATHER,Independent,877,5,882,0.08,Haryana,SONIPAT
-11,DR. KAMLESH KUMAR SAINI,Independent,863,3,866,0.08,Haryana,SONIPAT
-12,ROHTASH,Independent,775,2,777,0.07,Haryana,SONIPAT
-13,BALBIR SINGH,Socialist Unity Centre Of India (COMMUNIST),765,3,768,0.07,Haryana,SONIPAT
-14,ASHWANI,Independent,694,1,695,0.06,Haryana,SONIPAT
-15,SANJAY DASS,Independent,569,3,572,0.05,Haryana,SONIPAT
-16,JAGBEER,Independent,521,3,524,0.05,Haryana,SONIPAT
-17,SUNIL KUMAR,Rashtriya Garib Dal,456,11,467,0.04,Haryana,SONIPAT
-18,RADHEY SHYAM,Peoples Party of India (Democratic),438,3,441,0.04,Haryana,SONIPAT
-19,RAKESH,Samata Party,407,3,410,0.04,Haryana,SONIPAT
-20,NIRMAL SINGH,Independent,317,1,318,0.03,Haryana,SONIPAT
-21,SURENDER SINGH,Independent,295,1,296,0.03,Haryana,SONIPAT
-22,RAKESH DHARIWAL,Rashtriya Jatigat Aarakshan Virodhi Party,214,1,215,0.02,Haryana,SONIPAT
-23,NOTA,None of the Above,2287,33,2320,0.21,Haryana,SONIPAT
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SATPAL BRAHAMCHARI,Indian National Congress,546163,2519,548682,48.82,Haryana,SONIPAT,6
+2,MOHAN LAL BADOLI,Bharatiya Janata Party,525069,1797,526866,46.88,Haryana,SONIPAT,6
+3,UMESH KUMAR,Bahujan Samaj Party,12742,80,12822,1.14,Haryana,SONIPAT,6
+4,ANOOP SINGH,Indian National Lok Dal,11384,139,11523,1.03,Haryana,SONIPAT,6
+5,BHUPENDER SINGH MALIK,Jannayak Janta Party,7716,104,7820,0.7,Haryana,SONIPAT,6
+6,SANT DHARAMVEER CHOTIVALA,Independent,2150,4,2154,0.19,Haryana,SONIPAT,6
+7,RAMESH,Independent,1651,-,1651,0.15,Haryana,SONIPAT,6
+8,NARESH KASHYAP,Aam Aadmi Parivartan Party,1622,36,1658,0.15,Haryana,SONIPAT,6
+9,SATPAL,Independent,1215,2,1217,0.11,Haryana,SONIPAT,6
+10,GAUBHAGAT SUMIT LATHER,Independent,877,5,882,0.08,Haryana,SONIPAT,6
+11,DR. KAMLESH KUMAR SAINI,Independent,863,3,866,0.08,Haryana,SONIPAT,6
+12,ROHTASH,Independent,775,2,777,0.07,Haryana,SONIPAT,6
+13,BALBIR SINGH,Socialist Unity Centre Of India (COMMUNIST),765,3,768,0.07,Haryana,SONIPAT,6
+14,ASHWANI,Independent,694,1,695,0.06,Haryana,SONIPAT,6
+15,SANJAY DASS,Independent,569,3,572,0.05,Haryana,SONIPAT,6
+16,JAGBEER,Independent,521,3,524,0.05,Haryana,SONIPAT,6
+17,SUNIL KUMAR,Rashtriya Garib Dal,456,11,467,0.04,Haryana,SONIPAT,6
+18,RADHEY SHYAM,Peoples Party of India (Democratic),438,3,441,0.04,Haryana,SONIPAT,6
+19,RAKESH,Samata Party,407,3,410,0.04,Haryana,SONIPAT,6
+20,NIRMAL SINGH,Independent,317,1,318,0.03,Haryana,SONIPAT,6
+21,SURENDER SINGH,Independent,295,1,296,0.03,Haryana,SONIPAT,6
+22,RAKESH DHARIWAL,Rashtriya Jatigat Aarakshan Virodhi Party,214,1,215,0.02,Haryana,SONIPAT,6
+23,NOTA,None of the Above,2287,33,2320,0.21,Haryana,SONIPAT,6

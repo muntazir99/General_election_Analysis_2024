@@ -1,15 +1,15 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SARMISTHA SETHI,Biju Janata Dal,529428,3224,532652,45.87,Odisha,Jajpur
-2,RABINDRA NARAYAN BEHERA,Bharatiya Janata Party,528959,5280,534239,46.01,Odisha,Jajpur
-3,ANCHAL DAS,Indian National Congress,52455,690,53145,4.58,Odisha,Jajpur
-4,SUBASH CHANDRA MALLIK,Socialist Unity Centre Of India (COMMUNIST),17955,52,18007,1.55,Odisha,Jajpur
-5,ER. SANDHYA RANI MALLICK,Bahujan Samaj Party,3189,29,3218,0.28,Odisha,Jajpur
-6,BHAIRABA PRASAD BEHERA,Independent,2398,5,2403,0.21,Odisha,Jajpur
-7,SUMANTA MALIK,Independent,2295,6,2301,0.2,Odisha,Jajpur
-8,BIDYADHAR DALEI,Ambedkarite Party of India,2172,-,2172,0.19,Odisha,Jajpur
-9,JHUNA MALIK,Manas Lokshakti Dal,2075,2,2077,0.18,Odisha,Jajpur
-10,ARTTATRANA MALIK,Independent,1234,18,1252,0.11,Odisha,Jajpur
-11,NARENDRA MALIKA,Independent,1119,-,1119,0.1,Odisha,Jajpur
-12,MANTU SETHI,Janta Darbar Party,954,2,956,0.08,Odisha,Jajpur
-13,BINOD KUMAR JENA,Gana Suraksha Party,876,3,879,0.08,Odisha,Jajpur
-14,NOTA,None of the Above,6738,50,6788,0.58,Odisha,Jajpur
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SARMISTHA SETHI,Biju Janata Dal,529428,3224,532652,45.87,Odisha,Jajpur,8
+2,RABINDRA NARAYAN BEHERA,Bharatiya Janata Party,528959,5280,534239,46.01,Odisha,Jajpur,8
+3,ANCHAL DAS,Indian National Congress,52455,690,53145,4.58,Odisha,Jajpur,8
+4,SUBASH CHANDRA MALLIK,Socialist Unity Centre Of India (COMMUNIST),17955,52,18007,1.55,Odisha,Jajpur,8
+5,ER. SANDHYA RANI MALLICK,Bahujan Samaj Party,3189,29,3218,0.28,Odisha,Jajpur,8
+6,BHAIRABA PRASAD BEHERA,Independent,2398,5,2403,0.21,Odisha,Jajpur,8
+7,SUMANTA MALIK,Independent,2295,6,2301,0.2,Odisha,Jajpur,8
+8,BIDYADHAR DALEI,Ambedkarite Party of India,2172,-,2172,0.19,Odisha,Jajpur,8
+9,JHUNA MALIK,Manas Lokshakti Dal,2075,2,2077,0.18,Odisha,Jajpur,8
+10,ARTTATRANA MALIK,Independent,1234,18,1252,0.11,Odisha,Jajpur,8
+11,NARENDRA MALIKA,Independent,1119,-,1119,0.1,Odisha,Jajpur,8
+12,MANTU SETHI,Janta Darbar Party,954,2,956,0.08,Odisha,Jajpur,8
+13,BINOD KUMAR JENA,Gana Suraksha Party,876,3,879,0.08,Odisha,Jajpur,8
+14,NOTA,None of the Above,6738,50,6788,0.58,Odisha,Jajpur,8

@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,K. SUDHAKARAN,Indian National Congress,512266,6258,518524,48.74,Kerala,Kannur
-2,M.V. JAYARAJAN,Communist Party of India  (Marxist),402614,6928,409542,38.5,Kerala,Kannur
-3,C. RAGHUNATH,Bharatiya Janata Party,118352,1524,119876,11.27,Kerala,Kannur
-4,RAMACHANDRAN BAVILEERI,Bharatheeya Jawan Kisan Party,2606,43,2649,0.25,Kerala,Kannur
-5,K. SUDHAKARAN S/O. KRISHNAN,Independent,990,19,1009,0.09,Kerala,Kannur
-6,SUDHAKARAN. K S/O. P GOPALAN,Independent,893,3,896,0.08,Kerala,Kannur
-7,JOY JOHN PATTAR MADATHIL,Independent,616,2,618,0.06,Kerala,Kannur
-8,JAYARAJ,Independent,478,10,488,0.05,Kerala,Kannur
-9,JAYARAJAN S/O. VELAYUDHAN,Independent,421,4,425,0.04,Kerala,Kannur
-10,VADI HAREENDRAN,Independent,289,54,343,0.03,Kerala,Kannur
-11,C. BALAKRISHNAN YADAV,Independent,279,25,304,0.03,Kerala,Kannur
-12,NARAYANA KUMAR,Independent,263,45,308,0.03,Kerala,Kannur
-13,NOTA,None of the Above,8718,155,8873,0.83,Kerala,Kannur
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,K. SUDHAKARAN,Indian National Congress,512266,6258,518524,48.74,Kerala,Kannur,2
+2,M.V. JAYARAJAN,Communist Party of India  (Marxist),402614,6928,409542,38.5,Kerala,Kannur,2
+3,C. RAGHUNATH,Bharatiya Janata Party,118352,1524,119876,11.27,Kerala,Kannur,2
+4,RAMACHANDRAN BAVILEERI,Bharatheeya Jawan Kisan Party,2606,43,2649,0.25,Kerala,Kannur,2
+5,K. SUDHAKARAN S/O. KRISHNAN,Independent,990,19,1009,0.09,Kerala,Kannur,2
+6,SUDHAKARAN. K S/O. P GOPALAN,Independent,893,3,896,0.08,Kerala,Kannur,2
+7,JOY JOHN PATTAR MADATHIL,Independent,616,2,618,0.06,Kerala,Kannur,2
+8,JAYARAJ,Independent,478,10,488,0.05,Kerala,Kannur,2
+9,JAYARAJAN S/O. VELAYUDHAN,Independent,421,4,425,0.04,Kerala,Kannur,2
+10,VADI HAREENDRAN,Independent,289,54,343,0.03,Kerala,Kannur,2
+11,C. BALAKRISHNAN YADAV,Independent,279,25,304,0.03,Kerala,Kannur,2
+12,NARAYANA KUMAR,Independent,263,45,308,0.03,Kerala,Kannur,2
+13,NOTA,None of the Above,8718,155,8873,0.83,Kerala,Kannur,2

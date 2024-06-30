@@ -1,9 +1,9 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SHATRUGHAN PRASAD SINHA,All India Trinamool Congress,603105,2540,605645,46.53,West Bengal,Asansol
-2,SURENDRAJEET SINGH AHLUWALIA,Bharatiya Janata Party,544077,2004,546081,41.96,West Bengal,Asansol
-3,JAHANARA KHAN,Communist Party of India  (Marxist),105454,510,105964,8.14,West Bengal,Asansol
-4,DIPIKA BAURI,Independent,10623,24,10647,0.82,West Bengal,Asansol
-5,SUNNY KUMAR SAH,Bahujan Samaj Party,8546,29,8575,0.66,West Bengal,Asansol
-6,SUJIT PAL,Independent,4749,11,4760,0.37,West Bengal,Asansol
-7,AMARNATH CHOWDHURY,Socialist Unity Centre Of India (COMMUNIST),4330,28,4358,0.33,West Bengal,Asansol
-8,NOTA,None of the Above,15448,62,15510,1.19,West Bengal,Asansol
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SHATRUGHAN PRASAD SINHA,All India Trinamool Congress,603105,2540,605645,46.53,West Bengal,Asansol,40
+2,SURENDRAJEET SINGH AHLUWALIA,Bharatiya Janata Party,544077,2004,546081,41.96,West Bengal,Asansol,40
+3,JAHANARA KHAN,Communist Party of India  (Marxist),105454,510,105964,8.14,West Bengal,Asansol,40
+4,DIPIKA BAURI,Independent,10623,24,10647,0.82,West Bengal,Asansol,40
+5,SUNNY KUMAR SAH,Bahujan Samaj Party,8546,29,8575,0.66,West Bengal,Asansol,40
+6,SUJIT PAL,Independent,4749,11,4760,0.37,West Bengal,Asansol,40
+7,AMARNATH CHOWDHURY,Socialist Unity Centre Of India (COMMUNIST),4330,28,4358,0.33,West Bengal,Asansol,40
+8,NOTA,None of the Above,15448,62,15510,1.19,West Bengal,Asansol,40

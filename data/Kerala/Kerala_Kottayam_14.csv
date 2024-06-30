@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ADV K FRANCIS GEORGE,Kerala Congress,358369,6262,364631,43.6,Kerala,Kottayam
-2,THOMAS CHAZHIKADAN,Kerala Congress  (M),272418,4947,277365,33.17,Kerala,Kottayam
-3,THUSHAR VELLAPPALLY,Bharath Dharma Jana Sena,163227,1819,165046,19.74,Kerala,Kottayam
-4,VIJU CHERIAN,Bahujan Samaj Party,7075,148,7223,0.86,Kerala,Kottayam
-5,P O PETER,Samajwadi Jan Parishad,1581,56,1637,0.2,Kerala,Kottayam
-6,V P KOCHUMON,Socialist Unity Centre Of India (COMMUNIST),1551,44,1595,0.19,Kerala,Kottayam
-7,JOSSIN K JOSEPH,Independent,1397,92,1489,0.18,Kerala,Kottayam
-8,CHANDRABOSE P,Independent,1071,16,1087,0.13,Kerala,Kottayam
-9,M M SCARIA,Independent,913,14,927,0.11,Kerala,Kottayam
-10,JOEMON JOSEPH SRAMPICKAL A P J JUMAN V S,Independent,875,18,893,0.11,Kerala,Kottayam
-11,ROBY MATTAPPALLY,Independent,697,42,739,0.09,Kerala,Kottayam
-12,SANTHOSH PULICKAL,Independent,686,24,710,0.08,Kerala,Kottayam
-13,SUNIL ALANCHERIL,Independent,499,28,527,0.06,Kerala,Kottayam
-14,MAN HOUSE MANMADHAN,Independent,403,18,421,0.05,Kerala,Kottayam
-15,NOTA,None of the Above,11804,129,11933,1.43,Kerala,Kottayam
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ADV K FRANCIS GEORGE,Kerala Congress,358369,6262,364631,43.6,Kerala,Kottayam,14
+2,THOMAS CHAZHIKADAN,Kerala Congress  (M),272418,4947,277365,33.17,Kerala,Kottayam,14
+3,THUSHAR VELLAPPALLY,Bharath Dharma Jana Sena,163227,1819,165046,19.74,Kerala,Kottayam,14
+4,VIJU CHERIAN,Bahujan Samaj Party,7075,148,7223,0.86,Kerala,Kottayam,14
+5,P O PETER,Samajwadi Jan Parishad,1581,56,1637,0.2,Kerala,Kottayam,14
+6,V P KOCHUMON,Socialist Unity Centre Of India (COMMUNIST),1551,44,1595,0.19,Kerala,Kottayam,14
+7,JOSSIN K JOSEPH,Independent,1397,92,1489,0.18,Kerala,Kottayam,14
+8,CHANDRABOSE P,Independent,1071,16,1087,0.13,Kerala,Kottayam,14
+9,M M SCARIA,Independent,913,14,927,0.11,Kerala,Kottayam,14
+10,JOEMON JOSEPH SRAMPICKAL A P J JUMAN V S,Independent,875,18,893,0.11,Kerala,Kottayam,14
+11,ROBY MATTAPPALLY,Independent,697,42,739,0.09,Kerala,Kottayam,14
+12,SANTHOSH PULICKAL,Independent,686,24,710,0.08,Kerala,Kottayam,14
+13,SUNIL ALANCHERIL,Independent,499,28,527,0.06,Kerala,Kottayam,14
+14,MAN HOUSE MANMADHAN,Independent,403,18,421,0.05,Kerala,Kottayam,14
+15,NOTA,None of the Above,11804,129,11933,1.43,Kerala,Kottayam,14

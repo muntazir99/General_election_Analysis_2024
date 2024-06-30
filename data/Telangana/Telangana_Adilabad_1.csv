@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,GODAM NAGESH,Bharatiya Janata Party,558936,9232,568168,45.98,Telangana,Adilabad
-2,ATHRAM SUGUNA,Indian National Congress,472333,5183,477516,38.65,Telangana,Adilabad
-3,ATHRAM SAKKU,Bharat Rashtra Samithi,136463,837,137300,11.11,Telangana,Adilabad
-4,MALOTHU SYAMLAL NAYAK,Alliance of Democratic Reforms Party,7489,10,7499,0.61,Telangana,Adilabad
-5,MESRAM JANGUBAPU,Bahujan Samaj Party,6689,55,6744,0.55,Telangana,Adilabad
-6,RATHOD SUBASH,Independent,6434,94,6528,0.53,Telangana,Adilabad
-7,BUKYA JAIVANTH RAO,Independent,6427,19,6446,0.52,Telangana,Adilabad
-8,CHAVAN SUDHARSHAN,Anna YSR Congress Party,4618,26,4644,0.38,Telangana,Adilabad
-9,GANGADEVI MESRAM,Dharma Samaj Party,3445,23,3468,0.28,Telangana,Adilabad
-10,N. TIRUPATI,Vidhyarthula Rajakiya Party,2284,8,2292,0.19,Telangana,Adilabad
-11,KODAPA VAMAN RAO,Gondwana Dandkaranya Party,1677,8,1685,0.14,Telangana,Adilabad
-12,GEDAM. SAGAR,India Praja Bandhu Party,1537,8,1545,0.13,Telangana,Adilabad
-13,NOTA,None of the Above,11650,112,11762,0.95,Telangana,Adilabad
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,GODAM NAGESH,Bharatiya Janata Party,558936,9232,568168,45.98,Telangana,Adilabad,1
+2,ATHRAM SUGUNA,Indian National Congress,472333,5183,477516,38.65,Telangana,Adilabad,1
+3,ATHRAM SAKKU,Bharat Rashtra Samithi,136463,837,137300,11.11,Telangana,Adilabad,1
+4,MALOTHU SYAMLAL NAYAK,Alliance of Democratic Reforms Party,7489,10,7499,0.61,Telangana,Adilabad,1
+5,MESRAM JANGUBAPU,Bahujan Samaj Party,6689,55,6744,0.55,Telangana,Adilabad,1
+6,RATHOD SUBASH,Independent,6434,94,6528,0.53,Telangana,Adilabad,1
+7,BUKYA JAIVANTH RAO,Independent,6427,19,6446,0.52,Telangana,Adilabad,1
+8,CHAVAN SUDHARSHAN,Anna YSR Congress Party,4618,26,4644,0.38,Telangana,Adilabad,1
+9,GANGADEVI MESRAM,Dharma Samaj Party,3445,23,3468,0.28,Telangana,Adilabad,1
+10,N. TIRUPATI,Vidhyarthula Rajakiya Party,2284,8,2292,0.19,Telangana,Adilabad,1
+11,KODAPA VAMAN RAO,Gondwana Dandkaranya Party,1677,8,1685,0.14,Telangana,Adilabad,1
+12,GEDAM. SAGAR,India Praja Bandhu Party,1537,8,1545,0.13,Telangana,Adilabad,1
+13,NOTA,None of the Above,11650,112,11762,0.95,Telangana,Adilabad,1

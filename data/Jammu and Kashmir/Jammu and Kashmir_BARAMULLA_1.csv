@@ -1,24 +1,24 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ABDUL RASHID SHEIKH,Independent,469574,2907,472481,45.7,Jammu and Kashmir,BARAMULLA
-2,OMAR ABDULLAH,Jammu & Kashmir National Conference,266301,2038,268339,25.95,Jammu and Kashmir,BARAMULLA
-3,SAJAD GANI LONE,Jammu & Kashmir People Conference,171582,1657,173239,16.76,Jammu and Kashmir,BARAMULLA
-4,MIR MOHAMMAD FAYAZ,Jammu & Kashmir Peoples Democratic Party,27173,315,27488,2.66,Jammu and Kashmir,BARAMULLA
-5,SURAIYA NISSAR,Independent,21565,53,21618,2.09,Jammu and Kashmir,BARAMULLA
-6,FIRDOUS AHMAD BHAT,Independent,15707,15,15722,1.52,Jammu and Kashmir,BARAMULLA
-7,SHAFEEQA BEGUM,Independent,6203,11,6214,0.6,Jammu and Kashmir,BARAMULLA
-8,PEERZADA MUDASIR RASHID SHAH,Jammu & Kashmir National Panthers Party (Bhim),5499,67,5566,0.54,Jammu and Kashmir,BARAMULLA
-9,KHURSHEED AHMAD SHAH,Rashtriya Jankranti Party,4213,55,4268,0.41,Jammu and Kashmir,BARAMULLA
-10,MOHAMMAD SULTAN GANAIE,Independent,4054,9,4063,0.39,Jammu and Kashmir,BARAMULLA
-11,SHADIB HANIEF KHAN,Independent,3668,2,3670,0.35,Jammu and Kashmir,BARAMULLA
-12,MUDASIR AHMAD TANTARY,Independent,3196,22,3218,0.31,Jammu and Kashmir,BARAMULLA
-13,NAZIR AHMAD SOFI,Independent,2980,3,2983,0.29,Jammu and Kashmir,BARAMULLA
-14,SHABIR AHMAD DAR,Independent,2694,6,2700,0.26,Jammu and Kashmir,BARAMULLA
-15,HILAL AHMAD WAGAY,Independent,2681,8,2689,0.26,Jammu and Kashmir,BARAMULLA
-16,MEHRAJ UDDIN NAJAR,Independent,2560,10,2570,0.25,Jammu and Kashmir,BARAMULLA
-17,SYED AMEER SUHAIL,Independent,2409,8,2417,0.23,Jammu and Kashmir,BARAMULLA
-18,FAROOQ AHMAD BHAT,National Youth Party,2315,28,2343,0.23,Jammu and Kashmir,BARAMULLA
-19,ARUN KUMAR RAINA,Independent,2161,80,2241,0.22,Jammu and Kashmir,BARAMULLA
-20,MUNIR AHMAD KHAN,Jammu and Kashmir Nationalist People's Front,2004,15,2019,0.2,Jammu and Kashmir,BARAMULLA
-21,MUZAFFAR HUSSAIN DAR,Independent,1663,8,1671,0.16,Jammu and Kashmir,BARAMULLA
-22,MUSHTAQ AHMAD MIR,National Loktantrik Party,1382,15,1397,0.14,Jammu and Kashmir,BARAMULLA
-23,NOTA,None of the Above,4873,111,4984,0.48,Jammu and Kashmir,BARAMULLA
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ABDUL RASHID SHEIKH,Independent,469574,2907,472481,45.7,Jammu and Kashmir,BARAMULLA,1
+2,OMAR ABDULLAH,Jammu & Kashmir National Conference,266301,2038,268339,25.95,Jammu and Kashmir,BARAMULLA,1
+3,SAJAD GANI LONE,Jammu & Kashmir People Conference,171582,1657,173239,16.76,Jammu and Kashmir,BARAMULLA,1
+4,MIR MOHAMMAD FAYAZ,Jammu & Kashmir Peoples Democratic Party,27173,315,27488,2.66,Jammu and Kashmir,BARAMULLA,1
+5,SURAIYA NISSAR,Independent,21565,53,21618,2.09,Jammu and Kashmir,BARAMULLA,1
+6,FIRDOUS AHMAD BHAT,Independent,15707,15,15722,1.52,Jammu and Kashmir,BARAMULLA,1
+7,SHAFEEQA BEGUM,Independent,6203,11,6214,0.6,Jammu and Kashmir,BARAMULLA,1
+8,PEERZADA MUDASIR RASHID SHAH,Jammu & Kashmir National Panthers Party (Bhim),5499,67,5566,0.54,Jammu and Kashmir,BARAMULLA,1
+9,KHURSHEED AHMAD SHAH,Rashtriya Jankranti Party,4213,55,4268,0.41,Jammu and Kashmir,BARAMULLA,1
+10,MOHAMMAD SULTAN GANAIE,Independent,4054,9,4063,0.39,Jammu and Kashmir,BARAMULLA,1
+11,SHADIB HANIEF KHAN,Independent,3668,2,3670,0.35,Jammu and Kashmir,BARAMULLA,1
+12,MUDASIR AHMAD TANTARY,Independent,3196,22,3218,0.31,Jammu and Kashmir,BARAMULLA,1
+13,NAZIR AHMAD SOFI,Independent,2980,3,2983,0.29,Jammu and Kashmir,BARAMULLA,1
+14,SHABIR AHMAD DAR,Independent,2694,6,2700,0.26,Jammu and Kashmir,BARAMULLA,1
+15,HILAL AHMAD WAGAY,Independent,2681,8,2689,0.26,Jammu and Kashmir,BARAMULLA,1
+16,MEHRAJ UDDIN NAJAR,Independent,2560,10,2570,0.25,Jammu and Kashmir,BARAMULLA,1
+17,SYED AMEER SUHAIL,Independent,2409,8,2417,0.23,Jammu and Kashmir,BARAMULLA,1
+18,FAROOQ AHMAD BHAT,National Youth Party,2315,28,2343,0.23,Jammu and Kashmir,BARAMULLA,1
+19,ARUN KUMAR RAINA,Independent,2161,80,2241,0.22,Jammu and Kashmir,BARAMULLA,1
+20,MUNIR AHMAD KHAN,Jammu and Kashmir Nationalist People's Front,2004,15,2019,0.2,Jammu and Kashmir,BARAMULLA,1
+21,MUZAFFAR HUSSAIN DAR,Independent,1663,8,1671,0.16,Jammu and Kashmir,BARAMULLA,1
+22,MUSHTAQ AHMAD MIR,National Loktantrik Party,1382,15,1397,0.14,Jammu and Kashmir,BARAMULLA,1
+23,NOTA,None of the Above,4873,111,4984,0.48,Jammu and Kashmir,BARAMULLA,1

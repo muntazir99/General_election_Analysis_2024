@@ -1,20 +1,20 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,M. MALLESH BABU,Janata Dal  (Secular),689185,2296,691481,51.02,Karnataka,Kolar
-2,K V GOWTHAM,Indian National Congress,618700,1393,620093,45.76,Karnataka,Kolar
-3,SUMAN H N,Independent,6484,3,6487,0.48,Karnataka,Kolar
-4,HOLUR SRINIVASA,Independent,6159,4,6163,0.45,Karnataka,Kolar
-5,S B SURESHA,Bahujan Samaj Party,4688,44,4732,0.35,Karnataka,Kolar
-6,K R DEVARAJA,Delhi Janta Party,4588,9,4597,0.34,Karnataka,Kolar
-7,DR M. VENKATASWAMY,Independent,3336,18,3354,0.25,Karnataka,Kolar
-8,R RANJITHKUMAR,Independent,2116,2,2118,0.16,Karnataka,Kolar
-9,S N NARAYANASWAMY V,Independent,1971,14,1985,0.15,Karnataka,Kolar
-10,D GOPALAKRISHNA,Socialist Party (India),1661,8,1669,0.12,Karnataka,Kolar
-11,DEVARAJA A ALUSURUDINNE,Uttama Prajaakeeya Party,1343,11,1354,0.1,Karnataka,Kolar
-12,M S BADARINARAYANA,Independent,1104,12,1116,0.08,Karnataka,Kolar
-13,MAHESH A V,Karnataka Rashtra Samithi,1035,30,1065,0.08,Karnataka,Kolar
-14,THIMMARAYAPPA,Republican Party of India (Karnataka),856,8,864,0.06,Karnataka,Kolar
-15,R RAJENDRA,Independent,750,1,751,0.06,Karnataka,Kolar
-16,M MUNIGANGAPPA,Independent,595,9,604,0.04,Karnataka,Kolar
-17,M  C HALLI VENU,Viduthalai Chiruthaigal Katchi,514,7,521,0.04,Karnataka,Kolar
-18,KRISHNAIAH N,Independent,438,5,443,0.03,Karnataka,Kolar
-19,NOTA,None of the Above,5798,33,5831,0.43,Karnataka,Kolar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,M. MALLESH BABU,Janata Dal  (Secular),689185,2296,691481,51.02,Karnataka,Kolar,28
+2,K V GOWTHAM,Indian National Congress,618700,1393,620093,45.76,Karnataka,Kolar,28
+3,SUMAN H N,Independent,6484,3,6487,0.48,Karnataka,Kolar,28
+4,HOLUR SRINIVASA,Independent,6159,4,6163,0.45,Karnataka,Kolar,28
+5,S B SURESHA,Bahujan Samaj Party,4688,44,4732,0.35,Karnataka,Kolar,28
+6,K R DEVARAJA,Delhi Janta Party,4588,9,4597,0.34,Karnataka,Kolar,28
+7,DR M. VENKATASWAMY,Independent,3336,18,3354,0.25,Karnataka,Kolar,28
+8,R RANJITHKUMAR,Independent,2116,2,2118,0.16,Karnataka,Kolar,28
+9,S N NARAYANASWAMY V,Independent,1971,14,1985,0.15,Karnataka,Kolar,28
+10,D GOPALAKRISHNA,Socialist Party (India),1661,8,1669,0.12,Karnataka,Kolar,28
+11,DEVARAJA A ALUSURUDINNE,Uttama Prajaakeeya Party,1343,11,1354,0.1,Karnataka,Kolar,28
+12,M S BADARINARAYANA,Independent,1104,12,1116,0.08,Karnataka,Kolar,28
+13,MAHESH A V,Karnataka Rashtra Samithi,1035,30,1065,0.08,Karnataka,Kolar,28
+14,THIMMARAYAPPA,Republican Party of India (Karnataka),856,8,864,0.06,Karnataka,Kolar,28
+15,R RAJENDRA,Independent,750,1,751,0.06,Karnataka,Kolar,28
+16,M MUNIGANGAPPA,Independent,595,9,604,0.04,Karnataka,Kolar,28
+17,M  C HALLI VENU,Viduthalai Chiruthaigal Katchi,514,7,521,0.04,Karnataka,Kolar,28
+18,KRISHNAIAH N,Independent,438,5,443,0.03,Karnataka,Kolar,28
+19,NOTA,None of the Above,5798,33,5831,0.43,Karnataka,Kolar,28

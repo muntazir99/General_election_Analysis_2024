@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,GIRIDHARI YADAV,Janata Dal  (United),505674,1004,506678,49.96,Bihar,Banka
-2,JAI PRAKASH NARAYAN YADAV,Rashtriya Janata Dal,401567,1267,402834,39.72,Bihar,Banka
-3,NARESH YADAV,Independent,14936,3,14939,1.47,Bihar,Banka
-4,JAY PRAKASH YADAV,Rashtriya Jansambhavna Party,12254,23,12277,1.21,Bihar,Banka
-5,AMRIT TANTI,Bhartiya Dalit Party,9615,55,9670,0.95,Bihar,Banka
-6,NARESH KUMAR PRIYADARSHI,Independent,8103,22,8125,0.8,Bihar,Banka
-7,GANESH KUMAR KUSHAWAHA,Samata Party,7627,18,7645,0.75,Bihar,Banka
-8,UTTAM KUMAR SINGH,Aam Janta Party Rashtriya,6874,37,6911,0.68,Bihar,Banka
-9,KAVINDRA PANDIT,Socialist Unity Centre Of India (COMMUNIST),5226,20,5246,0.52,Bihar,Banka
-10,UMAKANT YADAV,Independent,4932,9,4941,0.49,Bihar,Banka
-11,NOTA,None of the Above,34808,81,34889,3.44,Bihar,Banka
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,GIRIDHARI YADAV,Janata Dal  (United),505674,1004,506678,49.96,Bihar,Banka,27
+2,JAI PRAKASH NARAYAN YADAV,Rashtriya Janata Dal,401567,1267,402834,39.72,Bihar,Banka,27
+3,NARESH YADAV,Independent,14936,3,14939,1.47,Bihar,Banka,27
+4,JAY PRAKASH YADAV,Rashtriya Jansambhavna Party,12254,23,12277,1.21,Bihar,Banka,27
+5,AMRIT TANTI,Bhartiya Dalit Party,9615,55,9670,0.95,Bihar,Banka,27
+6,NARESH KUMAR PRIYADARSHI,Independent,8103,22,8125,0.8,Bihar,Banka,27
+7,GANESH KUMAR KUSHAWAHA,Samata Party,7627,18,7645,0.75,Bihar,Banka,27
+8,UTTAM KUMAR SINGH,Aam Janta Party Rashtriya,6874,37,6911,0.68,Bihar,Banka,27
+9,KAVINDRA PANDIT,Socialist Unity Centre Of India (COMMUNIST),5226,20,5246,0.52,Bihar,Banka,27
+10,UMAKANT YADAV,Independent,4932,9,4941,0.49,Bihar,Banka,27
+11,NOTA,None of the Above,34808,81,34889,3.44,Bihar,Banka,27

@@ -1,19 +1,19 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BANSURI SWARAJ,Bharatiya Janata Party,451464,1721,453185,53.48,NCT OF Delhi,New Delhi
-2,SOMNATH BHARTI,Aam Aadmi Party,374032,783,374815,44.23,NCT OF Delhi,New Delhi
-3,RAAJ KUMAR ANAND,Bahujan Samaj Party,5601,28,5629,0.66,NCT OF Delhi,New Delhi
-4,SANJAY RAWAT,Independent,1271,5,1276,0.15,NCT OF Delhi,New Delhi
-5,ACHLA JETHMALANI,Jindabad Kranti Party,1036,1,1037,0.12,NCT OF Delhi,New Delhi
-6,HIRA LAL,Independent,1005,-,1005,0.12,NCT OF Delhi,New Delhi
-7,PREM SINGH,Navarang Congress Party,800,6,806,0.1,NCT OF Delhi,New Delhi
-8,UPEN‍DRA,Anjaan Aadmi Party,781,-,781,0.09,NCT OF Delhi,New Delhi
-9,DILIP SINGH,Independent,725,1,726,0.09,NCT OF Delhi,New Delhi
-10,LUKMAN KHAN,Log Party,654,2,656,0.08,NCT OF Delhi,New Delhi
-11,PUNAM PANDEY,Rashtravadi Loktantrik Party (India),640,1,641,0.08,NCT OF Delhi,New Delhi
-12,SANDHYA THAKKAR,Rashtriya Republican Party,485,1,486,0.06,NCT OF Delhi,New Delhi
-13,RAVINDER SINGH,Independent,414,2,416,0.05,NCT OF Delhi,New Delhi
-14,DINESH KUMAR,Peoples Party of India (Democratic),360,1,361,0.04,NCT OF Delhi,New Delhi
-15,PRITHVI NATH SINGH,Bharatiya Sampuran Krantikari Party,335,-,335,0.04,NCT OF Delhi,New Delhi
-16,MAHESH KUMAR DENWAL,Ambedkarite Party of India,287,1,288,0.03,NCT OF Delhi,New Delhi
-17,MANOJ KUMAR SHARMA,Loktantrik Janshakti Party,208,4,212,0.03,NCT OF Delhi,New Delhi
-18,NOTA,None of the Above,4791,22,4813,0.57,NCT OF Delhi,New Delhi
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BANSURI SWARAJ,Bharatiya Janata Party,451464,1721,453185,53.48,NCT OF Delhi,New Delhi,4
+2,SOMNATH BHARTI,Aam Aadmi Party,374032,783,374815,44.23,NCT OF Delhi,New Delhi,4
+3,RAAJ KUMAR ANAND,Bahujan Samaj Party,5601,28,5629,0.66,NCT OF Delhi,New Delhi,4
+4,SANJAY RAWAT,Independent,1271,5,1276,0.15,NCT OF Delhi,New Delhi,4
+5,ACHLA JETHMALANI,Jindabad Kranti Party,1036,1,1037,0.12,NCT OF Delhi,New Delhi,4
+6,HIRA LAL,Independent,1005,-,1005,0.12,NCT OF Delhi,New Delhi,4
+7,PREM SINGH,Navarang Congress Party,800,6,806,0.1,NCT OF Delhi,New Delhi,4
+8,UPEN‍DRA,Anjaan Aadmi Party,781,-,781,0.09,NCT OF Delhi,New Delhi,4
+9,DILIP SINGH,Independent,725,1,726,0.09,NCT OF Delhi,New Delhi,4
+10,LUKMAN KHAN,Log Party,654,2,656,0.08,NCT OF Delhi,New Delhi,4
+11,PUNAM PANDEY,Rashtravadi Loktantrik Party (India),640,1,641,0.08,NCT OF Delhi,New Delhi,4
+12,SANDHYA THAKKAR,Rashtriya Republican Party,485,1,486,0.06,NCT OF Delhi,New Delhi,4
+13,RAVINDER SINGH,Independent,414,2,416,0.05,NCT OF Delhi,New Delhi,4
+14,DINESH KUMAR,Peoples Party of India (Democratic),360,1,361,0.04,NCT OF Delhi,New Delhi,4
+15,PRITHVI NATH SINGH,Bharatiya Sampuran Krantikari Party,335,-,335,0.04,NCT OF Delhi,New Delhi,4
+16,MAHESH KUMAR DENWAL,Ambedkarite Party of India,287,1,288,0.03,NCT OF Delhi,New Delhi,4
+17,MANOJ KUMAR SHARMA,Loktantrik Janshakti Party,208,4,212,0.03,NCT OF Delhi,New Delhi,4
+18,NOTA,None of the Above,4791,22,4813,0.57,NCT OF Delhi,New Delhi,4

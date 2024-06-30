@@ -1,13 +1,13 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,LAXMIKANT PAPPU NISHAD,Samajwadi Party,497488,1207,498695,45.7,Uttar Pradesh,Sant Kabir Nagar
-2,PRAVIN KUMAR NISHAD,Bharatiya Janata Party,405611,914,406525,37.25,Uttar Pradesh,Sant Kabir Nagar
-3,NADEEM ASHRAF,Bahujan Samaj Party,150549,263,150812,13.82,Uttar Pradesh,Sant Kabir Nagar
-4,DHEERAJ SRIVASTAV,Pragatisheel Samaj Party,5135,5,5140,0.47,Uttar Pradesh,Sant Kabir Nagar
-5,RAM KRISHNA DWIVEDI,Independent,4509,-,4509,0.41,Uttar Pradesh,Sant Kabir Nagar
-6,SATYVANT PRATAP SINGH,Independent,4351,7,4358,0.4,Uttar Pradesh,Sant Kabir Nagar
-7,KULDEEP,Sardar Patel Siddhant Party,3591,4,3595,0.33,Uttar Pradesh,Sant Kabir Nagar
-8,MITRASEN,Independent,2535,9,2544,0.23,Uttar Pradesh,Sant Kabir Nagar
-9,RAJENDRA YADAV URF COLONEL SAHAB,Sarvjan Awaz Party,2229,10,2239,0.21,Uttar Pradesh,Sant Kabir Nagar
-10,ANAND KUMAR GAUTAM,Independent,1840,10,1850,0.17,Uttar Pradesh,Sant Kabir Nagar
-11,SUBHASH CHANDRA DUBEY,Naki Bharatiya Ekta Party,1702,6,1708,0.16,Uttar Pradesh,Sant Kabir Nagar
-12,NOTA,None of the Above,9210,17,9227,0.85,Uttar Pradesh,Sant Kabir Nagar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,LAXMIKANT PAPPU NISHAD,Samajwadi Party,497488,1207,498695,45.7,Uttar Pradesh,Sant Kabir Nagar,62
+2,PRAVIN KUMAR NISHAD,Bharatiya Janata Party,405611,914,406525,37.25,Uttar Pradesh,Sant Kabir Nagar,62
+3,NADEEM ASHRAF,Bahujan Samaj Party,150549,263,150812,13.82,Uttar Pradesh,Sant Kabir Nagar,62
+4,DHEERAJ SRIVASTAV,Pragatisheel Samaj Party,5135,5,5140,0.47,Uttar Pradesh,Sant Kabir Nagar,62
+5,RAM KRISHNA DWIVEDI,Independent,4509,-,4509,0.41,Uttar Pradesh,Sant Kabir Nagar,62
+6,SATYVANT PRATAP SINGH,Independent,4351,7,4358,0.4,Uttar Pradesh,Sant Kabir Nagar,62
+7,KULDEEP,Sardar Patel Siddhant Party,3591,4,3595,0.33,Uttar Pradesh,Sant Kabir Nagar,62
+8,MITRASEN,Independent,2535,9,2544,0.23,Uttar Pradesh,Sant Kabir Nagar,62
+9,RAJENDRA YADAV URF COLONEL SAHAB,Sarvjan Awaz Party,2229,10,2239,0.21,Uttar Pradesh,Sant Kabir Nagar,62
+10,ANAND KUMAR GAUTAM,Independent,1840,10,1850,0.17,Uttar Pradesh,Sant Kabir Nagar,62
+11,SUBHASH CHANDRA DUBEY,Naki Bharatiya Ekta Party,1702,6,1708,0.16,Uttar Pradesh,Sant Kabir Nagar,62
+12,NOTA,None of the Above,9210,17,9227,0.85,Uttar Pradesh,Sant Kabir Nagar,62

@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ABHISHEK BANERJEE,All India Trinamool Congress,1043493,4737,1048230,68.48,West Bengal,Diamond harbour
-2,ABHIJIT DAS (BOBBY),Bharatiya Janata Party,336068,1232,337300,22.03,West Bengal,Diamond harbour
-3,PRATIK UR RAHAMAN,Communist Party of India  (Marxist),86507,446,86953,5.68,West Bengal,Diamond harbour
-4,MAJNU LASKAR,All India Secular Front,21109,30,21139,1.38,West Bengal,Diamond harbour
-5,SUBRATA BOSE,Independent,9819,6,9825,0.64,West Bengal,Diamond harbour
-6,DASARATHI PAIK,Bahujan Samaj Party,7082,29,7111,0.46,West Bengal,Diamond harbour
-7,MALAY GUHA ROY,Independent,2963,8,2971,0.19,West Bengal,Diamond harbour
-8,PULAKESH MONDAL,Independent,1945,3,1948,0.13,West Bengal,Diamond harbour
-9,KALIMUDDIN SK,Indian National Socialistic Action Forces,1579,11,1590,0.1,West Bengal,Diamond harbour
-10,RAMKUMAR MONDAL,Socialist Unity Centre Of India (COMMUNIST),1411,7,1418,0.09,West Bengal,Diamond harbour
-11,ANISUR RAHAMAN SK,Independent,1152,7,1159,0.08,West Bengal,Diamond harbour
-12,KASHINATH MONDAL,Independent,961,24,985,0.06,West Bengal,Diamond harbour
-13,NOTA,None of the Above,10134,54,10188,0.67,West Bengal,Diamond harbour
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ABHISHEK BANERJEE,All India Trinamool Congress,1043493,4737,1048230,68.48,West Bengal,Diamond harbour,21
+2,ABHIJIT DAS (BOBBY),Bharatiya Janata Party,336068,1232,337300,22.03,West Bengal,Diamond harbour,21
+3,PRATIK UR RAHAMAN,Communist Party of India  (Marxist),86507,446,86953,5.68,West Bengal,Diamond harbour,21
+4,MAJNU LASKAR,All India Secular Front,21109,30,21139,1.38,West Bengal,Diamond harbour,21
+5,SUBRATA BOSE,Independent,9819,6,9825,0.64,West Bengal,Diamond harbour,21
+6,DASARATHI PAIK,Bahujan Samaj Party,7082,29,7111,0.46,West Bengal,Diamond harbour,21
+7,MALAY GUHA ROY,Independent,2963,8,2971,0.19,West Bengal,Diamond harbour,21
+8,PULAKESH MONDAL,Independent,1945,3,1948,0.13,West Bengal,Diamond harbour,21
+9,KALIMUDDIN SK,Indian National Socialistic Action Forces,1579,11,1590,0.1,West Bengal,Diamond harbour,21
+10,RAMKUMAR MONDAL,Socialist Unity Centre Of India (COMMUNIST),1411,7,1418,0.09,West Bengal,Diamond harbour,21
+11,ANISUR RAHAMAN SK,Independent,1152,7,1159,0.08,West Bengal,Diamond harbour,21
+12,KASHINATH MONDAL,Independent,961,24,985,0.06,West Bengal,Diamond harbour,21
+13,NOTA,None of the Above,10134,54,10188,0.67,West Bengal,Diamond harbour,21

@@ -1,11 +1,11 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ANIL FIROJIYA,Bharatiya Janata Party,834374,1730,836104,62.93,Madhya Pradesh,UJJAIN
-2,MAHESH PARMAR,Indian National Congress,459531,713,460244,34.64,Madhya Pradesh,UJJAIN
-3,ADVOCATE PRAKASH CHOUHAN,Bahujan Samaj Party,9502,16,9518,0.72,Madhya Pradesh,UJJAIN
-4,DR. HEMANT PARMAR,Bhim Sena,4973,3,4976,0.37,Madhya Pradesh,UJJAIN
-5,SURESH BAGARI,Independent,2786,5,2791,0.21,Madhya Pradesh,UJJAIN
-6,MAHESH PARMAR,Independent,2468,8,2476,0.19,Madhya Pradesh,UJJAIN
-7,GANGA MALVIYA,Independent,1288,7,1295,0.1,Madhya Pradesh,UJJAIN
-8,ANIL,Independent,979,2,981,0.07,Madhya Pradesh,UJJAIN
-9,ISHWARLAL VARSHI,Independent,860,3,863,0.06,Madhya Pradesh,UJJAIN
-10,NOTA,None of the Above,9310,22,9332,0.7,Madhya Pradesh,UJJAIN
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ANIL FIROJIYA,Bharatiya Janata Party,834374,1730,836104,62.93,Madhya Pradesh,UJJAIN,22
+2,MAHESH PARMAR,Indian National Congress,459531,713,460244,34.64,Madhya Pradesh,UJJAIN,22
+3,ADVOCATE PRAKASH CHOUHAN,Bahujan Samaj Party,9502,16,9518,0.72,Madhya Pradesh,UJJAIN,22
+4,DR. HEMANT PARMAR,Bhim Sena,4973,3,4976,0.37,Madhya Pradesh,UJJAIN,22
+5,SURESH BAGARI,Independent,2786,5,2791,0.21,Madhya Pradesh,UJJAIN,22
+6,MAHESH PARMAR,Independent,2468,8,2476,0.19,Madhya Pradesh,UJJAIN,22
+7,GANGA MALVIYA,Independent,1288,7,1295,0.1,Madhya Pradesh,UJJAIN,22
+8,ANIL,Independent,979,2,981,0.07,Madhya Pradesh,UJJAIN,22
+9,ISHWARLAL VARSHI,Independent,860,3,863,0.06,Madhya Pradesh,UJJAIN,22
+10,NOTA,None of the Above,9310,22,9332,0.7,Madhya Pradesh,UJJAIN,22

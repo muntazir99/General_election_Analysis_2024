@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,RAKESH RATHOR,Indian National Congress,530467,671,531138,48.2,Uttar Pradesh,Sitapur
-2,RAJESH VERMA,Bharatiya Janata Party,441066,431,441497,40.06,Uttar Pradesh,Sitapur
-3,MAHENDRA SINGH YADAV,Bahujan Samaj Party,99284,80,99364,9.02,Uttar Pradesh,Sitapur
-4,MO. KASHIF ANSARI,Apna Dal (Kamerawadi),7585,1,7586,0.69,Uttar Pradesh,Sitapur
-5,LEKHRAJ LODHI,Aazad Samaj Party (Kanshi Ram),6734,-,6734,0.61,Uttar Pradesh,Sitapur
-6,VIDYAWATI GAUTAM,Independent,4193,1,4194,0.38,Uttar Pradesh,Sitapur
-7,CHANDRA SHEKHAR VERMA,Rashtriya Shoshit Samaj Party,2429,-,2429,0.22,Uttar Pradesh,Sitapur
-8,RAM ADHAR VERMA,Sardar Patel Siddhant Party,2114,1,2115,0.19,Uttar Pradesh,Sitapur
-9,NOTA,None of the Above,6954,4,6958,0.63,Uttar Pradesh,Sitapur
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,RAKESH RATHOR,Indian National Congress,530467,671,531138,48.2,Uttar Pradesh,Sitapur,30
+2,RAJESH VERMA,Bharatiya Janata Party,441066,431,441497,40.06,Uttar Pradesh,Sitapur,30
+3,MAHENDRA SINGH YADAV,Bahujan Samaj Party,99284,80,99364,9.02,Uttar Pradesh,Sitapur,30
+4,MO. KASHIF ANSARI,Apna Dal (Kamerawadi),7585,1,7586,0.69,Uttar Pradesh,Sitapur,30
+5,LEKHRAJ LODHI,Aazad Samaj Party (Kanshi Ram),6734,-,6734,0.61,Uttar Pradesh,Sitapur,30
+6,VIDYAWATI GAUTAM,Independent,4193,1,4194,0.38,Uttar Pradesh,Sitapur,30
+7,CHANDRA SHEKHAR VERMA,Rashtriya Shoshit Samaj Party,2429,-,2429,0.22,Uttar Pradesh,Sitapur,30
+8,RAM ADHAR VERMA,Sardar Patel Siddhant Party,2114,1,2115,0.19,Uttar Pradesh,Sitapur,30
+9,NOTA,None of the Above,6954,4,6958,0.63,Uttar Pradesh,Sitapur,30

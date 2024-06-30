@@ -1,21 +1,21 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,GANESH SINGH,Bharatiya Janata Party,458373,1355,459728,43.41,Madhya Pradesh,SATNA
-2,DABBU SIDDHARTH SUKHLAL KUSHWAHA,Indian National Congress,373982,797,374779,35.39,Madhya Pradesh,SATNA
-3,NARAYAN TRIPATHI,Bahujan Samaj Party,185303,315,185618,17.53,Madhya Pradesh,SATNA
-4,DURGESH KUMAR VISHWAKARMA,Independent,5919,2,5921,0.56,Madhya Pradesh,SATNA
-5,RAHUL DAHIYA,Independent,4276,1,4277,0.4,Madhya Pradesh,SATNA
-6,CHHEDI LAL PRAJAPATI (PANDA  BABA),Independent,4060,1,4061,0.38,Madhya Pradesh,SATNA
-7,CHANDRABHAN KOL,Independent,3393,5,3398,0.32,Madhya Pradesh,SATNA
-8,"SAFI ULLA ""DBBU BHAI""",Independent,2612,2,2614,0.25,Madhya Pradesh,SATNA
-9,ADV. ASHOK SAKET,Bahujan Dravida Party,2396,3,2399,0.23,Madhya Pradesh,SATNA
-10,AZEEZ AHMED QURAISHY,Manviya Bharat Party,2078,4,2082,0.2,Madhya Pradesh,SATNA
-11,MASTER JI AJIT KUMAR JAYSWAL,Peoples Party of India (Democratic),1887,4,1891,0.18,Madhya Pradesh,SATNA
-12,KALIM AHMAD BACHCHA,Independent,1622,8,1630,0.15,Madhya Pradesh,SATNA
-13,SUKHLAL VERMA RATNESH,Independent,1616,1,1617,0.15,Madhya Pradesh,SATNA
-14,ASHOK KUMAR GUPTA,Bhartiya Shakti Chetna Party,1259,6,1265,0.12,Madhya Pradesh,SATNA
-15,NANKU YADAV,Akhil Bharatiya Hind Kranti Party,1254,5,1259,0.12,Madhya Pradesh,SATNA
-16,RISHABH SINGH,Independent,1068,5,1073,0.1,Madhya Pradesh,SATNA
-17,ASHOK BAUDH,Independent,945,2,947,0.09,Madhya Pradesh,SATNA
-18,HARI SHANKAR TIWARI (LOHA WALA),Bharatiya Jan Morcha Party,935,10,945,0.09,Madhya Pradesh,SATNA
-19,RANJANA MISHRA,Nyaydharmsabha,905,10,915,0.09,Madhya Pradesh,SATNA
-20,NOTA,None of the Above,2538,15,2553,0.24,Madhya Pradesh,SATNA
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,GANESH SINGH,Bharatiya Janata Party,458373,1355,459728,43.41,Madhya Pradesh,SATNA,9
+2,DABBU SIDDHARTH SUKHLAL KUSHWAHA,Indian National Congress,373982,797,374779,35.39,Madhya Pradesh,SATNA,9
+3,NARAYAN TRIPATHI,Bahujan Samaj Party,185303,315,185618,17.53,Madhya Pradesh,SATNA,9
+4,DURGESH KUMAR VISHWAKARMA,Independent,5919,2,5921,0.56,Madhya Pradesh,SATNA,9
+5,RAHUL DAHIYA,Independent,4276,1,4277,0.4,Madhya Pradesh,SATNA,9
+6,CHHEDI LAL PRAJAPATI (PANDA  BABA),Independent,4060,1,4061,0.38,Madhya Pradesh,SATNA,9
+7,CHANDRABHAN KOL,Independent,3393,5,3398,0.32,Madhya Pradesh,SATNA,9
+8,"SAFI ULLA ""DBBU BHAI""",Independent,2612,2,2614,0.25,Madhya Pradesh,SATNA,9
+9,ADV. ASHOK SAKET,Bahujan Dravida Party,2396,3,2399,0.23,Madhya Pradesh,SATNA,9
+10,AZEEZ AHMED QURAISHY,Manviya Bharat Party,2078,4,2082,0.2,Madhya Pradesh,SATNA,9
+11,MASTER JI AJIT KUMAR JAYSWAL,Peoples Party of India (Democratic),1887,4,1891,0.18,Madhya Pradesh,SATNA,9
+12,KALIM AHMAD BACHCHA,Independent,1622,8,1630,0.15,Madhya Pradesh,SATNA,9
+13,SUKHLAL VERMA RATNESH,Independent,1616,1,1617,0.15,Madhya Pradesh,SATNA,9
+14,ASHOK KUMAR GUPTA,Bhartiya Shakti Chetna Party,1259,6,1265,0.12,Madhya Pradesh,SATNA,9
+15,NANKU YADAV,Akhil Bharatiya Hind Kranti Party,1254,5,1259,0.12,Madhya Pradesh,SATNA,9
+16,RISHABH SINGH,Independent,1068,5,1073,0.1,Madhya Pradesh,SATNA,9
+17,ASHOK BAUDH,Independent,945,2,947,0.09,Madhya Pradesh,SATNA,9
+18,HARI SHANKAR TIWARI (LOHA WALA),Bharatiya Jan Morcha Party,935,10,945,0.09,Madhya Pradesh,SATNA,9
+19,RANJANA MISHRA,Nyaydharmsabha,905,10,915,0.09,Madhya Pradesh,SATNA,9
+20,NOTA,None of the Above,2538,15,2553,0.24,Madhya Pradesh,SATNA,9

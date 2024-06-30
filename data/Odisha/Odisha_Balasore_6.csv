@@ -1,13 +1,13 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,PRATAP CHANDRA SARANGI,Bharatiya Janata Party,561590,2275,563865,45.49,Odisha,Balasore
-2,LEKHASRI SAMANTSINGHAR,Biju Janata Dal,415917,792,416709,33.62,Odisha,Balasore
-3,SHRIKANTA JENA,Indian National Congress,236081,926,237007,19.12,Odisha,Balasore
-4,RAJAT KUMAR BEHERA,Bahujan Samaj Party,2913,7,2920,0.24,Odisha,Balasore
-5,GOBINDA CHANDRA BHOI,National Apni Party,2640,-,2640,0.21,Odisha,Balasore
-6,SURYAKANTA DASMOHAPATRA,Independent,2156,5,2161,0.17,Odisha,Balasore
-7,MAHAMEGHABAHAN AIRA KHARABELA SWAIN,Independent,1863,5,1868,0.15,Odisha,Balasore
-8,PRAMOD KUMAR PATTAYAT,Independent,1637,2,1639,0.13,Odisha,Balasore
-9,BIREN PUHAN,Krupaa Party,1450,2,1452,0.12,Odisha,Balasore
-10,DEEPAK SANKAR THAKUR GIRI,Independent,1191,3,1194,0.1,Odisha,Balasore
-11,AKHIL KUMAR MOHANTA,Independent,829,1,830,0.07,Odisha,Balasore
-12,NOTA,None of the Above,7333,17,7350,0.59,Odisha,Balasore
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,PRATAP CHANDRA SARANGI,Bharatiya Janata Party,561590,2275,563865,45.49,Odisha,Balasore,6
+2,LEKHASRI SAMANTSINGHAR,Biju Janata Dal,415917,792,416709,33.62,Odisha,Balasore,6
+3,SHRIKANTA JENA,Indian National Congress,236081,926,237007,19.12,Odisha,Balasore,6
+4,RAJAT KUMAR BEHERA,Bahujan Samaj Party,2913,7,2920,0.24,Odisha,Balasore,6
+5,GOBINDA CHANDRA BHOI,National Apni Party,2640,-,2640,0.21,Odisha,Balasore,6
+6,SURYAKANTA DASMOHAPATRA,Independent,2156,5,2161,0.17,Odisha,Balasore,6
+7,MAHAMEGHABAHAN AIRA KHARABELA SWAIN,Independent,1863,5,1868,0.15,Odisha,Balasore,6
+8,PRAMOD KUMAR PATTAYAT,Independent,1637,2,1639,0.13,Odisha,Balasore,6
+9,BIREN PUHAN,Krupaa Party,1450,2,1452,0.12,Odisha,Balasore,6
+10,DEEPAK SANKAR THAKUR GIRI,Independent,1191,3,1194,0.1,Odisha,Balasore,6
+11,AKHIL KUMAR MOHANTA,Independent,829,1,830,0.07,Odisha,Balasore,6
+12,NOTA,None of the Above,7333,17,7350,0.59,Odisha,Balasore,6

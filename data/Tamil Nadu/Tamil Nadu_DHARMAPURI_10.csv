@@ -1,26 +1,26 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,MANI. A.,Dravida Munnetra Kazhagam,429301,3366,432667,34.67,Tamil Nadu,DHARMAPURI
-2,SOWMIYA ANBUMANI,Pattali Makkal Katchi,408445,2922,411367,32.97,Tamil Nadu,DHARMAPURI
-3,ASOKAN. R. DR.,All India Anna Dravida Munnetra Kazhagam,291590,2039,293629,23.53,Tamil Nadu,DHARMAPURI
-4,ABINAYA,Naam Tamilar Katchi,64576,805,65381,5.24,Tamil Nadu,DHARMAPURI
-5,THANGAVEL. K.,Dhesiya Makkal Kazhagam,7323,8,7331,0.59,Tamil Nadu,DHARMAPURI
-6,THIRUMURUGAN. P.,Independent,5668,3,5671,0.45,Tamil Nadu,DHARMAPURI
-7,HARI. R.,Bahujan Samaj Party,3128,38,3166,0.25,Tamil Nadu,DHARMAPURI
-8,SOWMIYA,Independent,3001,27,3028,0.24,Tamil Nadu,DHARMAPURI
-9,ELAYARANI. P.,Ganasangam Party of India,2301,14,2315,0.19,Tamil Nadu,DHARMAPURI
-10,ARUMUGAM. M.,Independent,2274,16,2290,0.18,Tamil Nadu,DHARMAPURI
-11,AGNI AALVAR,Independent,1643,8,1651,0.13,Tamil Nadu,DHARMAPURI
-12,PALANI. K.,Independent,1441,9,1450,0.12,Tamil Nadu,DHARMAPURI
-13,MANI. R.,Independent,1029,4,1033,0.08,Tamil Nadu,DHARMAPURI
-14,ASHOKAN. M.,Independent,1024,2,1026,0.08,Tamil Nadu,DHARMAPURI
-15,ALAGARASAN. R.,Independent,899,1,900,0.07,Tamil Nadu,DHARMAPURI
-16,SUNDHARAMOORTHY. M.,Independent,797,3,800,0.06,Tamil Nadu,DHARMAPURI
-17,MANI. C.,Independent,706,4,710,0.06,Tamil Nadu,DHARMAPURI
-18,PARTHASARATHI,Tamilar Makkal Katchi,698,11,709,0.06,Tamil Nadu,DHARMAPURI
-19,PADMARAJAN. K. DR.,Independent,649,8,657,0.05,Tamil Nadu,DHARMAPURI
-20,MANIVASAGAM. C.,Independent,648,3,651,0.05,Tamil Nadu,DHARMAPURI
-21,ASOKAN. G.,Independent,609,2,611,0.05,Tamil Nadu,DHARMAPURI
-22,AYYAKANNU,Independent,583,3,586,0.05,Tamil Nadu,DHARMAPURI
-23,JAGANATHAN. A.,Independent,551,2,553,0.04,Tamil Nadu,DHARMAPURI
-24,MANI. S.,Independent,451,1,452,0.04,Tamil Nadu,DHARMAPURI
-25,NOTA,None of the Above,9093,105,9198,0.74,Tamil Nadu,DHARMAPURI
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,MANI. A.,Dravida Munnetra Kazhagam,429301,3366,432667,34.67,Tamil Nadu,DHARMAPURI,10
+2,SOWMIYA ANBUMANI,Pattali Makkal Katchi,408445,2922,411367,32.97,Tamil Nadu,DHARMAPURI,10
+3,ASOKAN. R. DR.,All India Anna Dravida Munnetra Kazhagam,291590,2039,293629,23.53,Tamil Nadu,DHARMAPURI,10
+4,ABINAYA,Naam Tamilar Katchi,64576,805,65381,5.24,Tamil Nadu,DHARMAPURI,10
+5,THANGAVEL. K.,Dhesiya Makkal Kazhagam,7323,8,7331,0.59,Tamil Nadu,DHARMAPURI,10
+6,THIRUMURUGAN. P.,Independent,5668,3,5671,0.45,Tamil Nadu,DHARMAPURI,10
+7,HARI. R.,Bahujan Samaj Party,3128,38,3166,0.25,Tamil Nadu,DHARMAPURI,10
+8,SOWMIYA,Independent,3001,27,3028,0.24,Tamil Nadu,DHARMAPURI,10
+9,ELAYARANI. P.,Ganasangam Party of India,2301,14,2315,0.19,Tamil Nadu,DHARMAPURI,10
+10,ARUMUGAM. M.,Independent,2274,16,2290,0.18,Tamil Nadu,DHARMAPURI,10
+11,AGNI AALVAR,Independent,1643,8,1651,0.13,Tamil Nadu,DHARMAPURI,10
+12,PALANI. K.,Independent,1441,9,1450,0.12,Tamil Nadu,DHARMAPURI,10
+13,MANI. R.,Independent,1029,4,1033,0.08,Tamil Nadu,DHARMAPURI,10
+14,ASHOKAN. M.,Independent,1024,2,1026,0.08,Tamil Nadu,DHARMAPURI,10
+15,ALAGARASAN. R.,Independent,899,1,900,0.07,Tamil Nadu,DHARMAPURI,10
+16,SUNDHARAMOORTHY. M.,Independent,797,3,800,0.06,Tamil Nadu,DHARMAPURI,10
+17,MANI. C.,Independent,706,4,710,0.06,Tamil Nadu,DHARMAPURI,10
+18,PARTHASARATHI,Tamilar Makkal Katchi,698,11,709,0.06,Tamil Nadu,DHARMAPURI,10
+19,PADMARAJAN. K. DR.,Independent,649,8,657,0.05,Tamil Nadu,DHARMAPURI,10
+20,MANIVASAGAM. C.,Independent,648,3,651,0.05,Tamil Nadu,DHARMAPURI,10
+21,ASOKAN. G.,Independent,609,2,611,0.05,Tamil Nadu,DHARMAPURI,10
+22,AYYAKANNU,Independent,583,3,586,0.05,Tamil Nadu,DHARMAPURI,10
+23,JAGANATHAN. A.,Independent,551,2,553,0.04,Tamil Nadu,DHARMAPURI,10
+24,MANI. S.,Independent,451,1,452,0.04,Tamil Nadu,DHARMAPURI,10
+25,NOTA,None of the Above,9093,105,9198,0.74,Tamil Nadu,DHARMAPURI,10

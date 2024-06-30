@@ -1,15 +1,15 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SUKANTA MAJUMDAR,Bharatiya Janata Party,572925,2071,574996,46.47,West Bengal,Balurghat
-2,BIPLAB MITRA,All India Trinamool Congress,563252,1358,564610,45.63,West Bengal,Balurghat
-3,JOYDEV KUMAR SIDDHANTA,Revolutionary Socialist Party,54081,136,54217,4.38,West Bengal,Balurghat
-4,HAKIM MURMU,Independent,6820,2,6822,0.55,West Bengal,Balurghat
-5,BAKHTIAR MUJAHIT SAHANI,Independent,6391,2,6393,0.52,West Bengal,Balurghat
-6,RANENDRA NATH MALI,Independent,5590,3,5593,0.45,West Bengal,Balurghat
-7,ANTA HANSDA,Bahujan Samaj Party,5130,15,5145,0.42,West Bengal,Balurghat
-8,BISWANATH MURMU,Ambedkarite Party of India,3454,11,3465,0.28,West Bengal,Balurghat
-9,MOZAMMEL HAQUE,All India Secular Front,2261,7,2268,0.18,West Bengal,Balurghat
-10,NAROTTAM SAHA,Independent,2095,11,2106,0.17,West Bengal,Balurghat
-11,MD. SARWARDI,Bhumiputra United Party,1957,10,1967,0.16,West Bengal,Balurghat
-12,BIRENDRA NATH MAHANTA,Socialist Unity Centre Of India (COMMUNIST),1380,7,1387,0.11,West Bengal,Balurghat
-13,RUBEL SARKAR,Kamatapur People’s Party (United),898,4,902,0.07,West Bengal,Balurghat
-14,NOTA,None of the Above,7430,7,7437,0.6,West Bengal,Balurghat
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SUKANTA MAJUMDAR,Bharatiya Janata Party,572925,2071,574996,46.47,West Bengal,Balurghat,6
+2,BIPLAB MITRA,All India Trinamool Congress,563252,1358,564610,45.63,West Bengal,Balurghat,6
+3,JOYDEV KUMAR SIDDHANTA,Revolutionary Socialist Party,54081,136,54217,4.38,West Bengal,Balurghat,6
+4,HAKIM MURMU,Independent,6820,2,6822,0.55,West Bengal,Balurghat,6
+5,BAKHTIAR MUJAHIT SAHANI,Independent,6391,2,6393,0.52,West Bengal,Balurghat,6
+6,RANENDRA NATH MALI,Independent,5590,3,5593,0.45,West Bengal,Balurghat,6
+7,ANTA HANSDA,Bahujan Samaj Party,5130,15,5145,0.42,West Bengal,Balurghat,6
+8,BISWANATH MURMU,Ambedkarite Party of India,3454,11,3465,0.28,West Bengal,Balurghat,6
+9,MOZAMMEL HAQUE,All India Secular Front,2261,7,2268,0.18,West Bengal,Balurghat,6
+10,NAROTTAM SAHA,Independent,2095,11,2106,0.17,West Bengal,Balurghat,6
+11,MD. SARWARDI,Bhumiputra United Party,1957,10,1967,0.16,West Bengal,Balurghat,6
+12,BIRENDRA NATH MAHANTA,Socialist Unity Centre Of India (COMMUNIST),1380,7,1387,0.11,West Bengal,Balurghat,6
+13,RUBEL SARKAR,Kamatapur People’s Party (United),898,4,902,0.07,West Bengal,Balurghat,6
+14,NOTA,None of the Above,7430,7,7437,0.6,West Bengal,Balurghat,6

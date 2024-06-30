@@ -1,34 +1,34 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DR. AMOL RAMSING KOLHE,Nationalist Congress Party – Sharadchandra Pawar,697768,924,698692,50.83,Maharashtra,Shirur
-2,ADHALRAO SHIVAJI DATTATREY,Nationalist Congress Party,557138,603,557741,40.58,Maharashtra,Shirur
-3,MANOHAR MAHADU WADEKAR,Independent,28324,6,28330,2.06,Maharashtra,Shirur
-4,DR. ANWAR SHAIKH,Vanchit Bahujan  Aaghadi,17444,18,17462,1.27,Maharashtra,Shirur
-5,RAHUL RAGHUNATH OWHAL,Bahujan Samaj Party,10280,15,10295,0.75,Maharashtra,Shirur
-6,CHANDGUDE VINOD VASANT,Independent,8076,2,8078,0.59,Maharashtra,Shirur
-7,GORAKSH KASABE,Independent,4913,2,4915,0.36,Maharashtra,Shirur
-8,ADV. DR. LAXMAN RAMBHAU DAMSE,Bharat Adivasi Party,4125,11,4136,0.3,Maharashtra,Shirur
-9,GAIKWAD NILOBA CHANGADEO,Independent,3569,2,3571,0.26,Maharashtra,Shirur
-10,UMESH MAHADEV MHETRE,Independent,3499,-,3499,0.25,Maharashtra,Shirur
-11,ADV.SWAPNIL BHAUSAHEB SHELAR,Independent,2667,-,2667,0.19,Maharashtra,Shirur
-12,AMOL VILAS PACHUNDKAR,Independent,2386,2,2388,0.17,Maharashtra,Shirur
-13,ASLAM ISAK BAGWAN,Lok Sena Party,2348,2,2350,0.17,Maharashtra,Shirur
-14,KAMBLE TRIMBAK NARAYAN,Baliraja Party,2223,4,2227,0.16,Maharashtra,Shirur
-15,SUBASH KASHINATH SARODE,Independent,2161,-,2161,0.16,Maharashtra,Shirur
-16,CHAAYA SANJAY JAGDALE-SOLANKE,Independent,1823,7,1830,0.13,Maharashtra,Shirur
-17,SUSHIL DNYANDEV KANSE,Independent,1731,1,1732,0.13,Maharashtra,Shirur
-18,NARAYAN PRABHAKAR ANKUSHE,Bharatheeya Jawan Kisan Party,1279,5,1284,0.09,Maharashtra,Shirur
-19,BHOR VIKAS ROHIDAS,Independent,1145,2,1147,0.08,Maharashtra,Shirur
-20,DADA ALIAS VIKAS SURESH KASBE,Independent,1105,1,1106,0.08,Maharashtra,Shirur
-21,SURAJ CHANDRAKANT GAIKWAD,Independent,936,2,938,0.07,Maharashtra,Shirur
-22,SWAPNIL DHANAJI LONDHE,Bhim Sena,913,1,914,0.07,Maharashtra,Shirur
-23,AMAR MACHINDRA BORHADE,Independent,887,1,888,0.06,Maharashtra,Shirur
-24,RAVINDRA MOTIRAM SIRSAM,Independent,870,-,870,0.06,Maharashtra,Shirur
-25,TUKARAM NAMDEO DAPHAL,Sainik Samaj Party,862,20,882,0.06,Maharashtra,Shirur
-26,PANDURANG BHAGWAN WAGHOLE,Independent,818,1,819,0.06,Maharashtra,Shirur
-27,SANJAY LAXMAN PADWAL,Bhartiya Navjawan Sena (Paksha),779,5,784,0.06,Maharashtra,Shirur
-28,HARIDAS CHANDAR BHISE,Bharatiya Lokvikas Party,721,2,723,0.05,Maharashtra,Shirur
-29,SALIM BABA SAYYAD,Independent,671,-,671,0.05,Maharashtra,Shirur
-30,PRAKASH SUKHADEO JAMDHADE,Independent,602,1,603,0.04,Maharashtra,Shirur
-31,WAKHARE PRADIP PANDURANG,Independent,574,-,574,0.04,Maharashtra,Shirur
-32,RAHUL ARJUN HORE,Independent,526,-,526,0.04,Maharashtra,Shirur
-33,NOTA,None of the Above,9634,27,9661,0.7,Maharashtra,Shirur
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DR. AMOL RAMSING KOLHE,Nationalist Congress Party – Sharadchandra Pawar,697768,924,698692,50.83,Maharashtra,Shirur,36
+2,ADHALRAO SHIVAJI DATTATREY,Nationalist Congress Party,557138,603,557741,40.58,Maharashtra,Shirur,36
+3,MANOHAR MAHADU WADEKAR,Independent,28324,6,28330,2.06,Maharashtra,Shirur,36
+4,DR. ANWAR SHAIKH,Vanchit Bahujan  Aaghadi,17444,18,17462,1.27,Maharashtra,Shirur,36
+5,RAHUL RAGHUNATH OWHAL,Bahujan Samaj Party,10280,15,10295,0.75,Maharashtra,Shirur,36
+6,CHANDGUDE VINOD VASANT,Independent,8076,2,8078,0.59,Maharashtra,Shirur,36
+7,GORAKSH KASABE,Independent,4913,2,4915,0.36,Maharashtra,Shirur,36
+8,ADV. DR. LAXMAN RAMBHAU DAMSE,Bharat Adivasi Party,4125,11,4136,0.3,Maharashtra,Shirur,36
+9,GAIKWAD NILOBA CHANGADEO,Independent,3569,2,3571,0.26,Maharashtra,Shirur,36
+10,UMESH MAHADEV MHETRE,Independent,3499,-,3499,0.25,Maharashtra,Shirur,36
+11,ADV.SWAPNIL BHAUSAHEB SHELAR,Independent,2667,-,2667,0.19,Maharashtra,Shirur,36
+12,AMOL VILAS PACHUNDKAR,Independent,2386,2,2388,0.17,Maharashtra,Shirur,36
+13,ASLAM ISAK BAGWAN,Lok Sena Party,2348,2,2350,0.17,Maharashtra,Shirur,36
+14,KAMBLE TRIMBAK NARAYAN,Baliraja Party,2223,4,2227,0.16,Maharashtra,Shirur,36
+15,SUBASH KASHINATH SARODE,Independent,2161,-,2161,0.16,Maharashtra,Shirur,36
+16,CHAAYA SANJAY JAGDALE-SOLANKE,Independent,1823,7,1830,0.13,Maharashtra,Shirur,36
+17,SUSHIL DNYANDEV KANSE,Independent,1731,1,1732,0.13,Maharashtra,Shirur,36
+18,NARAYAN PRABHAKAR ANKUSHE,Bharatheeya Jawan Kisan Party,1279,5,1284,0.09,Maharashtra,Shirur,36
+19,BHOR VIKAS ROHIDAS,Independent,1145,2,1147,0.08,Maharashtra,Shirur,36
+20,DADA ALIAS VIKAS SURESH KASBE,Independent,1105,1,1106,0.08,Maharashtra,Shirur,36
+21,SURAJ CHANDRAKANT GAIKWAD,Independent,936,2,938,0.07,Maharashtra,Shirur,36
+22,SWAPNIL DHANAJI LONDHE,Bhim Sena,913,1,914,0.07,Maharashtra,Shirur,36
+23,AMAR MACHINDRA BORHADE,Independent,887,1,888,0.06,Maharashtra,Shirur,36
+24,RAVINDRA MOTIRAM SIRSAM,Independent,870,-,870,0.06,Maharashtra,Shirur,36
+25,TUKARAM NAMDEO DAPHAL,Sainik Samaj Party,862,20,882,0.06,Maharashtra,Shirur,36
+26,PANDURANG BHAGWAN WAGHOLE,Independent,818,1,819,0.06,Maharashtra,Shirur,36
+27,SANJAY LAXMAN PADWAL,Bhartiya Navjawan Sena (Paksha),779,5,784,0.06,Maharashtra,Shirur,36
+28,HARIDAS CHANDAR BHISE,Bharatiya Lokvikas Party,721,2,723,0.05,Maharashtra,Shirur,36
+29,SALIM BABA SAYYAD,Independent,671,-,671,0.05,Maharashtra,Shirur,36
+30,PRAKASH SUKHADEO JAMDHADE,Independent,602,1,603,0.04,Maharashtra,Shirur,36
+31,WAKHARE PRADIP PANDURANG,Independent,574,-,574,0.04,Maharashtra,Shirur,36
+32,RAHUL ARJUN HORE,Independent,526,-,526,0.04,Maharashtra,Shirur,36
+33,NOTA,None of the Above,9634,27,9661,0.7,Maharashtra,Shirur,36

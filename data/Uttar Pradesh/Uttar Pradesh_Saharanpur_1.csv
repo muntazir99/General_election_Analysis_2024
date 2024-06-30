@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,IMRAN MASOOD,Indian National Congress,547383,584,547967,44.57,Uttar Pradesh,Saharanpur
-2,RAGHAV LAKHANPAL,Bharatiya Janata Party,482120,1305,483425,39.32,Uttar Pradesh,Saharanpur
-3,MAJID ALI,Bahujan Samaj Party,179994,359,180353,14.67,Uttar Pradesh,Saharanpur
-4,MOHD INAM,Akhil Bhartiya Parivar Party,5392,8,5400,0.44,Uttar Pradesh,Saharanpur
-5,SHABNAM,Independent,2370,3,2373,0.19,Uttar Pradesh,Saharanpur
-6,SHAHBAJ,Independent,1696,2,1698,0.14,Uttar Pradesh,Saharanpur
-7,RASHID KHAN,Independent,1227,3,1230,0.1,Uttar Pradesh,Saharanpur
-8,TASMEEM BANO,Independent,883,2,885,0.07,Uttar Pradesh,Saharanpur
-9,RAJKUMAR,Independent,807,6,813,0.07,Uttar Pradesh,Saharanpur
-10,KAMRAN,Independent,744,1,745,0.06,Uttar Pradesh,Saharanpur
-11,NOTA,None of the Above,4559,7,4566,0.37,Uttar Pradesh,Saharanpur
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,IMRAN MASOOD,Indian National Congress,547383,584,547967,44.57,Uttar Pradesh,Saharanpur,1
+2,RAGHAV LAKHANPAL,Bharatiya Janata Party,482120,1305,483425,39.32,Uttar Pradesh,Saharanpur,1
+3,MAJID ALI,Bahujan Samaj Party,179994,359,180353,14.67,Uttar Pradesh,Saharanpur,1
+4,MOHD INAM,Akhil Bhartiya Parivar Party,5392,8,5400,0.44,Uttar Pradesh,Saharanpur,1
+5,SHABNAM,Independent,2370,3,2373,0.19,Uttar Pradesh,Saharanpur,1
+6,SHAHBAJ,Independent,1696,2,1698,0.14,Uttar Pradesh,Saharanpur,1
+7,RASHID KHAN,Independent,1227,3,1230,0.1,Uttar Pradesh,Saharanpur,1
+8,TASMEEM BANO,Independent,883,2,885,0.07,Uttar Pradesh,Saharanpur,1
+9,RAJKUMAR,Independent,807,6,813,0.07,Uttar Pradesh,Saharanpur,1
+10,KAMRAN,Independent,744,1,745,0.06,Uttar Pradesh,Saharanpur,1
+11,NOTA,None of the Above,4559,7,4566,0.37,Uttar Pradesh,Saharanpur,1

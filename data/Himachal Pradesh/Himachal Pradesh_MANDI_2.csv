@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,KANGNA RANAUT,Bharatiya Janata Party,527463,9559,537022,52.87,Himachal Pradesh,MANDI
-2,VIKRAMADITYA SINGH,Indian National Congress,453760,8507,462267,45.51,Himachal Pradesh,MANDI
-3,DR. PRAKASH CHAND BHARDWAJ,Bahujan Samaj Party,4320,73,4393,0.43,Himachal Pradesh,MANDI
-4,NARENDER KUMAR,Rashtriya Devbhumi Party,2422,25,2447,0.24,Himachal Pradesh,MANDI
-5,RAKHEE GUPTA,Independent,1014,37,1051,0.1,Himachal Pradesh,MANDI
-6,SUBHASH MOHAN SNEHI,Independent,963,11,974,0.1,Himachal Pradesh,MANDI
-7,VINAY KUMAR,Akhil Bhartiya Parivar Party,674,16,690,0.07,Himachal Pradesh,MANDI
-8,MAHESH  SAINI,Himachal Janta Party,641,13,654,0.06,Himachal Pradesh,MANDI
-9,DINESH KUMAR BHATI,Independent,375,6,381,0.04,Himachal Pradesh,MANDI
-10,ASHUTOSH MAHANT,Independent,260,26,286,0.03,Himachal Pradesh,MANDI
-11,NOTA,None of the Above,5586,59,5645,0.56,Himachal Pradesh,MANDI
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,KANGNA RANAUT,Bharatiya Janata Party,527463,9559,537022,52.87,Himachal Pradesh,MANDI,2
+2,VIKRAMADITYA SINGH,Indian National Congress,453760,8507,462267,45.51,Himachal Pradesh,MANDI,2
+3,DR. PRAKASH CHAND BHARDWAJ,Bahujan Samaj Party,4320,73,4393,0.43,Himachal Pradesh,MANDI,2
+4,NARENDER KUMAR,Rashtriya Devbhumi Party,2422,25,2447,0.24,Himachal Pradesh,MANDI,2
+5,RAKHEE GUPTA,Independent,1014,37,1051,0.1,Himachal Pradesh,MANDI,2
+6,SUBHASH MOHAN SNEHI,Independent,963,11,974,0.1,Himachal Pradesh,MANDI,2
+7,VINAY KUMAR,Akhil Bhartiya Parivar Party,674,16,690,0.07,Himachal Pradesh,MANDI,2
+8,MAHESH  SAINI,Himachal Janta Party,641,13,654,0.06,Himachal Pradesh,MANDI,2
+9,DINESH KUMAR BHATI,Independent,375,6,381,0.04,Himachal Pradesh,MANDI,2
+10,ASHUTOSH MAHANT,Independent,260,26,286,0.03,Himachal Pradesh,MANDI,2
+11,NOTA,None of the Above,5586,59,5645,0.56,Himachal Pradesh,MANDI,2

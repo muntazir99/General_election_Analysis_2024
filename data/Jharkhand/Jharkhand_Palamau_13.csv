@@ -1,11 +1,11 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,VISHNU DAYAL RAM,Bharatiya Janata Party,762290,8072,770362,55.39,Jharkhand,Palamau
-2,MAMTA BHUIYAN,Rashtriya Janata Dal,473668,7887,481555,34.63,Jharkhand,Palamau
-3,KAMESHWAR BAITHA,Bahujan Samaj Party,39267,733,40000,2.88,Jharkhand,Palamau
-4,SANAN RAM,Lokhit Adhikar Party,17849,26,17875,1.29,Jharkhand,Palamau
-5,GANESH RAVI,Independent,17669,30,17699,1.27,Jharkhand,Palamau
-6,BRAJESH KUMAR TURI,Rashtriya Samanta Dal,17542,24,17566,1.26,Jharkhand,Palamau
-7,VRINDA RAM,Peoples Party of India (Democratic),11205,65,11270,0.81,Jharkhand,Palamau
-8,MAHENDRA BAITHA,Socialist Unity Centre Of India (COMMUNIST),5097,18,5115,0.37,Jharkhand,Palamau
-9,RAM VACHAN RAM,Bahujan Mukti Party,4924,29,4953,0.36,Jharkhand,Palamau
-10,NOTA,None of the Above,24226,117,24343,1.75,Jharkhand,Palamau
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,VISHNU DAYAL RAM,Bharatiya Janata Party,762290,8072,770362,55.39,Jharkhand,Palamau,13
+2,MAMTA BHUIYAN,Rashtriya Janata Dal,473668,7887,481555,34.63,Jharkhand,Palamau,13
+3,KAMESHWAR BAITHA,Bahujan Samaj Party,39267,733,40000,2.88,Jharkhand,Palamau,13
+4,SANAN RAM,Lokhit Adhikar Party,17849,26,17875,1.29,Jharkhand,Palamau,13
+5,GANESH RAVI,Independent,17669,30,17699,1.27,Jharkhand,Palamau,13
+6,BRAJESH KUMAR TURI,Rashtriya Samanta Dal,17542,24,17566,1.26,Jharkhand,Palamau,13
+7,VRINDA RAM,Peoples Party of India (Democratic),11205,65,11270,0.81,Jharkhand,Palamau,13
+8,MAHENDRA BAITHA,Socialist Unity Centre Of India (COMMUNIST),5097,18,5115,0.37,Jharkhand,Palamau,13
+9,RAM VACHAN RAM,Bahujan Mukti Party,4924,29,4953,0.36,Jharkhand,Palamau,13
+10,NOTA,None of the Above,24226,117,24343,1.75,Jharkhand,Palamau,13

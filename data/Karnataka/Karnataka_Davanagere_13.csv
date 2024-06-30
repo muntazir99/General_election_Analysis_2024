@@ -1,32 +1,32 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DR. PRABHA MALLIKARJUN,Indian National Congress,631453,1606,633059,47.95,Karnataka,Davanagere
-2,GAYITHRI SIDDESHWARA,Bharatiya Janata Party,604531,2434,606965,45.97,Karnataka,Davanagere
-3,G.B.VINAY KUMAR,Independent,42624,283,42907,3.25,Karnataka,Davanagere
-4,T.JABEENA AAPA,Independent,5127,1,5128,0.39,Karnataka,Davanagere
-5,D. HANUMANTHAPPA,Bahujan Samaj Party,4462,13,4475,0.34,Karnataka,Davanagere
-6,TASLIM BANU,Independent,4140,1,4141,0.31,Karnataka,Davanagere
-7,T.CHANDRU,Independent,3043,-,3043,0.23,Karnataka,Davanagere
-8,G.M.GAYITRI SIDDESHI,Independent,2453,11,2464,0.19,Karnataka,Davanagere
-9,PARAVEEJ.H,Independent,1867,2,1869,0.14,Karnataka,Davanagere
-10,ESHWARA SHENGA,Uttama Prajaakeeya Party,1424,6,1430,0.11,Karnataka,Davanagere
-11,A.K.GANESH,Independent,1054,1,1055,0.08,Karnataka,Davanagere
-12,M.C.SREENIVAS,Bharatiya Prajagala Kalyana Paksha,968,5,973,0.07,Karnataka,Davanagere
-13,SYED ZABIULLA.K,Independent,843,1,844,0.06,Karnataka,Davanagere
-14,ANABERU THIPPESWAMY,Socialist Unity Centre Of India (COMMUNIST),842,7,849,0.06,Karnataka,Davanagere
-15,SALEEM S,Independent,799,-,799,0.06,Karnataka,Davanagere
-16,MOHAMED HAYATH.M,Independent,721,1,722,0.05,Karnataka,Davanagere
-17,ABDUL NAZEER AHAMMED,Independent,651,1,652,0.05,Karnataka,Davanagere
-18,RASHEED KHAN,Independent,599,1,600,0.05,Karnataka,Davanagere
-19,M.G.SRIKANTH,Navabharath Sena,555,6,561,0.04,Karnataka,Davanagere
-20,M.P. KHALANDAR,Country Citizen Party,536,3,539,0.04,Karnataka,Davanagere
-21,PEDDAPPA S,Independent,506,2,508,0.04,Karnataka,Davanagere
-22,G.M.BARKATH ALI BASHA,Independent,470,1,471,0.04,Karnataka,Davanagere
-23,K.S. VEERBHADRAPPA,Karnataka Rashtra Samithi,466,9,475,0.04,Karnataka,Davanagere
-24,VEERESH.S (LION VEERESH),Rani Chennamma Party,457,1,458,0.03,Karnataka,Davanagere
-25,DODDESH.H.S,Janahitha Paksha,439,1,440,0.03,Karnataka,Davanagere
-26,BARKATH ALI,Independent,409,2,411,0.03,Karnataka,Davanagere
-27,MANJU. MARIKOPPA,Independent,376,2,378,0.03,Karnataka,Davanagere
-28,RUDRESHA.K.H,Samaj Vikas Kranti Party,346,2,348,0.03,Karnataka,Davanagere
-29,RAVINAIK. B,Independent,317,3,320,0.02,Karnataka,Davanagere
-30,MAHABUB BASHA,Independent,308,-,308,0.02,Karnataka,Davanagere
-31,NOTA,None of the Above,3165,11,3176,0.24,Karnataka,Davanagere
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DR. PRABHA MALLIKARJUN,Indian National Congress,631453,1606,633059,47.95,Karnataka,Davanagere,13
+2,GAYITHRI SIDDESHWARA,Bharatiya Janata Party,604531,2434,606965,45.97,Karnataka,Davanagere,13
+3,G.B.VINAY KUMAR,Independent,42624,283,42907,3.25,Karnataka,Davanagere,13
+4,T.JABEENA AAPA,Independent,5127,1,5128,0.39,Karnataka,Davanagere,13
+5,D. HANUMANTHAPPA,Bahujan Samaj Party,4462,13,4475,0.34,Karnataka,Davanagere,13
+6,TASLIM BANU,Independent,4140,1,4141,0.31,Karnataka,Davanagere,13
+7,T.CHANDRU,Independent,3043,-,3043,0.23,Karnataka,Davanagere,13
+8,G.M.GAYITRI SIDDESHI,Independent,2453,11,2464,0.19,Karnataka,Davanagere,13
+9,PARAVEEJ.H,Independent,1867,2,1869,0.14,Karnataka,Davanagere,13
+10,ESHWARA SHENGA,Uttama Prajaakeeya Party,1424,6,1430,0.11,Karnataka,Davanagere,13
+11,A.K.GANESH,Independent,1054,1,1055,0.08,Karnataka,Davanagere,13
+12,M.C.SREENIVAS,Bharatiya Prajagala Kalyana Paksha,968,5,973,0.07,Karnataka,Davanagere,13
+13,SYED ZABIULLA.K,Independent,843,1,844,0.06,Karnataka,Davanagere,13
+14,ANABERU THIPPESWAMY,Socialist Unity Centre Of India (COMMUNIST),842,7,849,0.06,Karnataka,Davanagere,13
+15,SALEEM S,Independent,799,-,799,0.06,Karnataka,Davanagere,13
+16,MOHAMED HAYATH.M,Independent,721,1,722,0.05,Karnataka,Davanagere,13
+17,ABDUL NAZEER AHAMMED,Independent,651,1,652,0.05,Karnataka,Davanagere,13
+18,RASHEED KHAN,Independent,599,1,600,0.05,Karnataka,Davanagere,13
+19,M.G.SRIKANTH,Navabharath Sena,555,6,561,0.04,Karnataka,Davanagere,13
+20,M.P. KHALANDAR,Country Citizen Party,536,3,539,0.04,Karnataka,Davanagere,13
+21,PEDDAPPA S,Independent,506,2,508,0.04,Karnataka,Davanagere,13
+22,G.M.BARKATH ALI BASHA,Independent,470,1,471,0.04,Karnataka,Davanagere,13
+23,K.S. VEERBHADRAPPA,Karnataka Rashtra Samithi,466,9,475,0.04,Karnataka,Davanagere,13
+24,VEERESH.S (LION VEERESH),Rani Chennamma Party,457,1,458,0.03,Karnataka,Davanagere,13
+25,DODDESH.H.S,Janahitha Paksha,439,1,440,0.03,Karnataka,Davanagere,13
+26,BARKATH ALI,Independent,409,2,411,0.03,Karnataka,Davanagere,13
+27,MANJU. MARIKOPPA,Independent,376,2,378,0.03,Karnataka,Davanagere,13
+28,RUDRESHA.K.H,Samaj Vikas Kranti Party,346,2,348,0.03,Karnataka,Davanagere,13
+29,RAVINAIK. B,Independent,317,3,320,0.02,Karnataka,Davanagere,13
+30,MAHABUB BASHA,Independent,308,-,308,0.02,Karnataka,Davanagere,13
+31,NOTA,None of the Above,3165,11,3176,0.24,Karnataka,Davanagere,13

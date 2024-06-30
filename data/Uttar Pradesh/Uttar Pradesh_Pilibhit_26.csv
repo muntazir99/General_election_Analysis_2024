@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,JITIN PRASADA,Bharatiya Janata Party,605199,1959,607158,52.3,Uttar Pradesh,Pilibhit
-2,BHAGWAT SARAN GANGWAR,Samajwadi Party,439735,2488,442223,38.09,Uttar Pradesh,Pilibhit
-3,ANIS AHMED KHAN (PHOOL BABU),Bahujan Samaj Party,89252,445,89697,7.73,Uttar Pradesh,Pilibhit
-4,RAJEEV KUMAR SAXENA,Bhartiya Krishak Dal,3800,9,3809,0.33,Uttar Pradesh,Pilibhit
-5,SUSHIL KUMAR SHUKLA,Independent,2723,4,2727,0.23,Uttar Pradesh,Pilibhit
-6,MOHMMAD SHAHID HUSAIN,Independent,1842,4,1846,0.16,Uttar Pradesh,Pilibhit
-7,ASHISH KUMAR,Independent,1842,8,1850,0.16,Uttar Pradesh,Pilibhit
-8,ADARSH PANDEY,Independent,1714,12,1726,0.15,Uttar Pradesh,Pilibhit
-9,SANJAY KUMAR BHARTI,Rashtriya Samaj Dal (R),1621,10,1631,0.14,Uttar Pradesh,Pilibhit
-10,PRAMOD BHAI PATEL ALIAS P.K.,Independent,1525,14,1539,0.13,Uttar Pradesh,Pilibhit
-11,NOTA,None of the Above,6714,27,6741,0.58,Uttar Pradesh,Pilibhit
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,JITIN PRASADA,Bharatiya Janata Party,605199,1959,607158,52.3,Uttar Pradesh,Pilibhit,26
+2,BHAGWAT SARAN GANGWAR,Samajwadi Party,439735,2488,442223,38.09,Uttar Pradesh,Pilibhit,26
+3,ANIS AHMED KHAN (PHOOL BABU),Bahujan Samaj Party,89252,445,89697,7.73,Uttar Pradesh,Pilibhit,26
+4,RAJEEV KUMAR SAXENA,Bhartiya Krishak Dal,3800,9,3809,0.33,Uttar Pradesh,Pilibhit,26
+5,SUSHIL KUMAR SHUKLA,Independent,2723,4,2727,0.23,Uttar Pradesh,Pilibhit,26
+6,MOHMMAD SHAHID HUSAIN,Independent,1842,4,1846,0.16,Uttar Pradesh,Pilibhit,26
+7,ASHISH KUMAR,Independent,1842,8,1850,0.16,Uttar Pradesh,Pilibhit,26
+8,ADARSH PANDEY,Independent,1714,12,1726,0.15,Uttar Pradesh,Pilibhit,26
+9,SANJAY KUMAR BHARTI,Rashtriya Samaj Dal (R),1621,10,1631,0.14,Uttar Pradesh,Pilibhit,26
+10,PRAMOD BHAI PATEL ALIAS P.K.,Independent,1525,14,1539,0.13,Uttar Pradesh,Pilibhit,26
+11,NOTA,None of the Above,6714,27,6741,0.58,Uttar Pradesh,Pilibhit,26

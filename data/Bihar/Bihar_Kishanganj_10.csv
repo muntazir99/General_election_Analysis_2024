@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,MOHAMMAD JAWED,Indian National Congress,402470,380,402850,35.0,Bihar,Kishanganj
-2,MUJAHID ALAM,Janata Dal  (United),342795,363,343158,29.81,Bihar,Kishanganj
-3,AKHTARUL IMAN,All India Majlis-E-Ittehadul Muslimeen,309011,253,309264,26.87,Bihar,Kishanganj
-4,BIDESHI RISHIDEV,Independent,11815,3,11818,1.03,Bihar,Kishanganj
-5,VISHWANATH TUDU,Independent,11300,2,11302,0.98,Bihar,Kishanganj
-6,MD GUFRAN JAMALI,Independent,9992,1,9993,0.87,Bihar,Kishanganj
-7,HASIRUL,Independent,9522,2,9524,0.83,Bihar,Kishanganj
-8,BABUL ALAM,Bahujan Samaj Party,7575,4,7579,0.66,Bihar,Kishanganj
-9,RAVI KUMAR ROY,Independent,7299,3,7302,0.63,Bihar,Kishanganj
-10,SHAHABUZZAMA BHARTIYA,Rashtriya Samaj Paksha,6055,-,6055,0.53,Bihar,Kishanganj
-11,CHHOTE LAL MAHTO,Independent,3758,5,3763,0.33,Bihar,Kishanganj
-12,MOHAMMAD KAUSAR PERWEZ,Independent,3525,-,3525,0.31,Bihar,Kishanganj
-13,NOTA,None of the Above,24953,13,24966,2.17,Bihar,Kishanganj
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,MOHAMMAD JAWED,Indian National Congress,402470,380,402850,35.0,Bihar,Kishanganj,10
+2,MUJAHID ALAM,Janata Dal  (United),342795,363,343158,29.81,Bihar,Kishanganj,10
+3,AKHTARUL IMAN,All India Majlis-E-Ittehadul Muslimeen,309011,253,309264,26.87,Bihar,Kishanganj,10
+4,BIDESHI RISHIDEV,Independent,11815,3,11818,1.03,Bihar,Kishanganj,10
+5,VISHWANATH TUDU,Independent,11300,2,11302,0.98,Bihar,Kishanganj,10
+6,MD GUFRAN JAMALI,Independent,9992,1,9993,0.87,Bihar,Kishanganj,10
+7,HASIRUL,Independent,9522,2,9524,0.83,Bihar,Kishanganj,10
+8,BABUL ALAM,Bahujan Samaj Party,7575,4,7579,0.66,Bihar,Kishanganj,10
+9,RAVI KUMAR ROY,Independent,7299,3,7302,0.63,Bihar,Kishanganj,10
+10,SHAHABUZZAMA BHARTIYA,Rashtriya Samaj Paksha,6055,-,6055,0.53,Bihar,Kishanganj,10
+11,CHHOTE LAL MAHTO,Independent,3758,5,3763,0.33,Bihar,Kishanganj,10
+12,MOHAMMAD KAUSAR PERWEZ,Independent,3525,-,3525,0.31,Bihar,Kishanganj,10
+13,NOTA,None of the Above,24953,13,24966,2.17,Bihar,Kishanganj,10

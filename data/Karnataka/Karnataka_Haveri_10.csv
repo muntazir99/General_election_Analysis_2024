@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BASAVARAJ BOMMAI,Bharatiya Janata Party,702189,3349,705538,50.55,Karnataka,Haveri
-2,ANANDSWAMY GADDADEVARMATH,Indian National Congress,660191,1834,662025,47.43,Karnataka,Haveri
-3,SUNANDA KARIYAPPA SHIRHATTI,Independent,4705,2,4707,0.34,Karnataka,Haveri
-4,KHAJAMOHIDDIN GUDAGERI,Socialist Party (India),3398,3,3401,0.24,Karnataka,Haveri
-5,GANGADHAR BADIGER,Socialist Unity Centre Of India (COMMUNIST),2264,6,2270,0.16,Karnataka,Haveri
-6,RUDRAPPA BASAPPA KUMBAR,Independent,1352,4,1356,0.1,Karnataka,Haveri
-7,BASAVARAJ B HADI,Independent,1065,6,1071,0.08,Karnataka,Haveri
-8,PRAJAKEEYA SACHINKUMAR KARJEKANNAVAR,Uttama Prajaakeeya Party,1058,14,1072,0.08,Karnataka,Haveri
-9,DR. G H IMRAPUR,Independent,930,23,953,0.07,Karnataka,Haveri
-10,JAGADISH YALLAPPA BANKAPURA,Independent,660,14,674,0.05,Karnataka,Haveri
-11,TANU CHIKKANNA YADAV,Karnataka Rashtra Samithi,628,8,636,0.05,Karnataka,Haveri
-12,H K NARASIMHAPPA,Samajwadi Janata Party(Karnataka),445,1,446,0.03,Karnataka,Haveri
-13,VISHWANATH SHEERI,Ekam Sanatan Bharat Dal,401,-,401,0.03,Karnataka,Haveri
-14,RASHEEDA BEGUM,Indian Movement Party,396,1,397,0.03,Karnataka,Haveri
-15,NOTA,None of the Above,10831,34,10865,0.78,Karnataka,Haveri
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BASAVARAJ BOMMAI,Bharatiya Janata Party,702189,3349,705538,50.55,Karnataka,Haveri,10
+2,ANANDSWAMY GADDADEVARMATH,Indian National Congress,660191,1834,662025,47.43,Karnataka,Haveri,10
+3,SUNANDA KARIYAPPA SHIRHATTI,Independent,4705,2,4707,0.34,Karnataka,Haveri,10
+4,KHAJAMOHIDDIN GUDAGERI,Socialist Party (India),3398,3,3401,0.24,Karnataka,Haveri,10
+5,GANGADHAR BADIGER,Socialist Unity Centre Of India (COMMUNIST),2264,6,2270,0.16,Karnataka,Haveri,10
+6,RUDRAPPA BASAPPA KUMBAR,Independent,1352,4,1356,0.1,Karnataka,Haveri,10
+7,BASAVARAJ B HADI,Independent,1065,6,1071,0.08,Karnataka,Haveri,10
+8,PRAJAKEEYA SACHINKUMAR KARJEKANNAVAR,Uttama Prajaakeeya Party,1058,14,1072,0.08,Karnataka,Haveri,10
+9,DR. G H IMRAPUR,Independent,930,23,953,0.07,Karnataka,Haveri,10
+10,JAGADISH YALLAPPA BANKAPURA,Independent,660,14,674,0.05,Karnataka,Haveri,10
+11,TANU CHIKKANNA YADAV,Karnataka Rashtra Samithi,628,8,636,0.05,Karnataka,Haveri,10
+12,H K NARASIMHAPPA,Samajwadi Janata Party(Karnataka),445,1,446,0.03,Karnataka,Haveri,10
+13,VISHWANATH SHEERI,Ekam Sanatan Bharat Dal,401,-,401,0.03,Karnataka,Haveri,10
+14,RASHEEDA BEGUM,Indian Movement Party,396,1,397,0.03,Karnataka,Haveri,10
+15,NOTA,None of the Above,10831,34,10865,0.78,Karnataka,Haveri,10

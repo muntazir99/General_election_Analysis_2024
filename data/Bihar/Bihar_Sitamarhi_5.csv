@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DEVESH CHANDRA THAKUR,Janata Dal  (United),514940,779,515719,47.14,Bihar,Sitamarhi
-2,ARJUN RAY,Rashtriya Janata Dal,463107,1256,464363,42.45,Bihar,Sitamarhi
-3,SAIQUA NAWAZ AZMAT,Independent,28911,1,28912,2.64,Bihar,Sitamarhi
-4,SHYAM NANDAN KISHOR PRASAD,Independent,11173,15,11188,1.02,Bihar,Sitamarhi
-5,BHOLA SINGH,Bahujan Samaj Party,8773,37,8810,0.81,Bihar,Sitamarhi
-6,UPENDRA SAHANI,Rashtriya Jansambhavna Party,8446,8,8454,0.77,Bihar,Sitamarhi
-7,CHANDRIKA PRASAD,Independent,7109,5,7114,0.65,Bihar,Sitamarhi
-8,VINOD SAH,Independent,4477,4,4481,0.41,Bihar,Sitamarhi
-9,KRISHNA KISHORE,Independent,3280,-,3280,0.3,Bihar,Sitamarhi
-10,MUSHAHID RAZA,Desh Janhit Party,2190,2,2192,0.2,Bihar,Sitamarhi
-11,UMESH KUMAR YADAV,Independent,2126,2,2128,0.19,Bihar,Sitamarhi
-12,RAJENDRA MAHTO,Karpoori Janta Dal,1976,5,1981,0.18,Bihar,Sitamarhi
-13,ANAND KUMAR,Independent,1787,9,1796,0.16,Bihar,Sitamarhi
-14,ABDUL SAMAD,Independent,1439,2,1441,0.13,Bihar,Sitamarhi
-15,NOTA,None of the Above,32102,31,32133,2.94,Bihar,Sitamarhi
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DEVESH CHANDRA THAKUR,Janata Dal  (United),514940,779,515719,47.14,Bihar,Sitamarhi,5
+2,ARJUN RAY,Rashtriya Janata Dal,463107,1256,464363,42.45,Bihar,Sitamarhi,5
+3,SAIQUA NAWAZ AZMAT,Independent,28911,1,28912,2.64,Bihar,Sitamarhi,5
+4,SHYAM NANDAN KISHOR PRASAD,Independent,11173,15,11188,1.02,Bihar,Sitamarhi,5
+5,BHOLA SINGH,Bahujan Samaj Party,8773,37,8810,0.81,Bihar,Sitamarhi,5
+6,UPENDRA SAHANI,Rashtriya Jansambhavna Party,8446,8,8454,0.77,Bihar,Sitamarhi,5
+7,CHANDRIKA PRASAD,Independent,7109,5,7114,0.65,Bihar,Sitamarhi,5
+8,VINOD SAH,Independent,4477,4,4481,0.41,Bihar,Sitamarhi,5
+9,KRISHNA KISHORE,Independent,3280,-,3280,0.3,Bihar,Sitamarhi,5
+10,MUSHAHID RAZA,Desh Janhit Party,2190,2,2192,0.2,Bihar,Sitamarhi,5
+11,UMESH KUMAR YADAV,Independent,2126,2,2128,0.19,Bihar,Sitamarhi,5
+12,RAJENDRA MAHTO,Karpoori Janta Dal,1976,5,1981,0.18,Bihar,Sitamarhi,5
+13,ANAND KUMAR,Independent,1787,9,1796,0.16,Bihar,Sitamarhi,5
+14,ABDUL SAMAD,Independent,1439,2,1441,0.13,Bihar,Sitamarhi,5
+15,NOTA,None of the Above,32102,31,32133,2.94,Bihar,Sitamarhi,5

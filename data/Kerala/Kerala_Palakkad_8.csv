@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,V K SREEKANDAN,Indian National Congress,418072,3097,421169,40.66,Kerala,Palakkad
-2,A VIJAYARAGHAVAN,Communist Party of India  (Marxist),342798,3088,345886,33.39,Kerala,Palakkad
-3,C KRISHNAKUMAR,Bharatiya Janata Party,249568,2210,251778,24.31,Kerala,Palakkad
-4,K T PADMINI,Bahujan Samaj Party,2102,30,2132,0.21,Kerala,Palakkad
-5,ANNA KURIAKOSE,Independent,1416,17,1433,0.14,Kerala,Palakkad
-6,N S K PURAM SASIKUMAR,Independent,1151,26,1177,0.11,Kerala,Palakkad
-7,RAJESH K SON OF VELANKUTTY,Independent,1033,23,1056,0.1,Kerala,Palakkad
-8,RAJESH M SON OF MANI C,Independent,947,6,953,0.09,Kerala,Palakkad
-9,SIDHEEK IRUPPASSERY,Independent,913,26,939,0.09,Kerala,Palakkad
-10,C RAJAMANICKAM,Independent,516,4,520,0.05,Kerala,Palakkad
-11,NOTA,None of the Above,8724,69,8793,0.85,Kerala,Palakkad
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,V K SREEKANDAN,Indian National Congress,418072,3097,421169,40.66,Kerala,Palakkad,8
+2,A VIJAYARAGHAVAN,Communist Party of India  (Marxist),342798,3088,345886,33.39,Kerala,Palakkad,8
+3,C KRISHNAKUMAR,Bharatiya Janata Party,249568,2210,251778,24.31,Kerala,Palakkad,8
+4,K T PADMINI,Bahujan Samaj Party,2102,30,2132,0.21,Kerala,Palakkad,8
+5,ANNA KURIAKOSE,Independent,1416,17,1433,0.14,Kerala,Palakkad,8
+6,N S K PURAM SASIKUMAR,Independent,1151,26,1177,0.11,Kerala,Palakkad,8
+7,RAJESH K SON OF VELANKUTTY,Independent,1033,23,1056,0.1,Kerala,Palakkad,8
+8,RAJESH M SON OF MANI C,Independent,947,6,953,0.09,Kerala,Palakkad,8
+9,SIDHEEK IRUPPASSERY,Independent,913,26,939,0.09,Kerala,Palakkad,8
+10,C RAJAMANICKAM,Independent,516,4,520,0.05,Kerala,Palakkad,8
+11,NOTA,None of the Above,8724,69,8793,0.85,Kerala,Palakkad,8

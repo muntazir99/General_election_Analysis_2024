@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SUNIL KUMAR,Janata Dal  (United),522495,927,523422,47.5,Bihar,Valmiki Nagar
-2,DEEPAK YADAV,Rashtriya Janata Dal,422959,1788,424747,38.55,Bihar,Valmiki Nagar
-3,PRAVESH KUMAR MISHRA @ ANUP,Independent,23195,30,23225,2.11,Bihar,Valmiki Nagar
-4,DINESH AGRAWAL,Independent,19787,23,19810,1.8,Bihar,Valmiki Nagar
-5,DURGESH SINGH CHAUHAN,Bahujan Samaj Party,18739,77,18816,1.71,Bihar,Valmiki Nagar
-6,CHANDRESHWAR MISHRA,Independent,13590,8,13598,1.23,Bihar,Valmiki Nagar
-7,SHAFI MOHAMMAD MIYA,Aazad Samaj Party (Kanshi Ram),13419,13,13432,1.22,Bihar,Valmiki Nagar
-8,PARSHURAM SAH,Independent,12142,8,12150,1.1,Bihar,Valmiki Nagar
-9,NABA KUMAR SARANIA (HIRA BHAI),Gana Suraksha Party,11420,3,11423,1.04,Bihar,Valmiki Nagar
-10,SHAMBHU PRASAD,Independent,10478,20,10498,0.95,Bihar,Valmiki Nagar
-11,NOTA,None of the Above,30673,36,30709,2.79,Bihar,Valmiki Nagar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SUNIL KUMAR,Janata Dal  (United),522495,927,523422,47.5,Bihar,Valmiki Nagar,1
+2,DEEPAK YADAV,Rashtriya Janata Dal,422959,1788,424747,38.55,Bihar,Valmiki Nagar,1
+3,PRAVESH KUMAR MISHRA @ ANUP,Independent,23195,30,23225,2.11,Bihar,Valmiki Nagar,1
+4,DINESH AGRAWAL,Independent,19787,23,19810,1.8,Bihar,Valmiki Nagar,1
+5,DURGESH SINGH CHAUHAN,Bahujan Samaj Party,18739,77,18816,1.71,Bihar,Valmiki Nagar,1
+6,CHANDRESHWAR MISHRA,Independent,13590,8,13598,1.23,Bihar,Valmiki Nagar,1
+7,SHAFI MOHAMMAD MIYA,Aazad Samaj Party (Kanshi Ram),13419,13,13432,1.22,Bihar,Valmiki Nagar,1
+8,PARSHURAM SAH,Independent,12142,8,12150,1.1,Bihar,Valmiki Nagar,1
+9,NABA KUMAR SARANIA (HIRA BHAI),Gana Suraksha Party,11420,3,11423,1.04,Bihar,Valmiki Nagar,1
+10,SHAMBHU PRASAD,Independent,10478,20,10498,0.95,Bihar,Valmiki Nagar,1
+11,NOTA,None of the Above,30673,36,30709,2.79,Bihar,Valmiki Nagar,1

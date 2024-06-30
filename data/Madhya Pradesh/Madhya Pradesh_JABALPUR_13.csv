@@ -1,21 +1,21 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ASHISH DUBEY,Bharatiya Janata Party,788721,1412,790133,68.2,Madhya Pradesh,JABALPUR
-2,DINESH YADAV,Indian National Congress,302892,567,303459,26.19,Madhya Pradesh,JABALPUR
-3,RAKESH CHOUDHARY,Bahujan Samaj Party,21389,27,21416,1.85,Madhya Pradesh,JABALPUR
-4,FOJI VIJAY HALDKAR (EX-ARMY),Independent,7028,15,7043,0.61,Madhya Pradesh,JABALPUR
-5,MAHAVEER JAIN,Independent,6463,5,6468,0.56,Madhya Pradesh,JABALPUR
-6,ADVOCATE UDAY KUMAR SAHU,Gondvana Gantantra Party,4832,16,4848,0.42,Madhya Pradesh,JABALPUR
-7,"ER. PRAVIN GAJBHIYE ""DADA""",Independent,3437,3,3440,0.3,Madhya Pradesh,JABALPUR
-8,POORNESH KUMAR JAIN,Independent,2822,1,2823,0.24,Madhya Pradesh,JABALPUR
-9,SWATANATRA SAMAJ SEVI VINAY CHAKRAVARTI,Independent,2488,3,2491,0.22,Madhya Pradesh,JABALPUR
-10,JAGDISH SINGH LODHI,Bhartiya Shakti Chetna Party,1871,4,1875,0.16,Madhya Pradesh,JABALPUR
-11,DINESH YADAV,Independent,1480,4,1484,0.13,Madhya Pradesh,JABALPUR
-12,DR. DHAI AKSHAR,Independent,1399,1,1400,0.12,Madhya Pradesh,JABALPUR
-13,ASHOK RANA,Rashtra Nirman Party,1226,2,1228,0.11,Madhya Pradesh,JABALPUR
-14,SANTOSH KUMAR KUSHWAHA,Independent,1202,2,1204,0.1,Madhya Pradesh,JABALPUR
-15,DASAI RAM KOL,Aadim Samaj Party,1099,1,1100,0.09,Madhya Pradesh,JABALPUR
-16,COMRADE SACHIN JAIN,Socialist Unity Centre Of India (COMMUNIST),868,8,876,0.08,Madhya Pradesh,JABALPUR
-17,GULAB SINGH,Independent,821,8,829,0.07,Madhya Pradesh,JABALPUR
-18,LAL SINGH,Rashtriya Samaj Dal (R),748,4,752,0.06,Madhya Pradesh,JABALPUR
-19,RAMKUMAR PASI,Bahujan Awam Party,684,6,690,0.06,Madhya Pradesh,JABALPUR
-20,NOTA,None of the Above,4964,22,4986,0.43,Madhya Pradesh,JABALPUR
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ASHISH DUBEY,Bharatiya Janata Party,788721,1412,790133,68.2,Madhya Pradesh,JABALPUR,13
+2,DINESH YADAV,Indian National Congress,302892,567,303459,26.19,Madhya Pradesh,JABALPUR,13
+3,RAKESH CHOUDHARY,Bahujan Samaj Party,21389,27,21416,1.85,Madhya Pradesh,JABALPUR,13
+4,FOJI VIJAY HALDKAR (EX-ARMY),Independent,7028,15,7043,0.61,Madhya Pradesh,JABALPUR,13
+5,MAHAVEER JAIN,Independent,6463,5,6468,0.56,Madhya Pradesh,JABALPUR,13
+6,ADVOCATE UDAY KUMAR SAHU,Gondvana Gantantra Party,4832,16,4848,0.42,Madhya Pradesh,JABALPUR,13
+7,"ER. PRAVIN GAJBHIYE ""DADA""",Independent,3437,3,3440,0.3,Madhya Pradesh,JABALPUR,13
+8,POORNESH KUMAR JAIN,Independent,2822,1,2823,0.24,Madhya Pradesh,JABALPUR,13
+9,SWATANATRA SAMAJ SEVI VINAY CHAKRAVARTI,Independent,2488,3,2491,0.22,Madhya Pradesh,JABALPUR,13
+10,JAGDISH SINGH LODHI,Bhartiya Shakti Chetna Party,1871,4,1875,0.16,Madhya Pradesh,JABALPUR,13
+11,DINESH YADAV,Independent,1480,4,1484,0.13,Madhya Pradesh,JABALPUR,13
+12,DR. DHAI AKSHAR,Independent,1399,1,1400,0.12,Madhya Pradesh,JABALPUR,13
+13,ASHOK RANA,Rashtra Nirman Party,1226,2,1228,0.11,Madhya Pradesh,JABALPUR,13
+14,SANTOSH KUMAR KUSHWAHA,Independent,1202,2,1204,0.1,Madhya Pradesh,JABALPUR,13
+15,DASAI RAM KOL,Aadim Samaj Party,1099,1,1100,0.09,Madhya Pradesh,JABALPUR,13
+16,COMRADE SACHIN JAIN,Socialist Unity Centre Of India (COMMUNIST),868,8,876,0.08,Madhya Pradesh,JABALPUR,13
+17,GULAB SINGH,Independent,821,8,829,0.07,Madhya Pradesh,JABALPUR,13
+18,LAL SINGH,Rashtriya Samaj Dal (R),748,4,752,0.06,Madhya Pradesh,JABALPUR,13
+19,RAMKUMAR PASI,Bahujan Awam Party,684,6,690,0.06,Madhya Pradesh,JABALPUR,13
+20,NOTA,None of the Above,4964,22,4986,0.43,Madhya Pradesh,JABALPUR,13

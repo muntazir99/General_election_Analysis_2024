@@ -1,17 +1,17 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BANDYOPADHYAY SUDIP,All India Trinamool Congress,453177,1519,454696,47.44,West Bengal,Kolkata Uttar
-2,TAPAS ROY,Bharatiya Janata Party,361268,868,362136,37.78,West Bengal,Kolkata Uttar
-3,PRADIP BHATTACHARYA,Indian National Congress,114556,426,114982,12.0,West Bengal,Kolkata Uttar
-4,DR. BIPLAB CHANDRA,Socialist Unity Centre Of India (COMMUNIST),3640,18,3658,0.38,West Bengal,Kolkata Uttar
-5,OMPRAKASH PRAJAPATI,Bahujan Samaj Party,3133,47,3180,0.33,West Bengal,Kolkata Uttar
-6,PRANATI PAUL,Independent,2267,5,2272,0.24,West Bengal,Kolkata Uttar
-7,SURENDRA KUMAR KABRA,Independent,1317,5,1322,0.14,West Bengal,Kolkata Uttar
-8,SWAPAN DAS,Independent,1163,3,1166,0.12,West Bengal,Kolkata Uttar
-9,MISBAHUS SALAM,Independent,975,6,981,0.1,West Bengal,Kolkata Uttar
-10,SAMPA GUHA,Bharatiya Nyay-Adhikar Raksha Party,912,4,916,0.1,West Bengal,Kolkata Uttar
-11,RAJKUMAR PALIT,Mission Naya Digant Party,768,4,772,0.08,West Bengal,Kolkata Uttar
-12,SMT. RINKU GUPTA,Pyramid Party of India,649,10,659,0.07,West Bengal,Kolkata Uttar
-13,AMAL KUMAR DEY,Independent,582,9,591,0.06,West Bengal,Kolkata Uttar
-14,ANUJIT KUMAR NAN,Independent,555,2,557,0.06,West Bengal,Kolkata Uttar
-15,BINOY KRISHNA CHATTERJEE,Independent,500,1,501,0.05,West Bengal,Kolkata Uttar
-16,NOTA,None of the Above,10004,40,10044,1.05,West Bengal,Kolkata Uttar
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BANDYOPADHYAY SUDIP,All India Trinamool Congress,453177,1519,454696,47.44,West Bengal,Kolkata Uttar,24
+2,TAPAS ROY,Bharatiya Janata Party,361268,868,362136,37.78,West Bengal,Kolkata Uttar,24
+3,PRADIP BHATTACHARYA,Indian National Congress,114556,426,114982,12.0,West Bengal,Kolkata Uttar,24
+4,DR. BIPLAB CHANDRA,Socialist Unity Centre Of India (COMMUNIST),3640,18,3658,0.38,West Bengal,Kolkata Uttar,24
+5,OMPRAKASH PRAJAPATI,Bahujan Samaj Party,3133,47,3180,0.33,West Bengal,Kolkata Uttar,24
+6,PRANATI PAUL,Independent,2267,5,2272,0.24,West Bengal,Kolkata Uttar,24
+7,SURENDRA KUMAR KABRA,Independent,1317,5,1322,0.14,West Bengal,Kolkata Uttar,24
+8,SWAPAN DAS,Independent,1163,3,1166,0.12,West Bengal,Kolkata Uttar,24
+9,MISBAHUS SALAM,Independent,975,6,981,0.1,West Bengal,Kolkata Uttar,24
+10,SAMPA GUHA,Bharatiya Nyay-Adhikar Raksha Party,912,4,916,0.1,West Bengal,Kolkata Uttar,24
+11,RAJKUMAR PALIT,Mission Naya Digant Party,768,4,772,0.08,West Bengal,Kolkata Uttar,24
+12,SMT. RINKU GUPTA,Pyramid Party of India,649,10,659,0.07,West Bengal,Kolkata Uttar,24
+13,AMAL KUMAR DEY,Independent,582,9,591,0.06,West Bengal,Kolkata Uttar,24
+14,ANUJIT KUMAR NAN,Independent,555,2,557,0.06,West Bengal,Kolkata Uttar,24
+15,BINOY KRISHNA CHATTERJEE,Independent,500,1,501,0.05,West Bengal,Kolkata Uttar,24
+16,NOTA,None of the Above,10004,40,10044,1.05,West Bengal,Kolkata Uttar,24

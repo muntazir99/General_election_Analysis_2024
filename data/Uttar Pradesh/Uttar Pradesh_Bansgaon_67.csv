@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,KAMLESH PASWAN,Bharatiya Janata Party,427528,1165,428693,45.38,Uttar Pradesh,Bansgaon
-2,SADAL PRASAD,Indian National Congress,423872,1671,425543,45.04,Uttar Pradesh,Bansgaon
-3,RAMSAMUJH,Bahujan Samaj Party,64567,183,64750,6.85,Uttar Pradesh,Bansgaon
-4,GAYA PRASAD,Independent,6629,9,6638,0.7,Uttar Pradesh,Bansgaon
-5,SHRVAN KUMAR NIRALA,Independent,4139,3,4142,0.44,Uttar Pradesh,Bansgaon
-6,HEERALAL,Independent,2597,-,2597,0.27,Uttar Pradesh,Bansgaon
-7,MURLI DHAR,Independent,1741,4,1745,0.18,Uttar Pradesh,Bansgaon
-8,RAJENDRA CHAUDHARI,Independent,1629,5,1634,0.17,Uttar Pradesh,Bansgaon
-9,NOTA,None of the Above,9006,15,9021,0.95,Uttar Pradesh,Bansgaon
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,KAMLESH PASWAN,Bharatiya Janata Party,427528,1165,428693,45.38,Uttar Pradesh,Bansgaon,67
+2,SADAL PRASAD,Indian National Congress,423872,1671,425543,45.04,Uttar Pradesh,Bansgaon,67
+3,RAMSAMUJH,Bahujan Samaj Party,64567,183,64750,6.85,Uttar Pradesh,Bansgaon,67
+4,GAYA PRASAD,Independent,6629,9,6638,0.7,Uttar Pradesh,Bansgaon,67
+5,SHRVAN KUMAR NIRALA,Independent,4139,3,4142,0.44,Uttar Pradesh,Bansgaon,67
+6,HEERALAL,Independent,2597,-,2597,0.27,Uttar Pradesh,Bansgaon,67
+7,MURLI DHAR,Independent,1741,4,1745,0.18,Uttar Pradesh,Bansgaon,67
+8,RAJENDRA CHAUDHARI,Independent,1629,5,1634,0.17,Uttar Pradesh,Bansgaon,67
+9,NOTA,None of the Above,9006,15,9021,0.95,Uttar Pradesh,Bansgaon,67

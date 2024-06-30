@@ -1,11 +1,11 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ABHAY KUMAR SINHA,Rashtriya Janata Dal,463845,1722,465567,49.22,Bihar,Aurangabad
-2,SUSHIL KUMAR SINGH,Bharatiya Janata Party,384819,1637,386456,40.86,Bihar,Aurangabad
-3,SUNESH KUMAR,Bahujan Samaj Party,20232,77,20309,2.15,Bihar,Aurangabad
-4,PRATIBHA RANI,Peoples Party of India (Democratic),12265,43,12308,1.3,Bihar,Aurangabad
-5,RAJ BALLABH SINGH,Independent,11150,9,11159,1.18,Bihar,Aurangabad
-6,RAMJIT SINGH,Rashtriya Jansambhavna Party,9237,6,9243,0.98,Bihar,Aurangabad
-7,SURESH PRASAD VERMA,Independent,6704,7,6711,0.71,Bihar,Aurangabad
-8,MOHAMMAD WALIULLAH KHAN,Independent,6591,13,6604,0.7,Bihar,Aurangabad
-9,SHAILESH RAHI,Akhil Hind Forward Bloc (Krantikari),4892,4,4896,0.52,Bihar,Aurangabad
-10,NOTA,None of the Above,22566,61,22627,2.39,Bihar,Aurangabad
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ABHAY KUMAR SINHA,Rashtriya Janata Dal,463845,1722,465567,49.22,Bihar,Aurangabad,37
+2,SUSHIL KUMAR SINGH,Bharatiya Janata Party,384819,1637,386456,40.86,Bihar,Aurangabad,37
+3,SUNESH KUMAR,Bahujan Samaj Party,20232,77,20309,2.15,Bihar,Aurangabad,37
+4,PRATIBHA RANI,Peoples Party of India (Democratic),12265,43,12308,1.3,Bihar,Aurangabad,37
+5,RAJ BALLABH SINGH,Independent,11150,9,11159,1.18,Bihar,Aurangabad,37
+6,RAMJIT SINGH,Rashtriya Jansambhavna Party,9237,6,9243,0.98,Bihar,Aurangabad,37
+7,SURESH PRASAD VERMA,Independent,6704,7,6711,0.71,Bihar,Aurangabad,37
+8,MOHAMMAD WALIULLAH KHAN,Independent,6591,13,6604,0.7,Bihar,Aurangabad,37
+9,SHAILESH RAHI,Akhil Hind Forward Bloc (Krantikari),4892,4,4896,0.52,Bihar,Aurangabad,37
+10,NOTA,None of the Above,22566,61,22627,2.39,Bihar,Aurangabad,37

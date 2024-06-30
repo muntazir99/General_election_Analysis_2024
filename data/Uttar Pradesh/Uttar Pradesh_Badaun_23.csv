@@ -1,13 +1,13 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ADITYA YADAV,Samajwadi Party,501390,465,501855,45.97,Uttar Pradesh,Badaun
-2,DURVIJAY SINGH SHAKYA,Bharatiya Janata Party,466323,541,466864,42.76,Uttar Pradesh,Badaun
-3,MUSLIM KHAN,Bahujan Samaj Party,97686,65,97751,8.95,Uttar Pradesh,Badaun
-4,SANDEEP KUMAR,Independent,3835,1,3836,0.35,Uttar Pradesh,Badaun
-5,DINESH KUMAR,Independent,2672,2,2674,0.24,Uttar Pradesh,Badaun
-6,LATA YADAV,Independent,2572,6,2578,0.24,Uttar Pradesh,Badaun
-7,NILAM RANI PAL,Rashtriya Shoshit Samaj Party,2428,10,2438,0.22,Uttar Pradesh,Badaun
-8,RAM PRATAP MAURYA,Independent,1542,1,1543,0.14,Uttar Pradesh,Badaun
-9,ISRAT ALI,Independent,1512,1,1513,0.14,Uttar Pradesh,Badaun
-10,SULEMAN,Swaraj Bhartiya Nyay Party,1240,-,1240,0.11,Uttar Pradesh,Badaun
-11,HARIRAJ SINGH URF SIPU YADAV,Log Party,909,1,910,0.08,Uttar Pradesh,Badaun
-12,NOTA,None of the Above,8553,9,8562,0.78,Uttar Pradesh,Badaun
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ADITYA YADAV,Samajwadi Party,501390,465,501855,45.97,Uttar Pradesh,Badaun,23
+2,DURVIJAY SINGH SHAKYA,Bharatiya Janata Party,466323,541,466864,42.76,Uttar Pradesh,Badaun,23
+3,MUSLIM KHAN,Bahujan Samaj Party,97686,65,97751,8.95,Uttar Pradesh,Badaun,23
+4,SANDEEP KUMAR,Independent,3835,1,3836,0.35,Uttar Pradesh,Badaun,23
+5,DINESH KUMAR,Independent,2672,2,2674,0.24,Uttar Pradesh,Badaun,23
+6,LATA YADAV,Independent,2572,6,2578,0.24,Uttar Pradesh,Badaun,23
+7,NILAM RANI PAL,Rashtriya Shoshit Samaj Party,2428,10,2438,0.22,Uttar Pradesh,Badaun,23
+8,RAM PRATAP MAURYA,Independent,1542,1,1543,0.14,Uttar Pradesh,Badaun,23
+9,ISRAT ALI,Independent,1512,1,1513,0.14,Uttar Pradesh,Badaun,23
+10,SULEMAN,Swaraj Bhartiya Nyay Party,1240,-,1240,0.11,Uttar Pradesh,Badaun,23
+11,HARIRAJ SINGH URF SIPU YADAV,Log Party,909,1,910,0.08,Uttar Pradesh,Badaun,23
+12,NOTA,None of the Above,8553,9,8562,0.78,Uttar Pradesh,Badaun,23

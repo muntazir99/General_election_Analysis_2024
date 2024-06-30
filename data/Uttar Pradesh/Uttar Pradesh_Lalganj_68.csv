@@ -1,9 +1,9 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DAROGA PRASAD SAROJ,Samajwadi Party,437567,2392,439959,43.85,Uttar Pradesh,Lalganj
-2,NEELAM SONKER,Bharatiya Janata Party,324106,830,324936,32.38,Uttar Pradesh,Lalganj
-3,INDU CHAUDHRI,Bahujan Samaj Party,209308,745,210053,20.93,Uttar Pradesh,Lalganj
-4,GANGADEEN,Communist Party of India,12263,8,12271,1.22,Uttar Pradesh,Lalganj
-5,BALINDAR,Janta Kranti Party (Rashtravadi),4157,1,4158,0.41,Uttar Pradesh,Lalganj
-6,SUSHMITA SAROJ,Independent,2621,5,2626,0.26,Uttar Pradesh,Lalganj
-7,RAM PYARE SHARAN VIJAITA,Independent,2337,4,2341,0.23,Uttar Pradesh,Lalganj
-8,NOTA,None of the Above,7075,19,7094,0.71,Uttar Pradesh,Lalganj
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DAROGA PRASAD SAROJ,Samajwadi Party,437567,2392,439959,43.85,Uttar Pradesh,Lalganj,68
+2,NEELAM SONKER,Bharatiya Janata Party,324106,830,324936,32.38,Uttar Pradesh,Lalganj,68
+3,INDU CHAUDHRI,Bahujan Samaj Party,209308,745,210053,20.93,Uttar Pradesh,Lalganj,68
+4,GANGADEEN,Communist Party of India,12263,8,12271,1.22,Uttar Pradesh,Lalganj,68
+5,BALINDAR,Janta Kranti Party (Rashtravadi),4157,1,4158,0.41,Uttar Pradesh,Lalganj,68
+6,SUSHMITA SAROJ,Independent,2621,5,2626,0.26,Uttar Pradesh,Lalganj,68
+7,RAM PYARE SHARAN VIJAITA,Independent,2337,4,2341,0.23,Uttar Pradesh,Lalganj,68
+8,NOTA,None of the Above,7075,19,7094,0.71,Uttar Pradesh,Lalganj,68

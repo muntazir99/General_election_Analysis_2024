@@ -1,9 +1,9 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,RAJESH RANJAN ALIAS PAPPU YADAV,Independent,566867,689,567556,47.46,Bihar,Purnia
-2,SANTOSH KUMAR,Janata Dal  (United),543313,396,543709,45.47,Bihar,Purnia
-3,BIMA BHARTI,Rashtriya Janata Dal,27017,103,27120,2.27,Bihar,Purnia
-4,ARUN DAS,Bahujan Samaj Party,10595,24,10619,0.89,Bihar,Purnia
-5,SATYENDRA YADAV,Independent,8457,2,8459,0.71,Bihar,Purnia
-6,NOMAN ALAM,Independent,7693,-,7693,0.64,Bihar,Purnia
-7,KISHOR KUMAR YADAV,All India Forward Bloc,6846,8,6854,0.57,Bihar,Purnia
-8,NOTA,None of the Above,23819,15,23834,1.99,Bihar,Purnia
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,RAJESH RANJAN ALIAS PAPPU YADAV,Independent,566867,689,567556,47.46,Bihar,Purnia,12
+2,SANTOSH KUMAR,Janata Dal  (United),543313,396,543709,45.47,Bihar,Purnia,12
+3,BIMA BHARTI,Rashtriya Janata Dal,27017,103,27120,2.27,Bihar,Purnia,12
+4,ARUN DAS,Bahujan Samaj Party,10595,24,10619,0.89,Bihar,Purnia,12
+5,SATYENDRA YADAV,Independent,8457,2,8459,0.71,Bihar,Purnia,12
+6,NOMAN ALAM,Independent,7693,-,7693,0.64,Bihar,Purnia,12
+7,KISHOR KUMAR YADAV,All India Forward Bloc,6846,8,6854,0.57,Bihar,Purnia,12
+8,NOTA,None of the Above,23819,15,23834,1.99,Bihar,Purnia,12

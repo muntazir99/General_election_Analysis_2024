@@ -1,17 +1,17 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,HEMAMALINI DHARMENDRA DEOL,Bharatiya Janata Party,507535,2529,510064,53.3,Uttar Pradesh,Mathura
-2,MUKESH DHANGAR,Indian National Congress,216043,614,216657,22.64,Uttar Pradesh,Mathura
-3,SURESH SINGH,Bahujan Samaj Party,188152,265,188417,19.69,Uttar Pradesh,Mathura
-4,BHANU PRATAP SINGH,Independent,15640,25,15665,1.64,Uttar Pradesh,Mathura
-5,RAKESH KUMAR,Independent,4492,2,4494,0.47,Uttar Pradesh,Mathura
-6,JAGDISH PRASAD KAUSHIK ADVOCATE,Rashtriya Samta Vikas Party,3567,8,3575,0.37,Uttar Pradesh,Mathura
-7,RAVI VERMA,Independent,2724,-,2724,0.28,Uttar Pradesh,Mathura
-8,SHIKHA SHARMA,Independent,2246,5,2251,0.24,Uttar Pradesh,Mathura
-9,KAMAL KANT SHARMA,Independent,1491,12,1503,0.16,Uttar Pradesh,Mathura
-10,YOGESH KUMAR TALAN,Independent,1491,2,1493,0.16,Uttar Pradesh,Mathura
-11,MONI FALHARI BAPU,Independent,1322,4,1326,0.14,Uttar Pradesh,Mathura
-12,KSHETRA PAL SINGH,Independent,1206,5,1211,0.13,Uttar Pradesh,Mathura
-13,DR. RASHMI YADAV,Independent,1183,6,1189,0.12,Uttar Pradesh,Mathura
-14,PRAVESHANAND PURI,Independent,1081,4,1085,0.11,Uttar Pradesh,Mathura
-15,SURESH CHANDRA VAGHEL,Rashtriya Shoshit Samaj Party,822,7,829,0.09,Uttar Pradesh,Mathura
-16,NOTA,None of the Above,4527,36,4563,0.48,Uttar Pradesh,Mathura
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,HEMAMALINI DHARMENDRA DEOL,Bharatiya Janata Party,507535,2529,510064,53.3,Uttar Pradesh,Mathura,17
+2,MUKESH DHANGAR,Indian National Congress,216043,614,216657,22.64,Uttar Pradesh,Mathura,17
+3,SURESH SINGH,Bahujan Samaj Party,188152,265,188417,19.69,Uttar Pradesh,Mathura,17
+4,BHANU PRATAP SINGH,Independent,15640,25,15665,1.64,Uttar Pradesh,Mathura,17
+5,RAKESH KUMAR,Independent,4492,2,4494,0.47,Uttar Pradesh,Mathura,17
+6,JAGDISH PRASAD KAUSHIK ADVOCATE,Rashtriya Samta Vikas Party,3567,8,3575,0.37,Uttar Pradesh,Mathura,17
+7,RAVI VERMA,Independent,2724,-,2724,0.28,Uttar Pradesh,Mathura,17
+8,SHIKHA SHARMA,Independent,2246,5,2251,0.24,Uttar Pradesh,Mathura,17
+9,KAMAL KANT SHARMA,Independent,1491,12,1503,0.16,Uttar Pradesh,Mathura,17
+10,YOGESH KUMAR TALAN,Independent,1491,2,1493,0.16,Uttar Pradesh,Mathura,17
+11,MONI FALHARI BAPU,Independent,1322,4,1326,0.14,Uttar Pradesh,Mathura,17
+12,KSHETRA PAL SINGH,Independent,1206,5,1211,0.13,Uttar Pradesh,Mathura,17
+13,DR. RASHMI YADAV,Independent,1183,6,1189,0.12,Uttar Pradesh,Mathura,17
+14,PRAVESHANAND PURI,Independent,1081,4,1085,0.11,Uttar Pradesh,Mathura,17
+15,SURESH CHANDRA VAGHEL,Rashtriya Shoshit Samaj Party,822,7,829,0.09,Uttar Pradesh,Mathura,17
+16,NOTA,None of the Above,4527,36,4563,0.48,Uttar Pradesh,Mathura,17

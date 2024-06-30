@@ -1,8 +1,8 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DR BHOLA SINGH,Bharatiya Janata Party,594040,3270,597310,56.65,Uttar Pradesh,Bulandshahr
-2,SHIVRAM,Indian National Congress,321043,1133,322176,30.56,Uttar Pradesh,Bulandshahr
-3,GIRISH CHANDRA,Bahujan Samaj Party,116876,548,117424,11.14,Uttar Pradesh,Bulandshahr
-4,RAJESH TUREHA,Rishivadi Karm Sheel Young Parmarthi Party,4391,10,4401,0.42,Uttar Pradesh,Bulandshahr
-5,SONAM BHARTI,Independent,3558,42,3600,0.34,Uttar Pradesh,Bulandshahr
-6,PRADEEP KUMAR,Independent,2547,16,2563,0.24,Uttar Pradesh,Bulandshahr
-7,NOTA,None of the Above,6870,55,6925,0.66,Uttar Pradesh,Bulandshahr
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DR BHOLA SINGH,Bharatiya Janata Party,594040,3270,597310,56.65,Uttar Pradesh,Bulandshahr,14
+2,SHIVRAM,Indian National Congress,321043,1133,322176,30.56,Uttar Pradesh,Bulandshahr,14
+3,GIRISH CHANDRA,Bahujan Samaj Party,116876,548,117424,11.14,Uttar Pradesh,Bulandshahr,14
+4,RAJESH TUREHA,Rishivadi Karm Sheel Young Parmarthi Party,4391,10,4401,0.42,Uttar Pradesh,Bulandshahr,14
+5,SONAM BHARTI,Independent,3558,42,3600,0.34,Uttar Pradesh,Bulandshahr,14
+6,PRADEEP KUMAR,Independent,2547,16,2563,0.24,Uttar Pradesh,Bulandshahr,14
+7,NOTA,None of the Above,6870,55,6925,0.66,Uttar Pradesh,Bulandshahr,14

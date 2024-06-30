@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BIRENDRA SINGH,Samajwadi Party,472928,1548,474476,42.5,Uttar Pradesh,Chandauli
-2,DR. MAHENDRA NATH  PANDEY,Bharatiya Janata Party,451802,1109,452911,40.57,Uttar Pradesh,Chandauli
-3,SATYENDRA KUMAR MAURYA,Bahujan Samaj Party,159585,318,159903,14.32,Uttar Pradesh,Chandauli
-4,SHOBHANATH  PRAJAPATI,Bhagidari Party(P),4027,5,4032,0.36,Uttar Pradesh,Chandauli
-5,SHER SINGH,Yuga Thulasi Party,3090,6,3096,0.28,Uttar Pradesh,Chandauli
-6,SANTOSH KUMAR,Independent,2965,4,2969,0.27,Uttar Pradesh,Chandauli
-7,RAJESH VISHWAKARMA,Moulik Adhikar Party,2759,3,2762,0.25,Uttar Pradesh,Chandauli
-8,ARVIND KUMAR PATEL,Sardar Patel Siddhant Party,2734,11,2745,0.25,Uttar Pradesh,Chandauli
-9,SANJAY KUMAR SINHA,Jai Hind National Party,2617,6,2623,0.23,Uttar Pradesh,Chandauli
-10,RAM GOVIND,Samajhdar Party,1975,2,1977,0.18,Uttar Pradesh,Chandauli
-11,NOTA,None of the Above,8987,18,9005,0.81,Uttar Pradesh,Chandauli
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BIRENDRA SINGH,Samajwadi Party,472928,1548,474476,42.5,Uttar Pradesh,Chandauli,76
+2,DR. MAHENDRA NATH  PANDEY,Bharatiya Janata Party,451802,1109,452911,40.57,Uttar Pradesh,Chandauli,76
+3,SATYENDRA KUMAR MAURYA,Bahujan Samaj Party,159585,318,159903,14.32,Uttar Pradesh,Chandauli,76
+4,SHOBHANATH  PRAJAPATI,Bhagidari Party(P),4027,5,4032,0.36,Uttar Pradesh,Chandauli,76
+5,SHER SINGH,Yuga Thulasi Party,3090,6,3096,0.28,Uttar Pradesh,Chandauli,76
+6,SANTOSH KUMAR,Independent,2965,4,2969,0.27,Uttar Pradesh,Chandauli,76
+7,RAJESH VISHWAKARMA,Moulik Adhikar Party,2759,3,2762,0.25,Uttar Pradesh,Chandauli,76
+8,ARVIND KUMAR PATEL,Sardar Patel Siddhant Party,2734,11,2745,0.25,Uttar Pradesh,Chandauli,76
+9,SANJAY KUMAR SINHA,Jai Hind National Party,2617,6,2623,0.23,Uttar Pradesh,Chandauli,76
+10,RAM GOVIND,Samajhdar Party,1975,2,1977,0.18,Uttar Pradesh,Chandauli,76
+11,NOTA,None of the Above,8987,18,9005,0.81,Uttar Pradesh,Chandauli,76

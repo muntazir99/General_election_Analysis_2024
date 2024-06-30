@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DR JAYANTA KUMAR ROY,Bharatiya Janata Party,763236,3332,766568,48.57,West Bengal,Jalpaiguri
-2,NIRMAL CHANDRA ROY,All India Trinamool Congress,677496,2379,679875,43.07,West Bengal,Jalpaiguri
-3,DEBRAJ BARMAN,Communist Party of India  (Marxist),73629,463,74092,4.69,West Bengal,Jalpaiguri
-4,SHIPRA RAY HAKIM,Independent,9890,17,9907,0.63,West Bengal,Jalpaiguri
-5,BINOD MALLICK,Bahujan Samaj Party,8537,29,8566,0.54,West Bengal,Jalpaiguri
-6,HAREKRISHNA SARKAR,Independent,5837,11,5848,0.37,West Bengal,Jalpaiguri
-7,MAHESWAR BARMAN,Independent,4254,13,4267,0.27,West Bengal,Jalpaiguri
-8,RAM PRASAD MANDAL,Socialist Unity Centre Of India (COMMUNIST),3815,20,3835,0.24,West Bengal,Jalpaiguri
-9,MANABENDRA ROY,Kamatapur People’s Party (United),2899,51,2950,0.19,West Bengal,Jalpaiguri
-10,NIRODE CHANDRA ADHIKARY,Independent,2504,13,2517,0.16,West Bengal,Jalpaiguri
-11,ADHIR CHANDRA BARMAN,Independent,1911,16,1927,0.12,West Bengal,Jalpaiguri
-12,RANJIT BARMAN,Mulnibasi Party of India,1180,9,1189,0.08,West Bengal,Jalpaiguri
-13,NOTA,None of the Above,16807,41,16848,1.07,West Bengal,Jalpaiguri
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DR JAYANTA KUMAR ROY,Bharatiya Janata Party,763236,3332,766568,48.57,West Bengal,Jalpaiguri,3
+2,NIRMAL CHANDRA ROY,All India Trinamool Congress,677496,2379,679875,43.07,West Bengal,Jalpaiguri,3
+3,DEBRAJ BARMAN,Communist Party of India  (Marxist),73629,463,74092,4.69,West Bengal,Jalpaiguri,3
+4,SHIPRA RAY HAKIM,Independent,9890,17,9907,0.63,West Bengal,Jalpaiguri,3
+5,BINOD MALLICK,Bahujan Samaj Party,8537,29,8566,0.54,West Bengal,Jalpaiguri,3
+6,HAREKRISHNA SARKAR,Independent,5837,11,5848,0.37,West Bengal,Jalpaiguri,3
+7,MAHESWAR BARMAN,Independent,4254,13,4267,0.27,West Bengal,Jalpaiguri,3
+8,RAM PRASAD MANDAL,Socialist Unity Centre Of India (COMMUNIST),3815,20,3835,0.24,West Bengal,Jalpaiguri,3
+9,MANABENDRA ROY,Kamatapur People’s Party (United),2899,51,2950,0.19,West Bengal,Jalpaiguri,3
+10,NIRODE CHANDRA ADHIKARY,Independent,2504,13,2517,0.16,West Bengal,Jalpaiguri,3
+11,ADHIR CHANDRA BARMAN,Independent,1911,16,1927,0.12,West Bengal,Jalpaiguri,3
+12,RANJIT BARMAN,Mulnibasi Party of India,1180,9,1189,0.08,West Bengal,Jalpaiguri,3
+13,NOTA,None of the Above,16807,41,16848,1.07,West Bengal,Jalpaiguri,3

@@ -1,23 +1,23 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SHOBHA KARANDLAJE,Bharatiya Janata Party,982805,3244,986049,56.27,Karnataka,Bangalore North
-2,PROFESSOR M.V RAJEEV GOWDA,Indian National Congress,725190,1383,726573,41.46,Karnataka,Bangalore North
-3,GOVINDAIAH,Bahujan Samaj Party,4614,17,4631,0.26,Karnataka,Bangalore North
-4,SANTHOSH M,Uttama Prajaakeeya Party,3450,11,3461,0.2,Karnataka,Bangalore North
-5,UDAYA SHANKAR.G,Prahar Janshakti Party,2676,2,2678,0.15,Karnataka,Bangalore North
-6,LAKSHMI SRIHARI.J.N.,Independent,2091,3,2094,0.12,Karnataka,Bangalore North
-7,DILIP KUMAR I.S.,Independent,1896,7,1903,0.11,Karnataka,Bangalore North
-8,K.M.MAHADEVA,Independent,1716,4,1720,0.1,Karnataka,Bangalore North
-9,K.V.NANJUNDASWAMY,Independent,1363,2,1365,0.08,Karnataka,Bangalore North
-10,SHOBHA,Independent,1272,8,1280,0.07,Karnataka,Bangalore North
-11,Y.R.KALLESHWARI,Samajwadi Janata Party(Karnataka),1072,5,1077,0.06,Karnataka,Bangalore North
-12,NIRMALA H.L,Socialist Unity Centre Of India (COMMUNIST),972,5,977,0.06,Karnataka,Bangalore North
-13,H.R.NATARAJ,Independent,857,4,861,0.05,Karnataka,Bangalore North
-14,BHASKAR ANKALAMADUGU SHIVAREDDY,Independent,831,-,831,0.05,Karnataka,Bangalore North
-15,SHIVAKUMAR. B,Karnataka Rashtra Samithi,813,4,817,0.05,Karnataka,Bangalore North
-16,SUDHA.  V,Independent,650,7,657,0.04,Karnataka,Bangalore North
-17,KRISHNAIAH,Rashtriya Samaj Dal (R),556,3,559,0.03,Karnataka,Bangalore North
-18,HEBBAL VENKATESH.J,Republican Party of India (A),422,3,425,0.02,Karnataka,Bangalore North
-19,"GLOBE STAR J. JAI SIMHA VARMA, B E.",Gareeb Aadmi Party,356,3,359,0.02,Karnataka,Bangalore North
-20,SHOBAN BABU  V,Indian Labour Party (Ambedkar Phule),315,5,320,0.02,Karnataka,Bangalore North
-21,PARASAPPA BHEEMAPPA GAJJERI,Rani Chennamma Party,313,-,313,0.02,Karnataka,Bangalore North
-22,NOTA,None of the Above,13499,55,13554,0.77,Karnataka,Bangalore North
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SHOBHA KARANDLAJE,Bharatiya Janata Party,982805,3244,986049,56.27,Karnataka,Bangalore North,24
+2,PROFESSOR M.V RAJEEV GOWDA,Indian National Congress,725190,1383,726573,41.46,Karnataka,Bangalore North,24
+3,GOVINDAIAH,Bahujan Samaj Party,4614,17,4631,0.26,Karnataka,Bangalore North,24
+4,SANTHOSH M,Uttama Prajaakeeya Party,3450,11,3461,0.2,Karnataka,Bangalore North,24
+5,UDAYA SHANKAR.G,Prahar Janshakti Party,2676,2,2678,0.15,Karnataka,Bangalore North,24
+6,LAKSHMI SRIHARI.J.N.,Independent,2091,3,2094,0.12,Karnataka,Bangalore North,24
+7,DILIP KUMAR I.S.,Independent,1896,7,1903,0.11,Karnataka,Bangalore North,24
+8,K.M.MAHADEVA,Independent,1716,4,1720,0.1,Karnataka,Bangalore North,24
+9,K.V.NANJUNDASWAMY,Independent,1363,2,1365,0.08,Karnataka,Bangalore North,24
+10,SHOBHA,Independent,1272,8,1280,0.07,Karnataka,Bangalore North,24
+11,Y.R.KALLESHWARI,Samajwadi Janata Party(Karnataka),1072,5,1077,0.06,Karnataka,Bangalore North,24
+12,NIRMALA H.L,Socialist Unity Centre Of India (COMMUNIST),972,5,977,0.06,Karnataka,Bangalore North,24
+13,H.R.NATARAJ,Independent,857,4,861,0.05,Karnataka,Bangalore North,24
+14,BHASKAR ANKALAMADUGU SHIVAREDDY,Independent,831,-,831,0.05,Karnataka,Bangalore North,24
+15,SHIVAKUMAR. B,Karnataka Rashtra Samithi,813,4,817,0.05,Karnataka,Bangalore North,24
+16,SUDHA.  V,Independent,650,7,657,0.04,Karnataka,Bangalore North,24
+17,KRISHNAIAH,Rashtriya Samaj Dal (R),556,3,559,0.03,Karnataka,Bangalore North,24
+18,HEBBAL VENKATESH.J,Republican Party of India (A),422,3,425,0.02,Karnataka,Bangalore North,24
+19,"GLOBE STAR J. JAI SIMHA VARMA, B E.",Gareeb Aadmi Party,356,3,359,0.02,Karnataka,Bangalore North,24
+20,SHOBAN BABU  V,Indian Labour Party (Ambedkar Phule),315,5,320,0.02,Karnataka,Bangalore North,24
+21,PARASAPPA BHEEMAPPA GAJJERI,Rani Chennamma Party,313,-,313,0.02,Karnataka,Bangalore North,24
+22,NOTA,None of the Above,13499,55,13554,0.77,Karnataka,Bangalore North,24

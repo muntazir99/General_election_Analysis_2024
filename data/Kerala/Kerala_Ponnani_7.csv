@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,DR. M.P ABDUSSAMAD SAMADANI,Indian Union Muslim League,559570,2946,562516,54.81,Kerala,Ponnani
-2,K.S HAMZA,Communist Party of India  (Marxist),324562,2194,326756,31.84,Kerala,Ponnani
-3,ADV. NIVEDIDA,Bharatiya Janata Party,123733,1065,124798,12.16,Kerala,Ponnani
-4,ABDUSSAMED MALAYAMPALLI,Independent,1634,19,1653,0.16,Kerala,Ponnani
-5,VINOD,Bahujan Samaj Party,1449,28,1477,0.14,Kerala,Ponnani
-6,HAMSA S/O MOIDUTTY,Independent,952,26,978,0.1,Kerala,Ponnani
-7,BINDHU W/O DEVARAJAN,Independent,826,21,847,0.08,Kerala,Ponnani
-8,HAMZA KADAVANDI,Independent,707,3,710,0.07,Kerala,Ponnani
-9,NOTA,None of the Above,6499,62,6561,0.64,Kerala,Ponnani
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,DR. M.P ABDUSSAMAD SAMADANI,Indian Union Muslim League,559570,2946,562516,54.81,Kerala,Ponnani,7
+2,K.S HAMZA,Communist Party of India  (Marxist),324562,2194,326756,31.84,Kerala,Ponnani,7
+3,ADV. NIVEDIDA,Bharatiya Janata Party,123733,1065,124798,12.16,Kerala,Ponnani,7
+4,ABDUSSAMED MALAYAMPALLI,Independent,1634,19,1653,0.16,Kerala,Ponnani,7
+5,VINOD,Bahujan Samaj Party,1449,28,1477,0.14,Kerala,Ponnani,7
+6,HAMSA S/O MOIDUTTY,Independent,952,26,978,0.1,Kerala,Ponnani,7
+7,BINDHU W/O DEVARAJAN,Independent,826,21,847,0.08,Kerala,Ponnani,7
+8,HAMZA KADAVANDI,Independent,707,3,710,0.07,Kerala,Ponnani,7
+9,NOTA,None of the Above,6499,62,6561,0.64,Kerala,Ponnani,7

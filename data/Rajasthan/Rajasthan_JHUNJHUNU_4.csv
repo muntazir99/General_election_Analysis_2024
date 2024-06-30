@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BRIJENDRA SINGH OLA,Indian National Congress,541203,11965,553168,49.44,Rajasthan,JHUNJHUNU
-2,SHUBHKARAN CHOUDHARY,Bharatiya Janata Party,523669,11264,534933,47.81,Rajasthan,JHUNJHUNU
-3,SHEKHAWAT RAJENDRA SINGH,Independent,7389,301,7690,0.69,Rajasthan,JHUNJHUNU
-4,BANSHIDHAR,Bahujan Samaj Party,6679,188,6867,0.61,Rajasthan,JHUNJHUNU
-5,DURGA PRASAD MEENA,Ambedkarite Party of India,5440,57,5497,0.49,Rajasthan,JHUNJHUNU
-6,ALTIF,Independent,2025,25,2050,0.18,Rajasthan,JHUNJHUNU
-7,SATYANARAYAN,Bheem Tribal Congress,1127,23,1150,0.1,Rajasthan,JHUNJHUNU
-8,HAZARI LAL,Bahujan Kranti Party (Marxwad-Ambedkarwad),922,18,940,0.08,Rajasthan,JHUNJHUNU
-9,NOTA,None of the Above,6454,178,6632,0.59,Rajasthan,JHUNJHUNU
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BRIJENDRA SINGH OLA,Indian National Congress,541203,11965,553168,49.44,Rajasthan,JHUNJHUNU,4
+2,SHUBHKARAN CHOUDHARY,Bharatiya Janata Party,523669,11264,534933,47.81,Rajasthan,JHUNJHUNU,4
+3,SHEKHAWAT RAJENDRA SINGH,Independent,7389,301,7690,0.69,Rajasthan,JHUNJHUNU,4
+4,BANSHIDHAR,Bahujan Samaj Party,6679,188,6867,0.61,Rajasthan,JHUNJHUNU,4
+5,DURGA PRASAD MEENA,Ambedkarite Party of India,5440,57,5497,0.49,Rajasthan,JHUNJHUNU,4
+6,ALTIF,Independent,2025,25,2050,0.18,Rajasthan,JHUNJHUNU,4
+7,SATYANARAYAN,Bheem Tribal Congress,1127,23,1150,0.1,Rajasthan,JHUNJHUNU,4
+8,HAZARI LAL,Bahujan Kranti Party (Marxwad-Ambedkarwad),922,18,940,0.08,Rajasthan,JHUNJHUNU,4
+9,NOTA,None of the Above,6454,178,6632,0.59,Rajasthan,JHUNJHUNU,4

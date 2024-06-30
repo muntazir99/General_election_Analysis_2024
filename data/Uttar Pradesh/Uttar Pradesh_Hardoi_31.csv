@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,JAI PRAKASH,Bharatiya Janata Party,485745,1053,486798,44.25,Uttar Pradesh,Hardoi
-2,USHA VERMA,Samajwadi Party,457553,1389,458942,41.72,Uttar Pradesh,Hardoi
-3,BHIMRAO AMBEDKAR,Bahujan Samaj Party,122334,295,122629,11.15,Uttar Pradesh,Hardoi
-4,SHIVE KUMAR,Independent,4897,1,4898,0.45,Uttar Pradesh,Hardoi
-5,SHYAM  KUMAR,Peoples Party of India (Democratic),4196,4,4200,0.38,Uttar Pradesh,Hardoi
-6,SUNIL KUMAR VERMA,Independent,3819,2,3821,0.35,Uttar Pradesh,Hardoi
-7,INDRAPAL PASI,Justice Party,2945,1,2946,0.27,Uttar Pradesh,Hardoi
-8,MUNNA LAL,Naari Nar Rakshak Party,1588,1,1589,0.14,Uttar Pradesh,Hardoi
-9,OM PRAKASH,Independent,1559,2,1561,0.14,Uttar Pradesh,Hardoi
-10,AWADESH KUMAR,Independent,1420,4,1424,0.13,Uttar Pradesh,Hardoi
-11,PRADEEP KUMAR,Bhartiya Krishak Dal,1349,5,1354,0.12,Uttar Pradesh,Hardoi
-12,BRAHMA PRASAD,Lok Jan Sangharsh Party,1139,1,1140,0.1,Uttar Pradesh,Hardoi
-13,NOTA,None of the Above,8778,36,8814,0.8,Uttar Pradesh,Hardoi
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,JAI PRAKASH,Bharatiya Janata Party,485745,1053,486798,44.25,Uttar Pradesh,Hardoi,31
+2,USHA VERMA,Samajwadi Party,457553,1389,458942,41.72,Uttar Pradesh,Hardoi,31
+3,BHIMRAO AMBEDKAR,Bahujan Samaj Party,122334,295,122629,11.15,Uttar Pradesh,Hardoi,31
+4,SHIVE KUMAR,Independent,4897,1,4898,0.45,Uttar Pradesh,Hardoi,31
+5,SHYAM  KUMAR,Peoples Party of India (Democratic),4196,4,4200,0.38,Uttar Pradesh,Hardoi,31
+6,SUNIL KUMAR VERMA,Independent,3819,2,3821,0.35,Uttar Pradesh,Hardoi,31
+7,INDRAPAL PASI,Justice Party,2945,1,2946,0.27,Uttar Pradesh,Hardoi,31
+8,MUNNA LAL,Naari Nar Rakshak Party,1588,1,1589,0.14,Uttar Pradesh,Hardoi,31
+9,OM PRAKASH,Independent,1559,2,1561,0.14,Uttar Pradesh,Hardoi,31
+10,AWADESH KUMAR,Independent,1420,4,1424,0.13,Uttar Pradesh,Hardoi,31
+11,PRADEEP KUMAR,Bhartiya Krishak Dal,1349,5,1354,0.12,Uttar Pradesh,Hardoi,31
+12,BRAHMA PRASAD,Lok Jan Sangharsh Party,1139,1,1140,0.1,Uttar Pradesh,Hardoi,31
+13,NOTA,None of the Above,8778,36,8814,0.8,Uttar Pradesh,Hardoi,31

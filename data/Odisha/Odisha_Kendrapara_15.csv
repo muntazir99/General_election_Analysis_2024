@@ -1,12 +1,12 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,BAIJAYANT PANDA,Bharatiya Janata Party,612916,2789,615705,48.21,Odisha,Kendrapara
-2,ANSHUMAN MOHANTY,Biju Janata Dal,547681,1488,549169,43.0,Odisha,Kendrapara
-3,SIDHARTH SWARUP DASH,Indian National Congress,94595,237,94832,7.43,Odisha,Kendrapara
-4,SOUBHAGYA KETAN SAMAL,Socialist Unity Centre Of India (COMMUNIST),3393,2,3395,0.27,Odisha,Kendrapara
-5,SEKHA SADIKA HOSEN,Bahujan Samaj Party,1845,7,1852,0.15,Odisha,Kendrapara
-6,SUPRAVA DAS,Akhil Bhartiya Parivar Party,1559,2,1561,0.12,Odisha,Kendrapara
-7,SRIRAM PANDEY,Independent,1397,2,1399,0.11,Odisha,Kendrapara
-8,SANTOSH KUMAR PATRA,Independent,1370,3,1373,0.11,Odisha,Kendrapara
-9,PRATAP CHANDRA MOHANTY,Independent,1088,7,1095,0.09,Odisha,Kendrapara
-10,PRANGYAN PRAKASH MOHAPATRA,Odisha Janata Party,910,2,912,0.07,Odisha,Kendrapara
-11,NOTA,None of the Above,5807,8,5815,0.46,Odisha,Kendrapara
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,BAIJAYANT PANDA,Bharatiya Janata Party,612916,2789,615705,48.21,Odisha,Kendrapara,15
+2,ANSHUMAN MOHANTY,Biju Janata Dal,547681,1488,549169,43.0,Odisha,Kendrapara,15
+3,SIDHARTH SWARUP DASH,Indian National Congress,94595,237,94832,7.43,Odisha,Kendrapara,15
+4,SOUBHAGYA KETAN SAMAL,Socialist Unity Centre Of India (COMMUNIST),3393,2,3395,0.27,Odisha,Kendrapara,15
+5,SEKHA SADIKA HOSEN,Bahujan Samaj Party,1845,7,1852,0.15,Odisha,Kendrapara,15
+6,SUPRAVA DAS,Akhil Bhartiya Parivar Party,1559,2,1561,0.12,Odisha,Kendrapara,15
+7,SRIRAM PANDEY,Independent,1397,2,1399,0.11,Odisha,Kendrapara,15
+8,SANTOSH KUMAR PATRA,Independent,1370,3,1373,0.11,Odisha,Kendrapara,15
+9,PRATAP CHANDRA MOHANTY,Independent,1088,7,1095,0.09,Odisha,Kendrapara,15
+10,PRANGYAN PRAKASH MOHAPATRA,Odisha Janata Party,910,2,912,0.07,Odisha,Kendrapara,15
+11,NOTA,None of the Above,5807,8,5815,0.46,Odisha,Kendrapara,15

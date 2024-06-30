@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ANURAG SINGH THAKUR,Bharatiya Janata Party,593055,14013,607068,57.97,Himachal Pradesh,HAMIRPUR
-2,SATPAL RAIZADA,Indian National Congress,414828,9883,424711,40.55,Himachal Pradesh,HAMIRPUR
-3,HEM RAJ,Bahujan Samaj Party,2694,64,2758,0.26,Himachal Pradesh,HAMIRPUR
-4,JAGDEEP KUMAR,Rashtriya Devbhumi Party,1738,26,1764,0.17,Himachal Pradesh,HAMIRPUR
-5,SURENDER KUMAR GAUTAM,Independent,1401,9,1410,0.13,Himachal Pradesh,HAMIRPUR
-6,SUBEDAR MAJOR KULWANT SINGH PATIAL,Bharatheeya Jawan Kisan Party,1176,63,1239,0.12,Himachal Pradesh,HAMIRPUR
-7,NAND LAL,Independent,978,41,1019,0.1,Himachal Pradesh,HAMIRPUR
-8,SUMIT RANA,Akhil Bhartiya Parivar Party,666,9,675,0.06,Himachal Pradesh,HAMIRPUR
-9,RAMESH CHAND SARTHI,Independent,544,16,560,0.05,Himachal Pradesh,HAMIRPUR
-10,ARUN ANKESH SYAL,Ekam Sanatan Bharat Dal,412,21,433,0.04,Himachal Pradesh,HAMIRPUR
-11,GARIB DASS KATOCH,Independent,210,36,246,0.02,Himachal Pradesh,HAMIRPUR
-12,GOPI CHAND ATTARI,Independent,168,34,202,0.02,Himachal Pradesh,HAMIRPUR
-13,NOTA,None of the Above,5100,78,5178,0.49,Himachal Pradesh,HAMIRPUR
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ANURAG SINGH THAKUR,Bharatiya Janata Party,593055,14013,607068,57.97,Himachal Pradesh,HAMIRPUR,3
+2,SATPAL RAIZADA,Indian National Congress,414828,9883,424711,40.55,Himachal Pradesh,HAMIRPUR,3
+3,HEM RAJ,Bahujan Samaj Party,2694,64,2758,0.26,Himachal Pradesh,HAMIRPUR,3
+4,JAGDEEP KUMAR,Rashtriya Devbhumi Party,1738,26,1764,0.17,Himachal Pradesh,HAMIRPUR,3
+5,SURENDER KUMAR GAUTAM,Independent,1401,9,1410,0.13,Himachal Pradesh,HAMIRPUR,3
+6,SUBEDAR MAJOR KULWANT SINGH PATIAL,Bharatheeya Jawan Kisan Party,1176,63,1239,0.12,Himachal Pradesh,HAMIRPUR,3
+7,NAND LAL,Independent,978,41,1019,0.1,Himachal Pradesh,HAMIRPUR,3
+8,SUMIT RANA,Akhil Bhartiya Parivar Party,666,9,675,0.06,Himachal Pradesh,HAMIRPUR,3
+9,RAMESH CHAND SARTHI,Independent,544,16,560,0.05,Himachal Pradesh,HAMIRPUR,3
+10,ARUN ANKESH SYAL,Ekam Sanatan Bharat Dal,412,21,433,0.04,Himachal Pradesh,HAMIRPUR,3
+11,GARIB DASS KATOCH,Independent,210,36,246,0.02,Himachal Pradesh,HAMIRPUR,3
+12,GOPI CHAND ATTARI,Independent,168,34,202,0.02,Himachal Pradesh,HAMIRPUR,3
+13,NOTA,None of the Above,5100,78,5178,0.49,Himachal Pradesh,HAMIRPUR,3

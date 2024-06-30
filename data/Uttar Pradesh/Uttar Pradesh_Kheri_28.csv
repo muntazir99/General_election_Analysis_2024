@@ -1,13 +1,13 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,UTKARSH VERMA  'MADHUR',Samajwadi Party,555277,2088,557365,45.94,Uttar Pradesh,Kheri
-2,AJAY KUMAR,Bharatiya Janata Party,521954,1082,523036,43.11,Uttar Pradesh,Kheri
-3,ANSHAY KALRA,Bahujan Samaj Party,110122,338,110460,9.1,Uttar Pradesh,Kheri
-4,SANDHYA JAISWAL,Parivartan Samaj Party,3093,3,3096,0.26,Uttar Pradesh,Kheri
-5,SATENDRA KUMAR MAURYA,Independent,2980,2,2982,0.25,Uttar Pradesh,Kheri
-6,OM NATH SINGH,Rashtriya Shoshit Samaj Party,2298,2,2300,0.19,Uttar Pradesh,Kheri
-7,NARESH SINGH BHADAURIYA,Independent,2107,4,2111,0.17,Uttar Pradesh,Kheri
-8,MUKESH KUMAR  (BHARTI),Rashtriya Vikalp Party,1266,3,1269,0.1,Uttar Pradesh,Kheri
-9,KHANJAN,Netaji Subhash Chander Bose Rashtriya Azad Party,1018,1,1019,0.08,Uttar Pradesh,Kheri
-10,DARWARI URF  DARWARI LAL  CHAUHAN,Janta Kranti Party,935,1,936,0.08,Uttar Pradesh,Kheri
-11,KM. PANCHSHEELA ANAND,Uttar Pradesh Republican Party,845,9,854,0.07,Uttar Pradesh,Kheri
-12,NOTA,None of the Above,7915,16,7931,0.65,Uttar Pradesh,Kheri
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,UTKARSH VERMA  'MADHUR',Samajwadi Party,555277,2088,557365,45.94,Uttar Pradesh,Kheri,28
+2,AJAY KUMAR,Bharatiya Janata Party,521954,1082,523036,43.11,Uttar Pradesh,Kheri,28
+3,ANSHAY KALRA,Bahujan Samaj Party,110122,338,110460,9.1,Uttar Pradesh,Kheri,28
+4,SANDHYA JAISWAL,Parivartan Samaj Party,3093,3,3096,0.26,Uttar Pradesh,Kheri,28
+5,SATENDRA KUMAR MAURYA,Independent,2980,2,2982,0.25,Uttar Pradesh,Kheri,28
+6,OM NATH SINGH,Rashtriya Shoshit Samaj Party,2298,2,2300,0.19,Uttar Pradesh,Kheri,28
+7,NARESH SINGH BHADAURIYA,Independent,2107,4,2111,0.17,Uttar Pradesh,Kheri,28
+8,MUKESH KUMAR  (BHARTI),Rashtriya Vikalp Party,1266,3,1269,0.1,Uttar Pradesh,Kheri,28
+9,KHANJAN,Netaji Subhash Chander Bose Rashtriya Azad Party,1018,1,1019,0.08,Uttar Pradesh,Kheri,28
+10,DARWARI URF  DARWARI LAL  CHAUHAN,Janta Kranti Party,935,1,936,0.08,Uttar Pradesh,Kheri,28
+11,KM. PANCHSHEELA ANAND,Uttar Pradesh Republican Party,845,9,854,0.07,Uttar Pradesh,Kheri,28
+12,NOTA,None of the Above,7915,16,7931,0.65,Uttar Pradesh,Kheri,28

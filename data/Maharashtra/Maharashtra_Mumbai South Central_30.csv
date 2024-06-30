@@ -1,17 +1,17 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,ANIL YESHWANT DESAI,Shiv Sena (Uddhav Balasaheb Thackrey),393342,1796,395138,49.73,Maharashtra,Mumbai South Central
-2,RAHUL RAMESH SHEWALE,Shiv Sena,339828,1926,341754,43.01,Maharashtra,Mumbai South Central
-3,ABUL HASAN ALI HASAN KHAN,Vanchit Bahujan  Aaghadi,23675,192,23867,3.0,Maharashtra,Mumbai South Central
-4,VIDHYASAGAR ALIAS SURESH BHIMRAO VIDHYAGAR,Bahujan Samaj Party,6462,70,6532,0.82,Maharashtra,Mumbai South Central
-5,AKASH LAXMAN KHARATMAL,Independent,1891,8,1899,0.24,Maharashtra,Mumbai South Central
-6,ASHWINI KUMAR PATHAK,Independent,1607,5,1612,0.2,Maharashtra,Mumbai South Central
-7,ADV. SANTOSH PUNJIRAM SANJKAR,Independent,1565,13,1578,0.2,Maharashtra,Mumbai South Central
-8,KARAM HUSSAIN KITABULLAH KHAN,Peace Party,1533,4,1537,0.19,Maharashtra,Mumbai South Central
-9,ADV. MAHENDRA TULSHIRAM BHINGARDIVE,Right to Recall Party,1414,30,1444,0.18,Maharashtra,Mumbai South Central
-10,SAEED CHOUDHARY,Social Democratic Party Of India,1186,5,1191,0.15,Maharashtra,Mumbai South Central
-11,ISHWAR VILAS TATHAWADE,Rashtriya Mahaswaraj Bhumi Party,968,3,971,0.12,Maharashtra,Mumbai South Central
-12,DEEPAK M. CHAUGULE,Bahujan Republican  Socialist Party,968,7,975,0.12,Maharashtra,Mumbai South Central
-13,JAHID ALI NASIR AHMED SHAIKH,Aazad Samaj Party (Kanshi Ram),957,2,959,0.12,Maharashtra,Mumbai South Central
-14,DR. ARJUN MAHADEO MURUDKAR,Bharatheeya Jawan Kisan Party,913,17,930,0.12,Maharashtra,Mumbai South Central
-15,VIVEK YESHWANT PATIL,Independent,713,1,714,0.09,Maharashtra,Mumbai South Central
-16,NOTA,None of the Above,13316,107,13423,1.69,Maharashtra,Mumbai South Central
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,ANIL YESHWANT DESAI,Shiv Sena (Uddhav Balasaheb Thackrey),393342,1796,395138,49.73,Maharashtra,Mumbai South Central,30
+2,RAHUL RAMESH SHEWALE,Shiv Sena,339828,1926,341754,43.01,Maharashtra,Mumbai South Central,30
+3,ABUL HASAN ALI HASAN KHAN,Vanchit Bahujan  Aaghadi,23675,192,23867,3.0,Maharashtra,Mumbai South Central,30
+4,VIDHYASAGAR ALIAS SURESH BHIMRAO VIDHYAGAR,Bahujan Samaj Party,6462,70,6532,0.82,Maharashtra,Mumbai South Central,30
+5,AKASH LAXMAN KHARATMAL,Independent,1891,8,1899,0.24,Maharashtra,Mumbai South Central,30
+6,ASHWINI KUMAR PATHAK,Independent,1607,5,1612,0.2,Maharashtra,Mumbai South Central,30
+7,ADV. SANTOSH PUNJIRAM SANJKAR,Independent,1565,13,1578,0.2,Maharashtra,Mumbai South Central,30
+8,KARAM HUSSAIN KITABULLAH KHAN,Peace Party,1533,4,1537,0.19,Maharashtra,Mumbai South Central,30
+9,ADV. MAHENDRA TULSHIRAM BHINGARDIVE,Right to Recall Party,1414,30,1444,0.18,Maharashtra,Mumbai South Central,30
+10,SAEED CHOUDHARY,Social Democratic Party Of India,1186,5,1191,0.15,Maharashtra,Mumbai South Central,30
+11,ISHWAR VILAS TATHAWADE,Rashtriya Mahaswaraj Bhumi Party,968,3,971,0.12,Maharashtra,Mumbai South Central,30
+12,DEEPAK M. CHAUGULE,Bahujan Republican  Socialist Party,968,7,975,0.12,Maharashtra,Mumbai South Central,30
+13,JAHID ALI NASIR AHMED SHAIKH,Aazad Samaj Party (Kanshi Ram),957,2,959,0.12,Maharashtra,Mumbai South Central,30
+14,DR. ARJUN MAHADEO MURUDKAR,Bharatheeya Jawan Kisan Party,913,17,930,0.12,Maharashtra,Mumbai South Central,30
+15,VIVEK YESHWANT PATIL,Independent,713,1,714,0.09,Maharashtra,Mumbai South Central,30
+16,NOTA,None of the Above,13316,107,13423,1.69,Maharashtra,Mumbai South Central,30

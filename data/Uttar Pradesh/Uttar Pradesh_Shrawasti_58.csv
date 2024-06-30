@@ -1,14 +1,14 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,RAM SHIROMANI VERMA,Samajwadi Party,510754,301,511055,48.83,Uttar Pradesh,Shrawasti
-2,SAKET MISRA,Bharatiya Janata Party,434192,190,434382,41.51,Uttar Pradesh,Shrawasti
-3,MUINUDDIN AHAMAD KHAN URF HAZI DADDAN KHAN,Bahujan Samaj Party,56225,26,56251,5.38,Uttar Pradesh,Shrawasti
-4,AHMAD JIYA KHAN,Peace Party,15630,-,15630,1.49,Uttar Pradesh,Shrawasti
-5,SHANTI DEVI,Independent,4010,1,4011,0.38,Uttar Pradesh,Shrawasti
-6,SUJEET KUMAR,Independent,3946,-,3946,0.38,Uttar Pradesh,Shrawasti
-7,YUGAL KISHOR SHUKLA,Aam Janta Party (India),2672,1,2673,0.26,Uttar Pradesh,Shrawasti
-8,KRISHNA KUMAR MAURYA,Samyak Party,2266,1,2267,0.22,Uttar Pradesh,Shrawasti
-9,MALIK RAM,Independent,2111,2,2113,0.2,Uttar Pradesh,Shrawasti
-10,ANIL KUMAR TIWARI,Independent,1513,1,1514,0.14,Uttar Pradesh,Shrawasti
-11,HANUMAN PRASAD MISHRA,Kisan Mazdoor Sangharsh Party,1494,1,1495,0.14,Uttar Pradesh,Shrawasti
-12,KUMARI GEETA GAUTAM,Rashtriya Janta Party,1317,2,1319,0.13,Uttar Pradesh,Shrawasti
-13,NOTA,None of the Above,9872,-,9872,0.94,Uttar Pradesh,Shrawasti
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,RAM SHIROMANI VERMA,Samajwadi Party,510754,301,511055,48.83,Uttar Pradesh,Shrawasti,58
+2,SAKET MISRA,Bharatiya Janata Party,434192,190,434382,41.51,Uttar Pradesh,Shrawasti,58
+3,MUINUDDIN AHAMAD KHAN URF HAZI DADDAN KHAN,Bahujan Samaj Party,56225,26,56251,5.38,Uttar Pradesh,Shrawasti,58
+4,AHMAD JIYA KHAN,Peace Party,15630,-,15630,1.49,Uttar Pradesh,Shrawasti,58
+5,SHANTI DEVI,Independent,4010,1,4011,0.38,Uttar Pradesh,Shrawasti,58
+6,SUJEET KUMAR,Independent,3946,-,3946,0.38,Uttar Pradesh,Shrawasti,58
+7,YUGAL KISHOR SHUKLA,Aam Janta Party (India),2672,1,2673,0.26,Uttar Pradesh,Shrawasti,58
+8,KRISHNA KUMAR MAURYA,Samyak Party,2266,1,2267,0.22,Uttar Pradesh,Shrawasti,58
+9,MALIK RAM,Independent,2111,2,2113,0.2,Uttar Pradesh,Shrawasti,58
+10,ANIL KUMAR TIWARI,Independent,1513,1,1514,0.14,Uttar Pradesh,Shrawasti,58
+11,HANUMAN PRASAD MISHRA,Kisan Mazdoor Sangharsh Party,1494,1,1495,0.14,Uttar Pradesh,Shrawasti,58
+12,KUMARI GEETA GAUTAM,Rashtriya Janta Party,1317,2,1319,0.13,Uttar Pradesh,Shrawasti,58
+13,NOTA,None of the Above,9872,-,9872,0.94,Uttar Pradesh,Shrawasti,58

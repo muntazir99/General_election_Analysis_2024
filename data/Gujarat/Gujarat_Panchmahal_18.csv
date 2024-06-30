@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,RAJPALSINH MAHENDRASINH JADAV,Bharatiya Janata Party,785830,8749,794579,70.22,Gujarat,Panchmahal
-2,GULABSINH SOMSINH CHAUHAN,Indian National Congress,279396,5841,285237,25.21,Gujarat,Panchmahal
-3,HASMUKHKUMAR GANPATSINH RATHOD,Independent,10376,23,10399,0.92,Gujarat,Panchmahal
-4,JITESHKUMAR GHANSHYAMBHAI SEVAK,Dhanwan Bharat Party,8350,39,8389,0.74,Gujarat,Panchmahal
-5,MANOJSINH RANAJITSINH RATHOD,Independent,3984,29,4013,0.35,Gujarat,Panchmahal
-6,LAXMANBHAI GALABHAI BARIYA,"Aam Janmat Party,",3108,97,3205,0.28,Gujarat,Panchmahal
-7,TASLIM MOHAMMEDRAFIK DURVESH,Independent,3051,14,3065,0.27,Gujarat,Panchmahal
-8,PANDOR KAUSHIKKUMAR SHANKARBHAI,Independent,2486,21,2507,0.22,Gujarat,Panchmahal
-9,NOTA,None of the Above,19629,474,20103,1.78,Gujarat,Panchmahal
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,RAJPALSINH MAHENDRASINH JADAV,Bharatiya Janata Party,785830,8749,794579,70.22,Gujarat,Panchmahal,18
+2,GULABSINH SOMSINH CHAUHAN,Indian National Congress,279396,5841,285237,25.21,Gujarat,Panchmahal,18
+3,HASMUKHKUMAR GANPATSINH RATHOD,Independent,10376,23,10399,0.92,Gujarat,Panchmahal,18
+4,JITESHKUMAR GHANSHYAMBHAI SEVAK,Dhanwan Bharat Party,8350,39,8389,0.74,Gujarat,Panchmahal,18
+5,MANOJSINH RANAJITSINH RATHOD,Independent,3984,29,4013,0.35,Gujarat,Panchmahal,18
+6,LAXMANBHAI GALABHAI BARIYA,"Aam Janmat Party,",3108,97,3205,0.28,Gujarat,Panchmahal,18
+7,TASLIM MOHAMMEDRAFIK DURVESH,Independent,3051,14,3065,0.27,Gujarat,Panchmahal,18
+8,PANDOR KAUSHIKKUMAR SHANKARBHAI,Independent,2486,21,2507,0.22,Gujarat,Panchmahal,18
+9,NOTA,None of the Above,19629,474,20103,1.78,Gujarat,Panchmahal,18

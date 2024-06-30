@@ -1,16 +1,16 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,SMITA UDAY WAGH,Bharatiya Janata Party,672119,2309,674428,57.67,Maharashtra,Jalgaon
-2,KARAN BALASAHEB PATIL - PAWAR,Shiv Sena (Uddhav Balasaheb Thackrey),421213,1621,422834,36.15,Maharashtra,Jalgaon
-3,YUVRAJ JADHAV (SAMBHA AAPPA),Vanchit Bahujan  Aaghadi,21062,115,21177,1.81,Maharashtra,Jalgaon
-4,EX-HAVILDAR ISHWAR DAYARAM MORE,Sainik Samaj Party,7479,69,7548,0.65,Maharashtra,Jalgaon
-5,VILAS SHANKAR TAYADE,Bahujan Samaj Party,6310,71,6381,0.55,Maharashtra,Jalgaon
-6,LALIT (BANTI) SHARMA,Independent,4189,3,4192,0.36,Maharashtra,Jalgaon
-7,KARAN PAWAR,Independent,3954,29,3983,0.34,Maharashtra,Jalgaon
-8,ADVOCATE VIJAY BABULAL DANEJ,Independent,3400,4,3404,0.29,Maharashtra,Jalgaon
-9,MUKESH MULCHAND KOLI,Independent,3358,12,3370,0.29,Maharashtra,Jalgaon
-10,MAHENDRA DEVRAM KOLI,Independent,2462,14,2476,0.21,Maharashtra,Jalgaon
-11,AHMAD KHAN,Independent,1889,12,1901,0.16,Maharashtra,Jalgaon
-12,ABDUL SHAKUR DESHPANDE,Independent,1593,13,1606,0.14,Maharashtra,Jalgaon
-13,ADV. NAMDEO PANDURANG KOLI,Independent,1212,12,1224,0.1,Maharashtra,Jalgaon
-14,PATIL SANDIP YUVRAJ,Independent,1098,12,1110,0.09,Maharashtra,Jalgaon
-15,NOTA,None of the Above,13878,41,13919,1.19,Maharashtra,Jalgaon
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,SMITA UDAY WAGH,Bharatiya Janata Party,672119,2309,674428,57.67,Maharashtra,Jalgaon,3
+2,KARAN BALASAHEB PATIL - PAWAR,Shiv Sena (Uddhav Balasaheb Thackrey),421213,1621,422834,36.15,Maharashtra,Jalgaon,3
+3,YUVRAJ JADHAV (SAMBHA AAPPA),Vanchit Bahujan  Aaghadi,21062,115,21177,1.81,Maharashtra,Jalgaon,3
+4,EX-HAVILDAR ISHWAR DAYARAM MORE,Sainik Samaj Party,7479,69,7548,0.65,Maharashtra,Jalgaon,3
+5,VILAS SHANKAR TAYADE,Bahujan Samaj Party,6310,71,6381,0.55,Maharashtra,Jalgaon,3
+6,LALIT (BANTI) SHARMA,Independent,4189,3,4192,0.36,Maharashtra,Jalgaon,3
+7,KARAN PAWAR,Independent,3954,29,3983,0.34,Maharashtra,Jalgaon,3
+8,ADVOCATE VIJAY BABULAL DANEJ,Independent,3400,4,3404,0.29,Maharashtra,Jalgaon,3
+9,MUKESH MULCHAND KOLI,Independent,3358,12,3370,0.29,Maharashtra,Jalgaon,3
+10,MAHENDRA DEVRAM KOLI,Independent,2462,14,2476,0.21,Maharashtra,Jalgaon,3
+11,AHMAD KHAN,Independent,1889,12,1901,0.16,Maharashtra,Jalgaon,3
+12,ABDUL SHAKUR DESHPANDE,Independent,1593,13,1606,0.14,Maharashtra,Jalgaon,3
+13,ADV. NAMDEO PANDURANG KOLI,Independent,1212,12,1224,0.1,Maharashtra,Jalgaon,3
+14,PATIL SANDIP YUVRAJ,Independent,1098,12,1110,0.09,Maharashtra,Jalgaon,3
+15,NOTA,None of the Above,13878,41,13919,1.19,Maharashtra,Jalgaon,3

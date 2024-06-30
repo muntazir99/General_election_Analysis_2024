@@ -1,10 +1,10 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,VIVEK THAKUR,Bharatiya Janata Party,408537,2071,410608,47.2,Bihar,Nawada
-2,SHRAWAN KUMAR,Rashtriya Janata Dal,340562,2376,342938,39.42,Bihar,Nawada
-3,BINOD YADAV,Independent,39391,128,39519,4.54,Bihar,Nawada
-4,GUNJAN KUMAR,Independent,29444,238,29682,3.41,Bihar,Nawada
-5,RANJIT KUMAR,Bahujan Samaj Party,16240,76,16316,1.88,Bihar,Nawada
-6,ANAND KUMAR VERMA,Bharat Jan Jagran Dal,7727,9,7736,0.89,Bihar,Nawada
-7,GAUTAM KUMAR BABLOO,Bhagidari Party(P),5886,3,5889,0.68,Bihar,Nawada
-8,GANAURI PANDIT,Peoples Party of India (Democratic),4558,32,4590,0.53,Bihar,Nawada
-9,NOTA,None of the Above,12555,37,12592,1.45,Bihar,Nawada
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,VIVEK THAKUR,Bharatiya Janata Party,408537,2071,410608,47.2,Bihar,Nawada,39
+2,SHRAWAN KUMAR,Rashtriya Janata Dal,340562,2376,342938,39.42,Bihar,Nawada,39
+3,BINOD YADAV,Independent,39391,128,39519,4.54,Bihar,Nawada,39
+4,GUNJAN KUMAR,Independent,29444,238,29682,3.41,Bihar,Nawada,39
+5,RANJIT KUMAR,Bahujan Samaj Party,16240,76,16316,1.88,Bihar,Nawada,39
+6,ANAND KUMAR VERMA,Bharat Jan Jagran Dal,7727,9,7736,0.89,Bihar,Nawada,39
+7,GAUTAM KUMAR BABLOO,Bhagidari Party(P),5886,3,5889,0.68,Bihar,Nawada,39
+8,GANAURI PANDIT,Peoples Party of India (Democratic),4558,32,4590,0.53,Bihar,Nawada,39
+9,NOTA,None of the Above,12555,37,12592,1.45,Bihar,Nawada,39

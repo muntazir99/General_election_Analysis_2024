@@ -1,18 +1,18 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,RAJA A,Dravida Munnetra Kazhagam,470729,2483,473212,46.44,Tamil Nadu,NILGIRIS
-2,DR MURUGAN L,Bharatiya Janata Party,231111,1516,232627,22.83,Tamil Nadu,NILGIRIS
-3,LOGESH TAMILSELVAN D,All India Anna Dravida Munnetra Kazhagam,219417,813,220230,21.61,Tamil Nadu,NILGIRIS
-4,JAYAKUMAR A,Naam Tamilar Katchi,58588,233,58821,5.77,Tamil Nadu,NILGIRIS
-5,VIJAYAKUMAR D,Independent,4805,3,4808,0.47,Tamil Nadu,NILGIRIS
-6,GANESHAMOORTHI A,Bahujan Samaj Party,3015,18,3033,0.3,Tamil Nadu,NILGIRIS
-7,BADRAN M,Ganasangam Party of India,2406,19,2425,0.24,Tamil Nadu,NILGIRIS
-8,SELVAN N,Independent,2038,16,2054,0.2,Tamil Nadu,NILGIRIS
-9,DHANABAL R,Independent,1906,22,1928,0.19,Tamil Nadu,NILGIRIS
-10,JAYANTHI M,Ambedkarite Party of India,1539,17,1556,0.15,Tamil Nadu,NILGIRIS
-11,MURUGAN Y,Independent,1408,5,1413,0.14,Tamil Nadu,NILGIRIS
-12,MURUGESAN,Independent,1057,2,1059,0.1,Tamil Nadu,NILGIRIS
-13,MALARMANNAN M,Samaniya Makkal Nala Katchi,813,7,820,0.08,Tamil Nadu,NILGIRIS
-14,SATHISH M,Independent,734,6,740,0.07,Tamil Nadu,NILGIRIS
-15,KRISHNA KUMAR,Independent,588,27,615,0.06,Tamil Nadu,NILGIRIS
-16,ANBHUGURU V,Independent,560,5,565,0.06,Tamil Nadu,NILGIRIS
-17,NOTA,None of the Above,12902,98,13000,1.28,Tamil Nadu,NILGIRIS
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,RAJA A,Dravida Munnetra Kazhagam,470729,2483,473212,46.44,Tamil Nadu,NILGIRIS,19
+2,DR MURUGAN L,Bharatiya Janata Party,231111,1516,232627,22.83,Tamil Nadu,NILGIRIS,19
+3,LOGESH TAMILSELVAN D,All India Anna Dravida Munnetra Kazhagam,219417,813,220230,21.61,Tamil Nadu,NILGIRIS,19
+4,JAYAKUMAR A,Naam Tamilar Katchi,58588,233,58821,5.77,Tamil Nadu,NILGIRIS,19
+5,VIJAYAKUMAR D,Independent,4805,3,4808,0.47,Tamil Nadu,NILGIRIS,19
+6,GANESHAMOORTHI A,Bahujan Samaj Party,3015,18,3033,0.3,Tamil Nadu,NILGIRIS,19
+7,BADRAN M,Ganasangam Party of India,2406,19,2425,0.24,Tamil Nadu,NILGIRIS,19
+8,SELVAN N,Independent,2038,16,2054,0.2,Tamil Nadu,NILGIRIS,19
+9,DHANABAL R,Independent,1906,22,1928,0.19,Tamil Nadu,NILGIRIS,19
+10,JAYANTHI M,Ambedkarite Party of India,1539,17,1556,0.15,Tamil Nadu,NILGIRIS,19
+11,MURUGAN Y,Independent,1408,5,1413,0.14,Tamil Nadu,NILGIRIS,19
+12,MURUGESAN,Independent,1057,2,1059,0.1,Tamil Nadu,NILGIRIS,19
+13,MALARMANNAN M,Samaniya Makkal Nala Katchi,813,7,820,0.08,Tamil Nadu,NILGIRIS,19
+14,SATHISH M,Independent,734,6,740,0.07,Tamil Nadu,NILGIRIS,19
+15,KRISHNA KUMAR,Independent,588,27,615,0.06,Tamil Nadu,NILGIRIS,19
+16,ANBHUGURU V,Independent,560,5,565,0.06,Tamil Nadu,NILGIRIS,19
+17,NOTA,None of the Above,12902,98,13000,1.28,Tamil Nadu,NILGIRIS,19

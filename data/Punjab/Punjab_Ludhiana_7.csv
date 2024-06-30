@@ -1,45 +1,45 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
-1,AMRINDER SINGH RAJA WARRING,Indian National Congress,321424,800,322224,30.42,Punjab,Ludhiana
-2,RAVNEET SINGH BITTU,Bharatiya Janata Party,300927,355,301282,28.45,Punjab,Ludhiana
-3,ASHOK PRASHAR PAPPI,Aam Aadmi Party,236620,457,237077,22.38,Punjab,Ludhiana
-4,RANJIT SINGH DHILLON,Shiromani Akali Dal,90073,147,90220,8.52,Punjab,Ludhiana
-5,KAMALJIT SINGH BRAR,Independent,42462,38,42500,4.01,Punjab,Ludhiana
-6,AMRITPAL SINGH CHHANDRAN,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann),18199,42,18241,1.72,Punjab,Ludhiana
-7,DAVINDER SINGH RAMGARHIA,Bahujan Samaj Party,10365,29,10394,0.98,Punjab,Ludhiana
-8,NARESH DHINGAAN,Independent,2524,6,2530,0.24,Punjab,Ludhiana
-9,RAKESH KUMAR (RICKY),Sunahara Bharat Party,2091,-,2091,0.2,Punjab,Ludhiana
-10,ER. BALDEV RAJ KATNA (DEBI),Independent,2086,-,2086,0.2,Punjab,Ludhiana
-11,PRITPAL SINGH,Bahujan Dravida Party,1821,3,1824,0.17,Punjab,Ludhiana
-12,DR. PALWINDER KAUR,Independent,1766,2,1768,0.17,Punjab,Ludhiana
-13,SANJEEV KUMAR (SANJU),Independent,1567,-,1567,0.15,Punjab,Ludhiana
-14,RAJIV KUMAR MEHRA,Jan Sewa Driver Party,1516,2,1518,0.14,Punjab,Ludhiana
-15,BHUPINDER SINGH,Bharatheeya Jawan Kisan Party,1287,-,1287,0.12,Punjab,Ludhiana
-16,BALJIT SINGH,Independent,1137,1,1138,0.11,Punjab,Ludhiana
-17,VIPAN KUMAR BATRA,Independent,1041,-,1041,0.1,Punjab,Ludhiana
-18,AMANDEEP SINGH,Sehajdhari Sikh Party,981,6,987,0.09,Punjab,Ludhiana
-19,PARAMJIT SINGH,Independent,927,-,927,0.09,Punjab,Ludhiana
-20,BALVINDER SINGH BITTA,Independent,918,-,918,0.09,Punjab,Ludhiana
-21,SIMRANDEEP SINGH,Independent,911,1,912,0.09,Punjab,Ludhiana
-22,DEVINDER BHAGRIA,Hindustan Shakti Sena,859,1,860,0.08,Punjab,Ludhiana
-23,KANIYA LAL (DR. KISHAN KUMAR),Independent,820,-,820,0.08,Punjab,Ludhiana
-24,SUDHIR KUMAR TRIPATHI,Independent,770,-,770,0.07,Punjab,Ludhiana
-25,GURDEEP SINGH KAHLON,Independent,738,-,738,0.07,Punjab,Ludhiana
-26,DR. DEVINDER SINGH GILL,Aam Lok Party United,693,2,695,0.07,Punjab,Ludhiana
-27,KIRPAL SINGH KAPURI,Independent,621,-,621,0.06,Punjab,Ludhiana
-28,SANTOSH KUMAR,Bharatiya Inqalab Party,610,-,610,0.06,Punjab,Ludhiana
-29,KAMAL PAWAR,Independent,592,-,592,0.06,Punjab,Ludhiana
-30,RAVINDER PAL SINGH BABA JI BARGAR WALE,Independent,546,2,548,0.05,Punjab,Ludhiana
-31,GURMEET SINGH KHARAY,Independent,516,1,517,0.05,Punjab,Ludhiana
-32,RUPINDER KUMAR,Independent,467,-,467,0.04,Punjab,Ludhiana
-33,CHANDI,Independent,456,-,456,0.04,Punjab,Ludhiana
-34,BALDEV SINGH SUMAN,Independent,450,-,450,0.04,Punjab,Ludhiana
-35,JAI - PARKASH JAIN (TITU BANIYA),Independent,419,-,419,0.04,Punjab,Ludhiana
-36,SHIVAM YADAV,Global Republican Party,414,1,415,0.04,Punjab,Ludhiana
-37,HARVINDER KAUR,Samajik Sangharsh Party,413,6,419,0.04,Punjab,Ludhiana
-38,BHOLA SINGH,Independent,411,-,411,0.04,Punjab,Ludhiana
-39,DARSHAN SINGH DABA,Nationalist Justice Party,390,-,390,0.04,Punjab,Ludhiana
-40,KULDEEP KUMAR SHARMA,Independent,383,-,383,0.04,Punjab,Ludhiana
-41,VISHAL KUMAR ARORA,Independent,344,-,344,0.03,Punjab,Ludhiana
-42,KARNAIL SINGH,Independent,340,-,340,0.03,Punjab,Ludhiana
-43,RAJINDER GHAI,Independent,284,-,284,0.03,Punjab,Ludhiana
-44,NOTA,None of the Above,5040,36,5076,0.48,Punjab,Ludhiana
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
+1,AMRINDER SINGH RAJA WARRING,Indian National Congress,321424,800,322224,30.42,Punjab,Ludhiana,7
+2,RAVNEET SINGH BITTU,Bharatiya Janata Party,300927,355,301282,28.45,Punjab,Ludhiana,7
+3,ASHOK PRASHAR PAPPI,Aam Aadmi Party,236620,457,237077,22.38,Punjab,Ludhiana,7
+4,RANJIT SINGH DHILLON,Shiromani Akali Dal,90073,147,90220,8.52,Punjab,Ludhiana,7
+5,KAMALJIT SINGH BRAR,Independent,42462,38,42500,4.01,Punjab,Ludhiana,7
+6,AMRITPAL SINGH CHHANDRAN,Shiromani Akali Dal (Amritsar)(Simranjit Singh Mann),18199,42,18241,1.72,Punjab,Ludhiana,7
+7,DAVINDER SINGH RAMGARHIA,Bahujan Samaj Party,10365,29,10394,0.98,Punjab,Ludhiana,7
+8,NARESH DHINGAAN,Independent,2524,6,2530,0.24,Punjab,Ludhiana,7
+9,RAKESH KUMAR (RICKY),Sunahara Bharat Party,2091,-,2091,0.2,Punjab,Ludhiana,7
+10,ER. BALDEV RAJ KATNA (DEBI),Independent,2086,-,2086,0.2,Punjab,Ludhiana,7
+11,PRITPAL SINGH,Bahujan Dravida Party,1821,3,1824,0.17,Punjab,Ludhiana,7
+12,DR. PALWINDER KAUR,Independent,1766,2,1768,0.17,Punjab,Ludhiana,7
+13,SANJEEV KUMAR (SANJU),Independent,1567,-,1567,0.15,Punjab,Ludhiana,7
+14,RAJIV KUMAR MEHRA,Jan Sewa Driver Party,1516,2,1518,0.14,Punjab,Ludhiana,7
+15,BHUPINDER SINGH,Bharatheeya Jawan Kisan Party,1287,-,1287,0.12,Punjab,Ludhiana,7
+16,BALJIT SINGH,Independent,1137,1,1138,0.11,Punjab,Ludhiana,7
+17,VIPAN KUMAR BATRA,Independent,1041,-,1041,0.1,Punjab,Ludhiana,7
+18,AMANDEEP SINGH,Sehajdhari Sikh Party,981,6,987,0.09,Punjab,Ludhiana,7
+19,PARAMJIT SINGH,Independent,927,-,927,0.09,Punjab,Ludhiana,7
+20,BALVINDER SINGH BITTA,Independent,918,-,918,0.09,Punjab,Ludhiana,7
+21,SIMRANDEEP SINGH,Independent,911,1,912,0.09,Punjab,Ludhiana,7
+22,DEVINDER BHAGRIA,Hindustan Shakti Sena,859,1,860,0.08,Punjab,Ludhiana,7
+23,KANIYA LAL (DR. KISHAN KUMAR),Independent,820,-,820,0.08,Punjab,Ludhiana,7
+24,SUDHIR KUMAR TRIPATHI,Independent,770,-,770,0.07,Punjab,Ludhiana,7
+25,GURDEEP SINGH KAHLON,Independent,738,-,738,0.07,Punjab,Ludhiana,7
+26,DR. DEVINDER SINGH GILL,Aam Lok Party United,693,2,695,0.07,Punjab,Ludhiana,7
+27,KIRPAL SINGH KAPURI,Independent,621,-,621,0.06,Punjab,Ludhiana,7
+28,SANTOSH KUMAR,Bharatiya Inqalab Party,610,-,610,0.06,Punjab,Ludhiana,7
+29,KAMAL PAWAR,Independent,592,-,592,0.06,Punjab,Ludhiana,7
+30,RAVINDER PAL SINGH BABA JI BARGAR WALE,Independent,546,2,548,0.05,Punjab,Ludhiana,7
+31,GURMEET SINGH KHARAY,Independent,516,1,517,0.05,Punjab,Ludhiana,7
+32,RUPINDER KUMAR,Independent,467,-,467,0.04,Punjab,Ludhiana,7
+33,CHANDI,Independent,456,-,456,0.04,Punjab,Ludhiana,7
+34,BALDEV SINGH SUMAN,Independent,450,-,450,0.04,Punjab,Ludhiana,7
+35,JAI - PARKASH JAIN (TITU BANIYA),Independent,419,-,419,0.04,Punjab,Ludhiana,7
+36,SHIVAM YADAV,Global Republican Party,414,1,415,0.04,Punjab,Ludhiana,7
+37,HARVINDER KAUR,Samajik Sangharsh Party,413,6,419,0.04,Punjab,Ludhiana,7
+38,BHOLA SINGH,Independent,411,-,411,0.04,Punjab,Ludhiana,7
+39,DARSHAN SINGH DABA,Nationalist Justice Party,390,-,390,0.04,Punjab,Ludhiana,7
+40,KULDEEP KUMAR SHARMA,Independent,383,-,383,0.04,Punjab,Ludhiana,7
+41,VISHAL KUMAR ARORA,Independent,344,-,344,0.03,Punjab,Ludhiana,7
+42,KARNAIL SINGH,Independent,340,-,340,0.03,Punjab,Ludhiana,7
+43,RAJINDER GHAI,Independent,284,-,284,0.03,Punjab,Ludhiana,7
+44,NOTA,None of the Above,5040,36,5076,0.48,Punjab,Ludhiana,7
