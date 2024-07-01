@@ -27,11 +27,11 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
     ![Alt text](graphs/total_votes_by_state.png)
     we can clearly see State with most numbers of constituency gained most no. of votes.
     Top state by vote share is 
-        1. UP               87911642                                
-        2. West Bengal      60483687
-        3. Maharashtra      57179133
-        4. Tamil Nadu       43674048
-        5. Bihar            43448949
+        1. UP               87911642                                 
+        2. West Bengal      60483687 
+        3. Maharashtra      57179133 
+        4. Tamil Nadu       43674048 
+        5. Bihar            43448949 
 
 4.  Top Parties by Voting Percentage
     ![Alt text](graphs/party_by_voteshare.png)
@@ -47,16 +47,16 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
 
 6.  Top 10 Constituencies/Candidates with Highest Winning Margins:
             Constituency Name                 Winner       
-        156            Dhubri        RAKIBUL HUSSAIN   
-        220            INDORE        SHANKAR LALWANI   
-        523           VIDISHA  SHIVRAJ SINGH CHOUHAN   
-        382           Navsari              C R PATIL   
-        185       Gandhinagar              AMIT SHAH   
-        158   Diamond harbour      ABHISHEK BANERJEE   
-        511      Tripura West       BIPLAB KUMAR DEB   
-        527          Vadodara       DR. HEMANG JOSHI   
-        420            RAIPUR      BRIJMOHAN AGRAWAL   
-        501        TIRUVALLUR      Sasikanth Senthil   
+        156            Dhubri        RAKIBUL HUSSAIN <br>  
+        220            INDORE        SHANKAR LALWANI <br>   
+        523           VIDISHA  SHIVRAJ SINGH CHOUHAN  <br>  
+        382           Navsari              C R PATIL  <br>  
+        185       Gandhinagar              AMIT SHAH   <br> 
+        158   Diamond harbour      ABHISHEK BANERJEE   <br> 
+        511      Tripura West       BIPLAB KUMAR DEB   <br> 
+        527          Vadodara       DR. HEMANG JOSHI  <br>  
+        420            RAIPUR      BRIJMOHAN AGRAWAL  <br>  
+        501        TIRUVALLUR      Sasikanth Senthil  <br>  
     
     ![Alt text](graphs/highest_winningmarg.png)
 
