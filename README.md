@@ -17,13 +17,13 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
     Total number of candidates including NOTA: 8902
     This contain all candidate as well as NOTA as a single candidate from overall country.
 
-    Total number of parties: 4664
+2.  Total number of parties: 4664
     This count includes Independent candidates as a party
 
     Total number of registered parties: 744
     This count excludes Independent candidates
 
-2.  Total Votes by State/Union Territory
+3.  Total Votes by State/Union Territory
     ![Alt text](graphs/total_votes_by_state.png)
     we can clearly see State with most numbers of constituency gained most no. of votes.
     Top state by vote share is 
@@ -33,7 +33,7 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
         4. Tamil Nadu       43674048
         5. Bihar            43448949
 
-3.  Top Parties by Voting Percentage
+4.  Top Parties by Voting Percentage
     ![Alt text](graphs/party_by_voteshare.png)
     We can see that top parties are:
     BJP
@@ -42,10 +42,10 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
     AITC
     YSRCP
 
-4.  Here is the top candidate by vote share from each state.
+5.  Here is the top candidate by vote share from each state.
     ![Alt text](graphs/highest_vote_gainer_state.png)
 
-5.  Top 10 Constituencies/Candidates with Highest Winning Margins:
+6.  Top 10 Constituencies/Candidates with Highest Winning Margins:
             Constituency Name                 Winner       
         156            Dhubri        RAKIBUL HUSSAIN   
         220            INDORE        SHANKAR LALWANI   
@@ -60,9 +60,15 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
     
     ![Alt text](graphs/highest_winningmarg.png)
 
-6.  Top candidates by voting percentage and parties distribution of top 10 candidate
+7.  Top candidates by voting percentage and parties distribution of top 10 candidate
     ![Alt text](graphs/highest_voteper.png)
 
 
-7. Closet/Minimum Win Margin by candidate and constituency
+8.  Closet/Minimum Win Margin by candidate and constituency
     ![Alt text](graphs/least_margin.png)
+
+9.  Top 20 candidate and percentage of vote among them
+    ![Alt text](graphs/top20.png)
+
+10.  Party with maximum no. of seat
+    ![Alt text](graphs/total_Seat.png)

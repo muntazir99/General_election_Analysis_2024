@@ -1,29 +1,29 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
-1,JYOTSNA CHARANDAS MAHANT,Indian National Congress,569098,1084,570182,46.53,Chhattisgarh,KORBA,4
-2,SAROJ PANDEY,Bharatiya Janata Party,525733,1166,526899,43.0,Chhattisgarh,KORBA,4
-3,SHYAM SINGH MARKAM,Gondvana Gantantra Party,48498,89,48587,3.97,Chhattisgarh,KORBA,4
-4,NIRDOSH  KUMAR YADAV,Independent,11267,1,11268,0.92,Chhattisgarh,KORBA,4
-5,DUJRAM BOUDDH,Bahujan Samaj Party,10689,50,10739,0.88,Chhattisgarh,KORBA,4
-6,JAICHANDRA SONPAKAR,Independent,6181,1,6182,0.5,Chhattisgarh,KORBA,4
-7,PALAN SINGH,Independent,5706,3,5709,0.47,Chhattisgarh,KORBA,4
-8,KAMAL DEV,Bhartiya Shakti Chetna Party,4985,3,4988,0.41,Chhattisgarh,KORBA,4
-9,DILIP MIRI,Independent,3897,5,3902,0.32,Chhattisgarh,KORBA,4
-10,KAUSHALYA BAI PORTE,Independent,3630,2,3632,0.3,Chhattisgarh,KORBA,4
-11,PRATAP BHANU,Independent,2500,4,2504,0.2,Chhattisgarh,KORBA,4
-12,SANTOSH SHARMA,Independent,2475,2,2477,0.2,Chhattisgarh,KORBA,4
-13,AMRIKA KARPE,Independent,2227,5,2232,0.18,Chhattisgarh,KORBA,4
-14,RAJGURU KEWAL GOSWAMI,Independent,2202,-,2202,0.18,Chhattisgarh,KORBA,4
-15,SHOBRAN SINGH SAIMA,Independent,2072,1,2073,0.17,Chhattisgarh,KORBA,4
-16,KALYAN SINGH TANWAR,Independent,1960,4,1964,0.16,Chhattisgarh,KORBA,4
-17,RAJESH PANDEY,Independent,1814,-,1814,0.15,Chhattisgarh,KORBA,4
-18,SUSHIL KUMAR VISHWAKARMA,Bhartiya Janta Secular Party,1684,1,1685,0.14,Chhattisgarh,KORBA,4
-19,PRASHANT DANIEL,Sarv Adi Dal,1369,23,1392,0.11,Chhattisgarh,KORBA,4
-20,REKHA TIWARI,Chhattisgarh Vikas Ganga Rashtriya Party,1289,5,1294,0.11,Chhattisgarh,KORBA,4
-21,PURUSHOTTAM MANIKPURI,Independent,1212,-,1212,0.1,Chhattisgarh,KORBA,4
-22,PRIYANKA PATEL,Republican Party of India (A),1197,7,1204,0.1,Chhattisgarh,KORBA,4
-23,MAHENDRA KUMAR SHRIWAS (MANJU),Independent,1187,-,1187,0.1,Chhattisgarh,KORBA,4
-24,SHEKH RAUF,Independent,1168,-,1168,0.1,Chhattisgarh,KORBA,4
-25,SHIVPUJAN SINGH,Independent,1036,-,1036,0.08,Chhattisgarh,KORBA,4
-26,SHANTI BAI MARAVI,Independent,858,3,861,0.07,Chhattisgarh,KORBA,4
-27,RAMESH DAS MAHANT,Independent,823,-,823,0.07,Chhattisgarh,KORBA,4
-28,NOTA,None of the Above,6076,21,6097,0.5,Chhattisgarh,KORBA,4
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
+1,JYOTSNA CHARANDAS MAHANT,Indian National Congress,569098,1084,570182,46.53,Chhattisgarh,KORBA
+2,SAROJ PANDEY,Bharatiya Janata Party,525733,1166,526899,43.0,Chhattisgarh,KORBA
+3,SHYAM SINGH MARKAM,Gondvana Gantantra Party,48498,89,48587,3.97,Chhattisgarh,KORBA
+4,NIRDOSH  KUMAR YADAV,Independent,11267,1,11268,0.92,Chhattisgarh,KORBA
+5,DUJRAM BOUDDH,Bahujan Samaj Party,10689,50,10739,0.88,Chhattisgarh,KORBA
+6,JAICHANDRA SONPAKAR,Independent,6181,1,6182,0.5,Chhattisgarh,KORBA
+7,PALAN SINGH,Independent,5706,3,5709,0.47,Chhattisgarh,KORBA
+8,KAMAL DEV,Bhartiya Shakti Chetna Party,4985,3,4988,0.41,Chhattisgarh,KORBA
+9,DILIP MIRI,Independent,3897,5,3902,0.32,Chhattisgarh,KORBA
+10,KAUSHALYA BAI PORTE,Independent,3630,2,3632,0.3,Chhattisgarh,KORBA
+11,PRATAP BHANU,Independent,2500,4,2504,0.2,Chhattisgarh,KORBA
+12,SANTOSH SHARMA,Independent,2475,2,2477,0.2,Chhattisgarh,KORBA
+13,AMRIKA KARPE,Independent,2227,5,2232,0.18,Chhattisgarh,KORBA
+14,RAJGURU KEWAL GOSWAMI,Independent,2202,-,2202,0.18,Chhattisgarh,KORBA
+15,SHOBRAN SINGH SAIMA,Independent,2072,1,2073,0.17,Chhattisgarh,KORBA
+16,KALYAN SINGH TANWAR,Independent,1960,4,1964,0.16,Chhattisgarh,KORBA
+17,RAJESH PANDEY,Independent,1814,-,1814,0.15,Chhattisgarh,KORBA
+18,SUSHIL KUMAR VISHWAKARMA,Bhartiya Janta Secular Party,1684,1,1685,0.14,Chhattisgarh,KORBA
+19,PRASHANT DANIEL,Sarv Adi Dal,1369,23,1392,0.11,Chhattisgarh,KORBA
+20,REKHA TIWARI,Chhattisgarh Vikas Ganga Rashtriya Party,1289,5,1294,0.11,Chhattisgarh,KORBA
+21,PURUSHOTTAM MANIKPURI,Independent,1212,-,1212,0.1,Chhattisgarh,KORBA
+22,PRIYANKA PATEL,Republican Party of India (A),1197,7,1204,0.1,Chhattisgarh,KORBA
+23,MAHENDRA KUMAR SHRIWAS (MANJU),Independent,1187,-,1187,0.1,Chhattisgarh,KORBA
+24,SHEKH RAUF,Independent,1168,-,1168,0.1,Chhattisgarh,KORBA
+25,SHIVPUJAN SINGH,Independent,1036,-,1036,0.08,Chhattisgarh,KORBA
+26,SHANTI BAI MARAVI,Independent,858,3,861,0.07,Chhattisgarh,KORBA
+27,RAMESH DAS MAHANT,Independent,823,-,823,0.07,Chhattisgarh,KORBA
+28,NOTA,None of the Above,6076,21,6097,0.5,Chhattisgarh,KORBA

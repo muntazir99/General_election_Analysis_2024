@@ -1,28 +1,28 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
-1,KALYAN VAIJINATHRAO KALE,Indian National Congress,605504,2393,607897,44.59,Maharashtra,Jalna,18
-2,DANVE RAOSAHEB DADARAO,Bharatiya Janata Party,495809,2130,497939,36.52,Maharashtra,Jalna,18
-3,MANGESH SANJAY SABLE,Independent,155335,595,155930,11.44,Maharashtra,Jalna,18
-4,BAKALE PRABHAKAR DEVGAN,Vanchit Bahujan  Aaghadi,37678,132,37810,2.77,Maharashtra,Jalna,18
-5,BABASAHEB SANTUKRAO SHELKE,Samata Party,9564,6,9570,0.7,Maharashtra,Jalna,18
-6,CHABUKSWAR RAHUL NIRANJAN,Independent,6330,7,6337,0.46,Maharashtra,Jalna,18
-7,NIVRUTTI VISHWNATH BANSODE,Bahujan Samaj Party,5974,34,6008,0.44,Maharashtra,Jalna,18
-8,DIPAK BHIMRAO BORHADE,Samnak Janta Party,5498,24,5522,0.41,Maharashtra,Jalna,18
-9,TANAJI TUKARAM BHOJANE,Independent,4933,15,4948,0.36,Maharashtra,Jalna,18
-10,KAMBLE MAROTI DASHARATH,Independent,3712,16,3728,0.27,Maharashtra,Jalna,18
-11,RAJENDRA NAMDEO MAGRE,Independent,2873,2,2875,0.21,Maharashtra,Jalna,18
-12,MANOJ NEMINATH KOLTE,Independent,2734,3,2737,0.2,Maharashtra,Jalna,18
-13,MUKESH PRABHAT RATHOD,Akhil Bhartiya Parivar Party,2580,11,2591,0.19,Maharashtra,Jalna,18
-14,BABASAHEB PATIL SHINDE,Independent,2413,4,2417,0.18,Maharashtra,Jalna,18
-15,KADUBA MHATARBA INGLE,Independent,1962,5,1967,0.14,Maharashtra,Jalna,18
-16,AJHAR ANWAR SAYYAD,Independent,1541,5,1546,0.11,Maharashtra,Jalna,18
-17,AHMAD RAHIM SAIKH BAGWAN,Independent,1390,4,1394,0.1,Maharashtra,Jalna,18
-18,ADV. YOGESH DATTU GULLAPELLI,Independent,1339,3,1342,0.1,Maharashtra,Jalna,18
-19,BHAGWAN SAHEBRAO REGUDE,Hindustan Janta Party,1173,1,1174,0.09,Maharashtra,Jalna,18
-20,DNYANESHWAR DAGDUJI NADE,Independent,1142,1,1143,0.08,Maharashtra,Jalna,18
-21,DHANANJAY RUPRAOJI KAKDE (PATIL),Bharatheeya Jawan Kisan Party,1132,7,1139,0.08,Maharashtra,Jalna,18
-22,ABDUL RAFIQ ABDUL LATIF,Independent,1045,2,1047,0.08,Maharashtra,Jalna,18
-23,SHYAM RUSTUMRAO SHIRSATH,Bahujan Republican  Socialist Party,972,2,974,0.07,Maharashtra,Jalna,18
-24,RATAN ASARAM LANDGE,Independent,646,1,647,0.05,Maharashtra,Jalna,18
-25,VIKAS CHHAGAN LAHANE,Independent,644,-,644,0.05,Maharashtra,Jalna,18
-26,SHAM PAWALS RUPEKAR,Independent,544,2,546,0.04,Maharashtra,Jalna,18
-27,NOTA,None of the Above,3504,33,3537,0.26,Maharashtra,Jalna,18
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
+1,KALYAN VAIJINATHRAO KALE,Indian National Congress,605504,2393,607897,44.59,Maharashtra,Jalna
+2,DANVE RAOSAHEB DADARAO,Bharatiya Janata Party,495809,2130,497939,36.52,Maharashtra,Jalna
+3,MANGESH SANJAY SABLE,Independent,155335,595,155930,11.44,Maharashtra,Jalna
+4,BAKALE PRABHAKAR DEVGAN,Vanchit Bahujan  Aaghadi,37678,132,37810,2.77,Maharashtra,Jalna
+5,BABASAHEB SANTUKRAO SHELKE,Samata Party,9564,6,9570,0.7,Maharashtra,Jalna
+6,CHABUKSWAR RAHUL NIRANJAN,Independent,6330,7,6337,0.46,Maharashtra,Jalna
+7,NIVRUTTI VISHWNATH BANSODE,Bahujan Samaj Party,5974,34,6008,0.44,Maharashtra,Jalna
+8,DIPAK BHIMRAO BORHADE,Samnak Janta Party,5498,24,5522,0.41,Maharashtra,Jalna
+9,TANAJI TUKARAM BHOJANE,Independent,4933,15,4948,0.36,Maharashtra,Jalna
+10,KAMBLE MAROTI DASHARATH,Independent,3712,16,3728,0.27,Maharashtra,Jalna
+11,RAJENDRA NAMDEO MAGRE,Independent,2873,2,2875,0.21,Maharashtra,Jalna
+12,MANOJ NEMINATH KOLTE,Independent,2734,3,2737,0.2,Maharashtra,Jalna
+13,MUKESH PRABHAT RATHOD,Akhil Bhartiya Parivar Party,2580,11,2591,0.19,Maharashtra,Jalna
+14,BABASAHEB PATIL SHINDE,Independent,2413,4,2417,0.18,Maharashtra,Jalna
+15,KADUBA MHATARBA INGLE,Independent,1962,5,1967,0.14,Maharashtra,Jalna
+16,AJHAR ANWAR SAYYAD,Independent,1541,5,1546,0.11,Maharashtra,Jalna
+17,AHMAD RAHIM SAIKH BAGWAN,Independent,1390,4,1394,0.1,Maharashtra,Jalna
+18,ADV. YOGESH DATTU GULLAPELLI,Independent,1339,3,1342,0.1,Maharashtra,Jalna
+19,BHAGWAN SAHEBRAO REGUDE,Hindustan Janta Party,1173,1,1174,0.09,Maharashtra,Jalna
+20,DNYANESHWAR DAGDUJI NADE,Independent,1142,1,1143,0.08,Maharashtra,Jalna
+21,DHANANJAY RUPRAOJI KAKDE (PATIL),Bharatheeya Jawan Kisan Party,1132,7,1139,0.08,Maharashtra,Jalna
+22,ABDUL RAFIQ ABDUL LATIF,Independent,1045,2,1047,0.08,Maharashtra,Jalna
+23,SHYAM RUSTUMRAO SHIRSATH,Bahujan Republican  Socialist Party,972,2,974,0.07,Maharashtra,Jalna
+24,RATAN ASARAM LANDGE,Independent,646,1,647,0.05,Maharashtra,Jalna
+25,VIKAS CHHAGAN LAHANE,Independent,644,-,644,0.05,Maharashtra,Jalna
+26,SHAM PAWALS RUPEKAR,Independent,544,2,546,0.04,Maharashtra,Jalna
+27,NOTA,None of the Above,3504,33,3537,0.26,Maharashtra,Jalna

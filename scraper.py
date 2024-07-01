@@ -75,3 +75,4 @@ for state in states:
             writer = csv.writer(csvfile)
             writer.writerow(headers)
             writer.writerows(data)
+

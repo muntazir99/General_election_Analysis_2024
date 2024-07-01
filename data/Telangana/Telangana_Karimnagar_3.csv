@@ -1,30 +1,30 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
-1,BANDI SANJAY KUMAR,Bharatiya Janata Party,578827,6289,585116,44.57,Telangana,Karimnagar,3
-2,VELCHALA RAJENDER RAO,Indian National Congress,357446,2461,359907,27.41,Telangana,Karimnagar,3
-3,VINOD KUMAR BOIANAPALLI,Bharat Rashtra Samithi,280867,1296,282163,21.49,Telangana,Karimnagar,3
-4,ABBADI BUCHI REDDY,Independent,11602,10,11612,0.88,Telangana,Karimnagar,3
-5,ARUNA THALLAPALLY,Alliance of Democratic Reforms Party,9043,21,9064,0.69,Telangana,Karimnagar,3
-6,KOTA SHYAM KUMAR,Independent,8744,12,8756,0.67,Telangana,Karimnagar,3
-7,ANOSE KATKOORI,Independent,8699,7,8706,0.66,Telangana,Karimnagar,3
-8,MAREPALLI MOGILAIAH,Bahujan Samaj Party,8010,99,8109,0.62,Telangana,Karimnagar,3
-9,RAJENDER POTHURI,Independent,3250,7,3257,0.25,Telangana,Karimnagar,3
-10,SRAVAN PEDDAPELLY,Bharathiya YuvaKula Dalam,3068,6,3074,0.23,Telangana,Karimnagar,3
-11,GADDA SATHISH,Independent,2936,9,2945,0.22,Telangana,Karimnagar,3
-12,ANILREDDY KADTHALA,National Nava Kranthi Party,2747,7,2754,0.21,Telangana,Karimnagar,3
-13,CHILUVERU SRIKANTH,Dharma Samaj Party,2553,33,2586,0.2,Telangana,Karimnagar,3
-14,AKSHAY KUMAR MEKALA,Independent,2219,5,2224,0.17,Telangana,Karimnagar,3
-15,JOURNALIST VIKRAM REDDY VEMULAA,Independent,2090,6,2096,0.16,Telangana,Karimnagar,3
-16,ASHOK PANCHIKA,Social Justice Party of India,1914,10,1924,0.15,Telangana,Karimnagar,3
-17,GAVVALA LAXMI,Independent,1738,6,1744,0.13,Telangana,Karimnagar,3
-18,GATTAIAH YADAV BARIGE,Independent,1688,6,1694,0.13,Telangana,Karimnagar,3
-19,RANAPRATAP GATTU,Socialist Party (India),1606,7,1613,0.12,Telangana,Karimnagar,3
-20,GUDISHE  MOHAN,Independent,1471,3,1474,0.11,Telangana,Karimnagar,3
-21,MANASA PERALA,Independent,1106,19,1125,0.09,Telangana,Karimnagar,3
-22,PODISHETTI SAMMAIAH,Bahujan Mukti Party,994,-,994,0.08,Telangana,Karimnagar,3
-23,VENKATANARSAIAH DYAGALA @ DEGALA,Independent,926,2,928,0.07,Telangana,Karimnagar,3
-24,SHIVARATRI SRINIVAS,Independent,887,2,889,0.07,Telangana,Karimnagar,3
-25,CHINTHA ANILKUMAR,Pyramid Party of India,823,7,830,0.06,Telangana,Karimnagar,3
-26,CHEEKOTI VARUN KUMAR GUPTA,Telugu Congress Party,783,7,790,0.06,Telangana,Karimnagar,3
-27,RAPOLE RAMKUMAR BHARADWAJ,Independent,572,3,575,0.04,Telangana,Karimnagar,3
-28,DEVUNOORI SRINIVASU,Independent,465,-,465,0.04,Telangana,Karimnagar,3
-29,NOTA,None of the Above,5373,65,5438,0.41,Telangana,Karimnagar,3
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
+1,BANDI SANJAY KUMAR,Bharatiya Janata Party,578827,6289,585116,44.57,Telangana,Karimnagar
+2,VELCHALA RAJENDER RAO,Indian National Congress,357446,2461,359907,27.41,Telangana,Karimnagar
+3,VINOD KUMAR BOIANAPALLI,Bharat Rashtra Samithi,280867,1296,282163,21.49,Telangana,Karimnagar
+4,ABBADI BUCHI REDDY,Independent,11602,10,11612,0.88,Telangana,Karimnagar
+5,ARUNA THALLAPALLY,Alliance of Democratic Reforms Party,9043,21,9064,0.69,Telangana,Karimnagar
+6,KOTA SHYAM KUMAR,Independent,8744,12,8756,0.67,Telangana,Karimnagar
+7,ANOSE KATKOORI,Independent,8699,7,8706,0.66,Telangana,Karimnagar
+8,MAREPALLI MOGILAIAH,Bahujan Samaj Party,8010,99,8109,0.62,Telangana,Karimnagar
+9,RAJENDER POTHURI,Independent,3250,7,3257,0.25,Telangana,Karimnagar
+10,SRAVAN PEDDAPELLY,Bharathiya YuvaKula Dalam,3068,6,3074,0.23,Telangana,Karimnagar
+11,GADDA SATHISH,Independent,2936,9,2945,0.22,Telangana,Karimnagar
+12,ANILREDDY KADTHALA,National Nava Kranthi Party,2747,7,2754,0.21,Telangana,Karimnagar
+13,CHILUVERU SRIKANTH,Dharma Samaj Party,2553,33,2586,0.2,Telangana,Karimnagar
+14,AKSHAY KUMAR MEKALA,Independent,2219,5,2224,0.17,Telangana,Karimnagar
+15,JOURNALIST VIKRAM REDDY VEMULAA,Independent,2090,6,2096,0.16,Telangana,Karimnagar
+16,ASHOK PANCHIKA,Social Justice Party of India,1914,10,1924,0.15,Telangana,Karimnagar
+17,GAVVALA LAXMI,Independent,1738,6,1744,0.13,Telangana,Karimnagar
+18,GATTAIAH YADAV BARIGE,Independent,1688,6,1694,0.13,Telangana,Karimnagar
+19,RANAPRATAP GATTU,Socialist Party (India),1606,7,1613,0.12,Telangana,Karimnagar
+20,GUDISHE  MOHAN,Independent,1471,3,1474,0.11,Telangana,Karimnagar
+21,MANASA PERALA,Independent,1106,19,1125,0.09,Telangana,Karimnagar
+22,PODISHETTI SAMMAIAH,Bahujan Mukti Party,994,-,994,0.08,Telangana,Karimnagar
+23,VENKATANARSAIAH DYAGALA @ DEGALA,Independent,926,2,928,0.07,Telangana,Karimnagar
+24,SHIVARATRI SRINIVAS,Independent,887,2,889,0.07,Telangana,Karimnagar
+25,CHINTHA ANILKUMAR,Pyramid Party of India,823,7,830,0.06,Telangana,Karimnagar
+26,CHEEKOTI VARUN KUMAR GUPTA,Telugu Congress Party,783,7,790,0.06,Telangana,Karimnagar
+27,RAPOLE RAMKUMAR BHARADWAJ,Independent,572,3,575,0.04,Telangana,Karimnagar
+28,DEVUNOORI SRINIVASU,Independent,465,-,465,0.04,Telangana,Karimnagar
+29,NOTA,None of the Above,5373,65,5438,0.41,Telangana,Karimnagar

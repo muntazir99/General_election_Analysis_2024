@@ -1,31 +1,31 @@
-S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name,Constituency code
-1,ARVIND DHARMAPURI,Bharatiya Janata Party,588244,4074,592318,48.02,Telangana,Nizamabad,4
-2,JEEVANREDDY THATIPARTHI,Indian National Congress,480501,2576,483077,39.16,Telangana,Nizamabad,4
-3,GOVERDHAN BAJIREDDY,Bharat Rashtra Samithi,101929,477,102406,8.3,Telangana,Nizamabad,4
-4,GANTA CHARITHA RAO,Independent,5707,3,5710,0.46,Telangana,Nizamabad,4
-5,YOUGENDAR GATLA,Alliance of Democratic Reforms Party,5439,14,5453,0.44,Telangana,Nizamabad,4
-6,KOTAGIRI SRINIVAS,Independent,5308,4,5312,0.43,Telangana,Nizamabad,4
-7,PUPPALA LIMBADRI,Bahujan Samaj Party,4220,43,4263,0.35,Telangana,Nizamabad,4
-8,TUTUKURU JEEVAN REDDY,Independent,4085,6,4091,0.33,Telangana,Nizamabad,4
-9,KANDELA SUMAN,Dharma Samaj Party,3842,44,3886,0.32,Telangana,Nizamabad,4
-10,GOLI. NARESH,Dalita Bahujana Party,3017,7,3024,0.25,Telangana,Nizamabad,4
-11,ARE RAJENDHAR,Independent,2906,1,2907,0.24,Telangana,Nizamabad,4
-12,KOTHAKONDA SHAKTI PRASAD,Independent,2103,3,2106,0.17,Telangana,Nizamabad,4
-13,VEMULAA VIKRAM REDDY,Independent,2073,1,2074,0.17,Telangana,Nizamabad,4
-14,GOPI CHENDRIAH,Independent,1721,2,1723,0.14,Telangana,Nizamabad,4
-15,ALI MANSOOR,Anna YSR Congress Party,1454,14,1468,0.12,Telangana,Nizamabad,4
-16,GUYYA SAIKRISHNA MURTHY,Yuga Thulasi Party,1123,6,1129,0.09,Telangana,Nizamabad,4
-17,SYED ASGAR,Independent,1046,2,1048,0.08,Telangana,Nizamabad,4
-18,MALAVAT VITHAL,Independent,919,-,919,0.07,Telangana,Nizamabad,4
-19,MOGILI RAJKUMAR,India Praja Bandhu Party,825,5,830,0.07,Telangana,Nizamabad,4
-20,RAPELLY SRINIVAS,Independent,791,2,793,0.06,Telangana,Nizamabad,4
-21,DESHABOINA LAXMINARAYANA,Independent,723,-,723,0.06,Telangana,Nizamabad,4
-22,ABBAGONI ASHOK GOUD,Bahujana Left Party,641,8,649,0.05,Telangana,Nizamabad,4
-23,DEVATHI SRINIVAS,Bahujan Mukti Party,624,12,636,0.05,Telangana,Nizamabad,4
-24,B B NAIK,Independent,581,-,581,0.05,Telangana,Nizamabad,4
-25,BHUKYA. NANDU,Vidhyarthula Rajakiya Party,574,6,580,0.05,Telangana,Nizamabad,4
-26,RAPALLY SATYANARAYANA,Independent,425,1,426,0.03,Telangana,Nizamabad,4
-27,RAGI ANIL,Independent,367,8,375,0.03,Telangana,Nizamabad,4
-28,PALAMURI SAI NIKHIL,Independent,303,4,307,0.02,Telangana,Nizamabad,4
-29,PRASHANTH KATRAJI,Independent,284,-,284,0.02,Telangana,Nizamabad,4
-30,NOTA,None of the Above,4440,43,4483,0.36,Telangana,Nizamabad,4
+S.N.,Candidate,Party,EVM Votes,Postal Votes,Total Votes,% of Votes,State,Constituency Name
+1,ARVIND DHARMAPURI,Bharatiya Janata Party,588244,4074,592318,48.02,Telangana,Nizamabad
+2,JEEVANREDDY THATIPARTHI,Indian National Congress,480501,2576,483077,39.16,Telangana,Nizamabad
+3,GOVERDHAN BAJIREDDY,Bharat Rashtra Samithi,101929,477,102406,8.3,Telangana,Nizamabad
+4,GANTA CHARITHA RAO,Independent,5707,3,5710,0.46,Telangana,Nizamabad
+5,YOUGENDAR GATLA,Alliance of Democratic Reforms Party,5439,14,5453,0.44,Telangana,Nizamabad
+6,KOTAGIRI SRINIVAS,Independent,5308,4,5312,0.43,Telangana,Nizamabad
+7,PUPPALA LIMBADRI,Bahujan Samaj Party,4220,43,4263,0.35,Telangana,Nizamabad
+8,TUTUKURU JEEVAN REDDY,Independent,4085,6,4091,0.33,Telangana,Nizamabad
+9,KANDELA SUMAN,Dharma Samaj Party,3842,44,3886,0.32,Telangana,Nizamabad
+10,GOLI. NARESH,Dalita Bahujana Party,3017,7,3024,0.25,Telangana,Nizamabad
+11,ARE RAJENDHAR,Independent,2906,1,2907,0.24,Telangana,Nizamabad
+12,KOTHAKONDA SHAKTI PRASAD,Independent,2103,3,2106,0.17,Telangana,Nizamabad
+13,VEMULAA VIKRAM REDDY,Independent,2073,1,2074,0.17,Telangana,Nizamabad
+14,GOPI CHENDRIAH,Independent,1721,2,1723,0.14,Telangana,Nizamabad
+15,ALI MANSOOR,Anna YSR Congress Party,1454,14,1468,0.12,Telangana,Nizamabad
+16,GUYYA SAIKRISHNA MURTHY,Yuga Thulasi Party,1123,6,1129,0.09,Telangana,Nizamabad
+17,SYED ASGAR,Independent,1046,2,1048,0.08,Telangana,Nizamabad
+18,MALAVAT VITHAL,Independent,919,-,919,0.07,Telangana,Nizamabad
+19,MOGILI RAJKUMAR,India Praja Bandhu Party,825,5,830,0.07,Telangana,Nizamabad
+20,RAPELLY SRINIVAS,Independent,791,2,793,0.06,Telangana,Nizamabad
+21,DESHABOINA LAXMINARAYANA,Independent,723,-,723,0.06,Telangana,Nizamabad
+22,ABBAGONI ASHOK GOUD,Bahujana Left Party,641,8,649,0.05,Telangana,Nizamabad
+23,DEVATHI SRINIVAS,Bahujan Mukti Party,624,12,636,0.05,Telangana,Nizamabad
+24,B B NAIK,Independent,581,-,581,0.05,Telangana,Nizamabad
+25,BHUKYA. NANDU,Vidhyarthula Rajakiya Party,574,6,580,0.05,Telangana,Nizamabad
+26,RAPALLY SATYANARAYANA,Independent,425,1,426,0.03,Telangana,Nizamabad
+27,RAGI ANIL,Independent,367,8,375,0.03,Telangana,Nizamabad
+28,PALAMURI SAI NIKHIL,Independent,303,4,307,0.02,Telangana,Nizamabad
+29,PRASHANTH KATRAJI,Independent,284,-,284,0.02,Telangana,Nizamabad
+30,NOTA,None of the Above,4440,43,4483,0.36,Telangana,Nizamabad
