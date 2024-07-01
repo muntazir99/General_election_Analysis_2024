@@ -11,27 +11,27 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
 4. analysis.ipynb : Here we are doing all the analysis possible and generating a basic report from our analysis.
 
 ## Report
-1.  Total number of candidates: 8360
+1.  Total number of candidates: 8360  
     This contain all candidate as well as NOTA as a Individual candidate from each constituency.
 
-    Total number of candidates including NOTA: 8902
+    Total number of candidates including NOTA: 8902  
     This contain all candidate as well as NOTA as a single candidate from overall country.
 
-2.  Total number of parties: 4664
+2.  Total number of parties: 4664  
     This count includes Independent candidates as a party
 
-    Total number of registered parties: 744
+    Total number of registered parties: 744  
     This count excludes Independent candidates
 
 3.  Total Votes by State/Union Territory
     ![Alt text](graphs/total_votes_by_state.png)
     we can clearly see State with most numbers of constituency gained most no. of votes.
     Top state by vote share is 
-        1. UP               87911642                                 
-        2. West Bengal      60483687 
-        3. Maharashtra      57179133 
-        4. Tamil Nadu       43674048 
-        5. Bihar            43448949 
+        1. UP               87911642                                  
+        2. West Bengal      60483687  
+        3. Maharashtra      57179133  
+        4. Tamil Nadu       43674048  
+        5. Bihar            43448949  
 
 4.  Top Parties by Voting Percentage
     ![Alt text](graphs/party_by_voteshare.png)
@@ -47,16 +47,16 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
 
 6.  Top 10 Constituencies/Candidates with Highest Winning Margins: <br>
             Constituency Name                 Winner       
-        156            Dhubri        RAKIBUL HUSSAIN  <br>  
-        220            INDORE        SHANKAR LALWANI  <br>   
-        523           VIDISHA  SHIVRAJ SINGH CHOUHAN  <br>  
-        382           Navsari              C R PATIL  <br>  
-        185       Gandhinagar              AMIT SHAH  <br> 
-        158   Diamond harbour      ABHISHEK BANERJEE  <br> 
-        511      Tripura West       BIPLAB KUMAR DEB  <br> 
-        527          Vadodara       DR. HEMANG JOSHI  <br>  
-        420            RAIPUR      BRIJMOHAN AGRAWAL  <br>  
-        501        TIRUVALLUR      Sasikanth Senthil  <br>  
+        156            Dhubri        RAKIBUL HUSSAIN    
+        220            INDORE        SHANKAR LALWANI     
+        523           VIDISHA  SHIVRAJ SINGH CHOUHAN    
+        382           Navsari              C R PATIL    
+        185       Gandhinagar              AMIT SHAH   
+        158   Diamond harbour      ABHISHEK BANERJEE   
+        511      Tripura West       BIPLAB KUMAR DEB   
+        527          Vadodara       DR. HEMANG JOSHI    
+        420            RAIPUR      BRIJMOHAN AGRAWAL    
+        501        TIRUVALLUR      Sasikanth Senthil    
     
     ![Alt text](graphs/highest_winningmarg.png)
 
