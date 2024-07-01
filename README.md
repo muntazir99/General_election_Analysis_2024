@@ -45,15 +45,15 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
 5.  Here is the top candidate by vote share from each state.
     ![Alt text](graphs/highest_vote_gainer_state.png)
 
-6.  Top 10 Constituencies/Candidates with Highest Winning Margins:
+6.  Top 10 Constituencies/Candidates with Highest Winning Margins: <br>
             Constituency Name                 Winner       
-        156            Dhubri        RAKIBUL HUSSAIN <br>  
-        220            INDORE        SHANKAR LALWANI <br>   
+        156            Dhubri        RAKIBUL HUSSAIN  <br>  
+        220            INDORE        SHANKAR LALWANI  <br>   
         523           VIDISHA  SHIVRAJ SINGH CHOUHAN  <br>  
         382           Navsari              C R PATIL  <br>  
-        185       Gandhinagar              AMIT SHAH   <br> 
-        158   Diamond harbour      ABHISHEK BANERJEE   <br> 
-        511      Tripura West       BIPLAB KUMAR DEB   <br> 
+        185       Gandhinagar              AMIT SHAH  <br> 
+        158   Diamond harbour      ABHISHEK BANERJEE  <br> 
+        511      Tripura West       BIPLAB KUMAR DEB  <br> 
         527          Vadodara       DR. HEMANG JOSHI  <br>  
         420            RAIPUR      BRIJMOHAN AGRAWAL  <br>  
         501        TIRUVALLUR      Sasikanth Senthil  <br>  
