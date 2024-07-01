@@ -64,3 +64,5 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
     ![Alt text](graphs/highest_voteper.png)
 
 
+7. Closet/Minimum Win Margin by candidate and constituency
+    ![Alt text](graphs/least_margin.png)
