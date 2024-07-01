@@ -25,4 +25,22 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
 
 2.  Total Votes by State/Union Territory
     ![Alt text](graphs/total_votes_by_state.png)
+    we can clearly see State with most numbers of constituency gained most no. of votes.
+    Top state by vote share is 
+        1. UP               87911642                                
+        2. West Bengal      60483687
+        3. Maharashtra      57179133
+        4. Tamil Nadu       43674048
+        5. Bihar            43448949
+
+3.  Top Parties by Voting Percentage
+    ![Alt text](graphs/party_by_voteshare.png)
+    We can see that top parties are:
+    BJP
+    INC
+    SP
+    AITC
+    YSRCP
+
+4.  
 
