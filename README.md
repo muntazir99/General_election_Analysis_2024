@@ -42,5 +42,25 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
     AITC
     YSRCP
 
-4.  
+4.  Here is the top candidate by vote share from each state.
+    ![Alt text](graphs/highest_vote_gainer_state.png)
+
+5.  Top 10 Constituencies/Candidates with Highest Winning Margins:
+            Constituency Name                 Winner       
+        156            Dhubri        RAKIBUL HUSSAIN   
+        220            INDORE        SHANKAR LALWANI   
+        523           VIDISHA  SHIVRAJ SINGH CHOUHAN   
+        382           Navsari              C R PATIL   
+        185       Gandhinagar              AMIT SHAH   
+        158   Diamond harbour      ABHISHEK BANERJEE   
+        511      Tripura West       BIPLAB KUMAR DEB   
+        527          Vadodara       DR. HEMANG JOSHI   
+        420            RAIPUR      BRIJMOHAN AGRAWAL   
+        501        TIRUVALLUR      Sasikanth Senthil   
+    
+    ![Alt text](graphs/highest_winningmarg.png)
+
+6.  Top candidates by voting percentage and parties distribution of top 10 candidate
+    ![Alt text](graphs/highest_voteper.png)
+
 
