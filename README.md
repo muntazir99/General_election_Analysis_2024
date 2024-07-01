@@ -36,11 +36,11 @@ Here We are scrapping the data from the ECI website using BeautifulSoup, this re
 4.  Top Parties by Voting Percentage
     ![Alt text](graphs/party_by_voteshare.png)
     We can see that top parties are:
-    BJP
-    INC
-    SP
-    AITC
-    YSRCP
+    BJP  
+    INC  
+    SP  
+    AITC  
+    YSRCP  
 
 5.  Here is the top candidate by vote share from each state.
     ![Alt text](graphs/highest_vote_gainer_state.png)
